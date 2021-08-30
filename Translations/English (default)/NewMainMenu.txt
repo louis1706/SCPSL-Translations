@@ -90,3 +90,4 @@ Flash Taskbar On Spawn
 Ambient Occlusion
 Volumetric Lights
 Bloom
+Toggle Subtitles
