@@ -1,4 +1,4 @@
-MTF have spawned.
+MTF have arrived.
 Scp {0} successfully contained.
 {0} out of {1} generators activated.
 All generators engaged.
