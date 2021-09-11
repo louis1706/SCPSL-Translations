@@ -1,14 +1,29 @@
-MTF have arrived.
-Scp {0} successfully contained.
+Mobile Task Force Unit, Epsilon-11 has entered the facility. All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination
+. Awaiting re-containment of: {0} SCP subjects.
+. Awaiting re-containment of: 1 SCP subject.
+, substantial threat to safety remains within the facility -- exercise caution.
+SCP-{0}
+successfully terminated by Automatic Security System.
+lost in Decontamination Sequence.
+successfully terminated by Alpha Warhead.
+contained successfully by
+Science Personnel.
+Class-D Personnel.
+Chaos Insurgency.
+Mobile Task Force Epsilon-11.
+contained successfully by generator recontainment sequence.
+successfully terminated, termination cause unspecified.
+successfully terminated, containment unit unknown.
 {0} out of {1} generators activated.
-All generators engaged.
+All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
 Facility is back in operational mode.
-ATTENTION ALL PERSONNEL. The Light Containment Zone Decontamination Process will occur in 15 minutes. All biological substances must be removed in order to avoid destruction.
-DANGER. Light Containment Zone overall decontamination in t-10 minutes.
-DANGER. Light Containment Zone overall decontamination in t-5 minutes.
-DANGER. Light Containment Zone overall decontamination in t-1 minute.
-DANGER. Light Containment Zone overall decontamination in t-30 seconds. All checkpoint doors have been permanently opened. Please evacuate immediately.
+Attention, all personnel. The Light Containment Zone decontamination process will occur in T-15 minutes. All biological substances must be removed in order to avoid destruction.
+Danger, Light Containment Zone overall decontamination in T-
+{0} minutes.
+1 minute.
+30 seconds. All checkpoint doors have been permanently opened. Please evacuate immediately.
 Light Containment Zone is locked down and ready for decontamination. The removal of organic substances has now begun.
 ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED. THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-{0} SECONDS.
 DETONATION CANCELLED. RESTARTING SYSTEMS.
+DETONATION SEQUENCE RESUMED, T-{0} SECONDS.
