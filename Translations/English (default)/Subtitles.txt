@@ -11,7 +11,7 @@ Science Personnel.
 Class-D Personnel.
 Chaos Insurgency.
 Mobile Task Force Epsilon-11.
-contained successfully by generator recontainment sequence.
+contained successfully.
 successfully terminated, termination cause unspecified.
 contained successfully, containment unit unknown.
 {0} out of {1} generators activated.
