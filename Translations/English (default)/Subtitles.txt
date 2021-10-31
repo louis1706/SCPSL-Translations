@@ -13,7 +13,7 @@ Chaos Insurgency.
 Mobile Task Force Epsilon-11.
 contained successfully by generator recontainment sequence.
 successfully terminated, termination cause unspecified.
-successfully terminated, containment unit unknown.
+contained successfully, containment unit unknown.
 {0} out of {1} generators activated.
 All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
