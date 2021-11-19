@@ -3,17 +3,18 @@ Mobile Task Force Unit Epsilon-11 designated [info] has entered the facility. Al
 . Awaiting re-containment of: 1 SCP subject.
 , substantial threat to safety remains within the facility -- exercise caution.
 SCP-[info]
-successfully terminated by Automatic Security System.
-lost in Decontamination Sequence.
-successfully terminated by Alpha Warhead.
-contained successfully by
+successfully terminated.
+Termination cause unspecified.
+successfully terminated by
+Automatic Security System.
+Alpha Warhead.
 Science Personnel.
 Class-D Personnel.
 Chaos Insurgency.
-Containment Unit [info].
+lost in Decontamination Sequence.
 contained successfully.
-successfully terminated, termination cause unspecified.
-contained successfully, containment unit unknown.
+Containment unit unknown.
+Containment Unit [info].
 [info] out of [info] generators activated.
 All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
