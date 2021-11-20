@@ -1,7 +1,7 @@
-Mobile Task Force Unit Epsilon-11 designated [info] has entered the facility. All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination
-. Awaiting re-containment of: [info] SCP subjects.
-. Awaiting re-containment of: 1 SCP subject.
-, substantial threat to safety remains within the facility -- exercise caution.
+Mobile Task Force Unit Epsilon-11 designated [info] has entered the facility. All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.
+Awaiting re-containment of: [info] SCP subjects.
+Awaiting re-containment of: 1 SCP subject.
+Substantial threat to safety remains within the facility -- exercise caution.
 SCP-[info]
 successfully terminated.
 Termination cause unspecified.
