@@ -6,9 +6,9 @@ successfully terminated. Termination cause unspecified.
 terminated by SCP-<designation>.
 successfully terminated by Automatic Security System.
 successfully terminated by Alpha Warhead.
-successfully contained by Science Personnel.
-successfully contained by Class-D Personnel.
-successfully contained by Chaos Insurgency.
+contained successfully by Science Personnel.
+contained successfully by Class-D Personnel.
+contained successfully by Chaos Insurgency.
 SCP-<designation>
 Contained successfully. Containment unit unknown.
 Contained successfully. Containment Unit <designation>.
