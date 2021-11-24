@@ -3,28 +3,24 @@ Awaiting re-containment of: <translatednumber> SCP subjects.
 Awaiting re-containment of: 1 SCP subject.
 Substantial threat to safety remains within the facility -- exercise caution.
 successfully terminated. Termination cause unspecified.
-terminated by
-successfully terminated by
-contained successfully.
-contained successfully by
-Automatic Security System.
-Alpha Warhead.
-Science Personnel.
-Class-D Personnel.
-Chaos Insurgency.
+terminated by SCP-<designation>.
+successfully terminated by Automatic Security System.
+successfully terminated by Alpha Warhead.
+successfully contained by Science Personnel.
+successfully contained by Class-D Personnel.
+successfully contained by Chaos Insurgency.
 SCP-<designation>
-Containment unit unknown.
-Containment Unit <designation>.
+Contained successfully. Containment unit unknown.
+Contained successfully. Containment Unit <designation>.
 lost in Decontamination Sequence.
 <translatednumber> out of <translatednumber> generators activated.
 <split>All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
 Facility is back in operational mode.
 Attention, all personnel.<split>The Light Containment Zone decontamination process will occur in T-15 minutes.<split>All biological substances must be removed in order to avoid destruction.
-Danger, Light Containment Zone overall decontamination in T-
-<translatednumber> minutes.
-1 minute.
-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
+Danger, Light Containment Zone overall decontamination in T-<translatednumber> minutes.
+Danger, Light Containment Zone overall decontamination in T-1 minute.
+Danger, Light Containment Zone overall decontamination in T-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
 Light Containment Zone is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
 ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-<translatednumber> SECONDS.
 DETONATION CANCELLED. RESTARTING SYSTEMS.
