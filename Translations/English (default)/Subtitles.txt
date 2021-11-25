@@ -10,8 +10,8 @@ contained successfully by Science Personnel.
 contained successfully by Class-D Personnel.
 contained successfully by Chaos Insurgency.
 SCP-<designation>
-Contained successfully. Containment unit unknown.
-Contained successfully. Containment Unit <designation>.
+contained successfully. Containment unit unknown.
+contained successfully. Containment Unit <designation>.
 lost in Decontamination Sequence.
 <translatednumber> out of <translatednumber> generators activated.
 <split>All generators have been successfully engaged.
