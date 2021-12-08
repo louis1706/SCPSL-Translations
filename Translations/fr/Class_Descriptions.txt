@@ -16,3 +16,6 @@ Faites ce que l'on vous dit pour accomplir votre objectif.
 Aidez <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#FFA500FF>Menottez les Classe-D, tuez-les s'ils sont hostiles ou ignorez-les et accomplissez votre mission.</color>
 Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.
 Tuez tout le monde.\nEmpêchez tout le monde de fuir.\nCoopérez avec les autres <color=#FFFF00>SCP</color>.
+Aidez le <color=#FF8E00>personnel de Classe-D </color> à s'échapper.\nNeutralisez les autres.
+Aidez le <color=#FF8E00>personnel de Classe-D </color> à s'échapper.\nNeutralisez les autres.
+Aidez le <color=#FF8E00>personnel de Classe-D </color> à s'échapper.\nNeutralisez les autres.
