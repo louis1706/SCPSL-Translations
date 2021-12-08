@@ -18,3 +18,13 @@
 <size=25>Chat Vocal Alt</size>
 <size=25>Noclip</size>
 <size=25>Console</size>
+<size=25>Raccourci Carte</size>
+<size=25>Inspecter</size>
+<size=25>Armer le Revolver</size>
+<size=25>Jeter un Objet</size>
+<size=25>Raccourci Arme Principale</size>
+<size=25>Raccourci Arme Secondaire</size>
+<size=25>Raccourci Soin</size>
+<size=25>Masquer l'Interface</size>
+<size=25>Brouillard en Noclip</size>
+<size=25>Raccourci Grenade</size>
