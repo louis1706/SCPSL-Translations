@@ -15,5 +15,5 @@ Temps d'équipement
 Temps de rechargement
 ---
 Vitesse de visée
-Étalement du motif
+Dispersion du plomb
 Uniformité du motif
