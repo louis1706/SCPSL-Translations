@@ -5,7 +5,7 @@ SETTINGS
 BASED ON <i>SCP: CONTAINMENT BREACH</i>
 BACK
 LANGUAGE
-Smoothes lines and removes visual distortions
+ANTIALIASING
 Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
 JOIN GAME
 POST\nPROCESSING
@@ -23,7 +23,7 @@ SHADOWS
 CREATE GAME
 Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
 Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
-Synchronizes the frame rate of a game with a gaming monitor's refresh rate
+V-SYNC
 CONNECT
 QUALITY SETTINGS
 Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
@@ -55,7 +55,7 @@ DOWNLOADING DATA
 NO SERVERS AVAILABLE
 PRESS ESC TO CLOSE / CANCEL
 KEY BINDING
-Projected textures such as bullet holes or blood splatter
+MAX BLOOD AMOUNT
 FPS Limit
 FPS Limit does not work when vSync is enabled!
 Set Default
@@ -94,3 +94,5 @@ Gives the environment more depth at a high performance cost
 Gives lighting more depth by applying a glow based on the light intensity
 Toggle to show subtitles for cassie announcements
 Flashes the taskbar when you spawn while the game is not in focus
+Synchronizes the frame rate of a game with a gaming monitor's refresh rate.
+Projected textures such as bullet holes or blood splatter.
