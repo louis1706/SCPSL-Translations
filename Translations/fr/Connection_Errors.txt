@@ -2,7 +2,7 @@
 <size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.\n(Vérifiez si l'IP est bien marquée et qu'il n'y ait pas d'espace en trop)
 <size=80>DÉCONNECTÉ</size>\nL'identifiant de connexion spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
-<size=80>DÉCONNECTÉ</size>\nLe serveur est plein.\nVeuillez réessayer dans un instant.
+<size=80>DÉCONNECTÉ</size>\nLe serveur est plein.\nVeuillez réessayer ultérieurement.
 <size=80>DÉCONNECTÉ</size>\nMauvais paquet reçu.\nVeuillez réessayer.
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
 <size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
