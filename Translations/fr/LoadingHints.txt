@@ -1,21 +1,24 @@
-You can disarm a player by interacting with them while holding a firearm.
-There are four main zones in the Facility: Light Containment, Heavy Containment, Entrance, and Surface.
-Scientists and Class-D must reach the surface to escape.
-The entrance zone has two gates, that provide access to the surface. You'll need a keycard to open them.
-Using an elevator is a quick and easy way to escape most SCPs.
-Escaped Class-D join the Chaos Insurgency, while escaped Scientists become MTF.
-Adrenaline can be used to instantly refresh your stamina and gives you advantage in combat.
-Radios have four range settings. The longer the range, the faster the battery drains.
-Mobile Task Force units and Chaos Insurgents arrive at opposite ends of the Surface Zone.
-The Alpha Warhead kills anything inside the Facility when it detonates. It can be activated from the Surface Zone.
-The Alpha Warhead detonation sequence can be canceled from its room in Heavy Containment.
-The Intercom room in the Entrance Zone can be used to broadcast a voice message to all players.
-You can throw items ("T" by default). This can be used to open keycard doors from a distance or to break glass.
-The Light Containment zone will lock down after 15 minutes; killing anyone left inside. Escape while you can!
-Maximize your advantage by adjusting your weapon attachments based on the situation you find yourself in.
-The more attachments a weapon has on it, the heavier it gets. This affects stamina usage and movement speed.
-Not only do suppressors muffle gunshots, they also hide muzzle flashes.
-Longer and heavier weapons are less accurate if fired while running.
+Vous pouvez désarmer un joueur en interagissant avec lui tout en tenant une arme à feu.
+Il y a quatre zones principales dans la Fondation :  Confinement Léger, Confinement Lourd, l'Entrée, et la Surface.
+Les Scientifiques et les Classe-D doivent atteindre la surface pour s'échapper.
+La Zone d'Entrée possède deux portes permettant l'accès à la surface. Vous aurez besoin d'une carte pour les ouvrir.
+Utiliser un ascenseur est un moyen rapide et facile d'échapper à la plupart des SCP.
+Les classe-D rejoignent l'Insurrection du Chaos, tandis que les scientifiques évadés deviennent MTF.
+L'adrénaline peut être utilisée pour regagner instantanément votre endurance et vous donne un avantage au combat.
+Les radios ont quatre réglages de portée. Plus la portée est longue, plus la batterie se décharge rapidement.
+Les unités de la Force d'Intervention Mobile et les Insurgés du Chaos arrivent aux extrémités opposées de la Zone de Surface.
+L'Ogive Alpha tue tout ce qui se trouve à l'intérieur de la Fondation lorsqu'elle explose. Elle peut être activée depuis la surface.
+La détonation de l'Ogive Alpha peut être annulée depuis sa chambre dans la Zone de Confinement Lourd.
+L'Intercom dans la Zone d'Entrée peut être utilisé pour diffuser un message vocal à tous les joueurs.
+Vous pouvez jeter des objets ("T" par défaut). Cela peut être utilisé avec une carte pour ouvrir les portes à distance ou pour briser une vitre.
+La Zone de Confinement Léger se verrouillera après 15 minutes, tuant toute personne restée à l'intérieur. Évadez-vous tant que vous le pouvez !
+Maximisez vos chances en ajustant vos accessoires d'armes en fonction de la situation dans laquelle vous vous trouvez.
+Plus une arme a d'accessoires, plus elle devient lourde. Cela affecte l'endurance et la vitesse de déplacement.
+En plus d'étouffer les coups de feu, les suppresseurs masquent les flashs du canon.
+Les armes plus longues et plus lourdes sont moins précises si elles sont utilisées en courant.
+Porter un gilet pare-balles augmente le nombre d'objets et de munitions que vous pouvez transporter.
+Les balles perforantes (AP) fonctionnent mieux contre des cibles dotées d'une armure.
+
 Wearing body armor increases the number of items and ammo you can carry.
 Armor-piercing rounds (AP) perform best against armored targets.
 Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
