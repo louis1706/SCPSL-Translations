@@ -1,7 +1,7 @@
 Capacité introuvable:L'ID de capacité associé à cette capacité n'existe pas.
 Sprint:Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
 Furtif:Vos pas sont silencieux mais votre vitesse est fortement réduite.
-Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé avec le clic gauche ou déposez-le avec le clic droit.
+Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé en utilisant le clic gauche ou déposez-le avec le clic droit.
 Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
 Carte d'accès:Vous avez une carte d'accès, ce n'est pas la meilleure mais ne la perdez pas.
 Équipement standard:Vous êtes équipé d’un fusil, de grenades, d’une radio et d’une carte d’accès.
@@ -25,7 +25,7 @@ Frappe:Attaque un humain et lui inflige quelques dégâts.
 Portes:Vous pouvez interagir avec les portes pour 5 Points de Puissance. Vous pouvez également les verrouiller en utilisant votre énergie. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court d'énergie.
 Décharge Tesla:Vous pouvez déclencher instantanément une Tesla pour 50 Points de Puissance, tuant ainsi tous les joueurs qui se trouvent à portée.
 Confinement:À partir du niveau d'accès 2, vous pouvez verrouiller certaines pièces ce qui éteindra toutes les lumières et bloquera toutes les issues. Les humains se trouvant dans la salle verrouillée ne peuvent plus voir SCP-173.
-Pratiquement indestructible:Cinq générateurs apparaissent dans la zone de confinement intensif, nécessitant une carte de haut niveau et une tablette de gestion des armes pour être activés. La seule façon de vous tuer est que les humains alimentent la totalité de ces générateurs; les humains ou d’autres SCP peuvent les annuler à tout moment en interagissant avec eux.\nChaque générateur a une séquence de compte à rebours de deux minutes et chaque générateur actif augmente la régénération de votre énergie. Une fois que les cinq générateurs sont actifs, vous obtenez une énergie illimitée pendant 1 minute, puis vous mourrez.
+Pratiquement indestructible:Trois générateurs apparaissent dans la zone de confinement intensif. Si tous sont déverrouillés et activés, vous serez confiné.\nLes générateurs ont un compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton d'annulation du générateur.
 Béton Armé:Acceptez leurs regards d'admiration, mais dites non au vandalisme. Vous avez une résistance aux coups de feu mais elle dépendra du taux de pénétration des balles.
 Charge (Rage):Coupez court aux évasions. Foncez droit devant en démolissant n'importe quoi. Si vous tentez de passer à travers une porte blindée, vous pouvez la forcer.
 Crise de colère:Faites-leur connaître votre fureur. Créez une mare de saletés qui tâche et inhibe considérablement la mobilité des humains la traversant. Tuer des humains souillés vous fera récupérer rapidement une partie de votre bouclier.
