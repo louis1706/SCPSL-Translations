@@ -3,6 +3,10 @@
   "Authors": [
     "ThiEstoRil"
   ],
+  "InterfaceLocales": [
+    "ca-ES",
+    "ca"
+  ],
   "SystemLocales": [
     "ca-AD",
     "ca-FR",

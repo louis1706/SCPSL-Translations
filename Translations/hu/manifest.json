@@ -3,6 +3,10 @@
   "Authors": [
     "asderman"
   ],
+  "InterfaceLocales": [
+    "hu-HU",
+    "hu"
+  ],
   "SystemLocales": [
     "hu-HU",
     "hu"

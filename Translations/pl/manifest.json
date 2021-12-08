@@ -3,6 +3,10 @@
   "Authors": [
     "Multiverse Uncle"
   ],
+  "InterfaceLocales": [
+    "pl-PL",
+    "pl"
+  ],
   "SystemLocales": [
     "pl-PL",
     "pl"

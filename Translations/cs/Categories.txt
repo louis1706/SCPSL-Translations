@@ -3,8 +3,8 @@ Karta
 Zdravotnické předměty
 Rádio
 Zbraně
-granáty
-SCP Itemy
+Granáty
+SCP položky
 Micro H.I.D.
 Náboje
 Vesta

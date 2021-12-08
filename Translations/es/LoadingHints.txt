@@ -1,9 +1,63 @@
-La vision de los SCP-939s se basa en el sonido y en el movimiento - ¡usa esto a tu favor!
-Las tarjetas O5 pueden ser una exageración si tu único objetivo es escapar. Hay más de un tipo de tarjeta que pueden abrirte un camino hacia la libertad.
-El SCP-096 se hace más fuerte y peligroso cuanta más gente lo mira.
-No siempre necesitas una tarjeta para acceder a puertas cerradas, una granada puede funcionar igual de bien.
-Compartir es vivir; el buen karma puede ser recompensado.
-Los Analgésicos son medicinas de actuacion lenta. El Botiquín y la Adrenalina funcionan mejor en situaciones de combate.
-Una Hemorragia puede ser letal. Retoma tu aliento, y baja el ritmo.
-Las quemaduras derretirán tu piel, esto provocará que cualquier herida te haga más daño.
-Una botella de cola puede hacer algo más que darte un subidon de azúcar - pueden servir como un remedio si estás herido.
+Puedes desarmar a un jugador interactuando con el mientras llevas un arma.
+Existen 4 zonas principales en las instalaciones: Zona de contención ligera, Zona de contención pesada, zona de entrada y la superficie. 
+Los Científicos y los Clase-D deben alcanzar la superficie para escapar.
+La zona de entrada tiene dos puertas, dichas puertas son la única ruta de acceso a la superficie. Necesitaras una tarjeta de acceso para abrirlas.
+Usar un ascensor es una forma fácil y rápida de escapar de la mayoría de SCPs.
+Los Clase-D que se escapen se unirán a la insurgencia del caos, del mismo modo, los Científicos se unirán a las fuerzas de la MTF.
+La Adrenalina puede usarse para recargar de forma instantánea tu resistencia y darte ventaja en combate.
+Las radios tienen 4 configuraciones de alcance. Cuanto mayor sea el alcance mas rápido se drenara la batería.
+Las fuerzas de la MTF y la insurgencia del caos llegan en lugares opuestos de la superficie.
+El Silo Alfa mata todo lo que este dentro de la instalación al detonar. Puede ser activada desde la superficie.
+La secuencia de detonación del silo alfa puede ser cancelada desde la sala de control en la zona de contención pesada.
+La sala de la intercom en la zona de entrada puede ser usada para transmitir un mensaje de voz para todos los jugadores.
+Puedes lanzar objetos ("T" por defecto). Esto puede ser útil para abrir puertas de acceso desde la distancia o romper cristales.
+La zona de contención ligera se bloqueara después de 15 minutos, tras ese tiempo todos los que queden dentro morirán. Escapa mientras aun puedes!
+Maximiza tu ventaja ajustando tus accesorios del arma en base a la situación a la que te enfrentas.
+Cuantos mas accesorios tenga tu arma mas peso tendrá. Esto afecta al uso de resistencia y a la velocidad de movimiento.
+Los supresores no solo silencian amortiguan los disparos, también ocultan el flashazo del cañón.
+Tanto las armas largas como las armas pesadas son menos precisas al dispararse mientras corre.
+Usar armadura corporal aumenta el numero de objetos y munición que puedes llevar.
+Las balas perforadoras (AP) funcionan mejor contra objetivos blindados.
+Las balas de punta hueca (JHP) provocan mas daños contra objetivos sin blindaje pero son mas débiles contra armadura.
+Mantén pulsado el botón de recargar para descargar un arma, añadiendo su munición a tu inventario.
+Las armas de la insurgencia del caos son poderosas pero su munición no aparece en las instalaciones. Cada disparo cuenta.
+Las granadas pueden usarse para romper puertas.
+Las granadas se pueden lanzar con menos fuerza usando el botón derecho del ratón.
+La Micro H.I.D. puede matar a la mayoría de SCPs muy rápido pero tiene una cantidad limitada de energía. Usala con cabeza!
+La Micro H.I.D. necesita unos 5 segundos de carga antes de estar lista para disparar.
+Manteniendo el botón derecho del ratón mantendrá la Micro H.I.D. en estado lista-para-disparar, drenando lentamente su energía.
+La Micro H.I.D. es muy ruidosa mientras se carga. Usala cuando tus oponentes no puedan escapar o contraatacar.
+Cargar la Micro H.I.D. produce un sonido intimidante que a veces es mas que suficiente para aguarle la fiesta a tus enemigos.
+Una botella de SCP-207 no solo incrementa tu velocidad de movimiento, también restaura parcialmente tu salud.
+Hasta cuatro botellas de SCP-207 pueden beberse, permitiéndote aumentar de forma significativa tu velocidad.
+SCP-500 no solo te cura por completo si no que también elimina la mayoría de efectos negativos, también te regenera salud poco después.
+SCP-268 te hace invisible para todos los humanoides, SCP-079 y SCP-939 te pueden seguir percibiendo.
+SCP-268 no te salvara de SCP-096 si le has visto la cara, pero eso no te impide intentarlo.
+SCP-018 es altamente impredecible. Si es lanzada mas te vale buscar cobertura.
+SCP-018 puede usarse para bloquear a tus perseguidores si rebota por un pasillo.
+SCP-914 puede cambiar cualquier objeto, incluyendo armas y munición.
+SCP-914 puede recargar radios y la Micro H.I.D.
+SCP-079 empieza bastante débil pero se hace mas fuerte según avanza la partida.
+SCP-079 puede bloquear puertas, apagar luces y sobrecargar arcos tesla.
+Un arco tesla que esta siendo observado por SCP-079 siempre parecerá activo.
+SCP-079 no puede apagar las luces de una sala con una puerta rota.
+SCP-079 es contenido usando generadores que se encuentran en la zona de contención pesada, también hace falta pulsar un botón en su cámara de contención.
+Una cámara usada por SCP-079 tendrá una luz azul. Nunca sabes cuando puede estar observando.
+SCP-173 se puede mover con libertad en una sala a oscuras, incluso si lo estas mirando. Por tu seguridad trae una linterna!
+SCP-173 puede matar de forma sigilosa por la espalda.
+SCP-173 puede crear un charco que ralentiza a los humanos que caminan por encima, una forma rapida y eficiente de bloquear el avance.
+SCP-106 es resistente a las balas pero no lo es tanto a la electricidad y a los explosivos.
+SCP-106 puede ser rápidamente contenido usando el rompe fémures que tiene en su cámara de contención.
+SCP-106 puede caminar a través de puertas y ventanas.
+SCP-096 es muy vulnerable cuando ha empezado a calmarse.
+SCP-096 puede cargar hacia delante mientras esta enfadado, rompiendo puertas y matando a lo que se encuentre.
+SCP-096 destruirá puertas y abrirá a la fuerza las compuertas mientras este enfadado.
+La armadura corporal no protegerá a tus victimas de los mordiscos de SCP-939.
+El mordisco de SCP-939 aplica amnesia a su objetivo, esto obstaculiza su visión.
+SCP-939 puede correr indefinidamente y es completamente silencioso cuando no lo hace.
+SCP-939 es silencioso mientras camina, esto lo convierte en un depredador muy "sorprendente".
+Los pasos de los SCPs hacen distinto sonido al de los humanos. Escucha con atención!
+SCP-049 puede matar a un humano al instante, si se acerca lo suficiente
+SCP-049 puede reanimar cadáveres si son recientes.
+SCP-049-2 es vulnerable a los disparos en la cabeza
+SCP-049-2 es útil explorando y peligroso en grandes números.

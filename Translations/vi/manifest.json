@@ -3,7 +3,12 @@
   "Authors": [
     "kazochino"
   ],
+  "InterfaceLocales": [
+    "vi-VN",
+    "vi"
+  ],
   "SystemLocales": [
+    "vi-VN",
     "vi"
   ],
   "ForcedFontOrder": [

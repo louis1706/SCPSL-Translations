@@ -1,0 +1,15 @@
+Şekerlemeler
+Gökkuşaklı Şeker
+Her türlü lezzetle dolu sert bir akide şekeri.
+Sarı Şeker
+Limonun ezici kokusu sizi biraz ürkütüyor. Şeker mi şaka mı?
+Mor Şeker
+Sulu bir üzüm kokusuna sahiptir. Ağzınız sulanmaya başlar. Şeker mi şaka mı?
+Kırmızı Şeker
+Odayı keskin bir kiraz kokusu dolduruyor. Biraz... <i>fazla</i> güçlü. Şeker mi şaka mı?
+Yeşil Şeker
+Şekerden kötü, bitkisel bir koku yayılıyor. Şeker mi şaka mı?
+Mavi Şeker
+Yumuşak ve tatlı kokuyor, hatmiye benzer bir şey.
+Pembe Şeker
+Çilek kokusu göründüğü kadar yumuşaktır. Şeker mi şaka mı?

@@ -1,54 +1,54 @@
-Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
-SCP:SL Art Manager
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
+Northwood Generální ředitel (CEO)
+Northwood Ředitel pro informační systémy (CIO)
+Northwood Provozní ředitel (COO)
+Northwood Ředitel komunity
+Northwood Discord manažer
+Northwood Výkonný asistent
+Northwood Manažer zpětné vazby
+Northwood Lidské zdroje (HR)
+Northwood Ředitel lidských zdrojů (HR)
+Northwood Manažer marketingové platformy
+Northwood Zaměstnanec
+Northwood Steam manažer
+Northwood Systémový administrátor
+Northwood Wiki manažer
+SCP:SL Umělecký manažer
+SCP:SL Umělecký vedoucí
+SCP:SL Umělec
+SCP:SL Backend vývojář
+SCP:SL Manažer backend programování
+SCP:SL Vývojář
+SCP:SL Vítěz akce
+SCP:SL Fullstack vývojář
+SCP:SL Herní designér
+SCP:SL Herní vývojář
+SCP:SL Manažer globálního moderování
+SCP:SL Globální moderátor
+SCP:SL Vedoucí herní designér
+SCP:SL Vedoucí herní vývojář
+SCP:SL Návrhář úrovní
 SCP:SL Partner
-SCP:SL Patreon Supporter
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
-SCP:SL Game Director
-SCP:SL Official Server Manager
-Northwood Verification Specialist
-SCP:SL Anti-Cheat Developer
-SCP:SL Quality Assurance Tester
-SCP:SL Quality Assurance Supervisor
-SCP:SL Twitch Subscriber
-SCP:SL Audio Manager
-Northwood Feedback Coordinator
-Northwood Verification Supervisor
-SCP:SL Official Server Supervisor
-Northwood Feedback Supervisor
-Northwood Verification Manager
-Northwood Bot Manager
-Northwood Translation Manager
-SCP:SL Game Design Manager
-SCP:SL Animator
-Northwood Public Relations Director
-SCP:SL Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
+SCP:SL Patreon podporovatel
+SCP:SL Manažer kvality
+SCP:SL Zvukový designér
+SCP:SL Herní režisér
+SCP:SL Správce oficiálního serveru
+Northwood Specialista ověření
+SCP:SL Anti-Cheat vývojář
+SCP:SL Tester pro zajištění kvality
+SCP:SL Vedoucí zajištění kvality
+SCP:SL Twitch odběratel
+SCP:SL Audio manažer
+Northwood Koordinátor zpětné vazby
+Northwood Vedoucí ověření
+SCP:SL Vedoucí oficiálního serveru
+Northwood Vedoucí zpětné vazby
+Northwood Manažer ověření
+Northwood Bot manažer
+Northwood Manažer překládání
+SCP:SL Manažer herního designu
+SCP:SL Animátor
+Northwood Ředitel pro vztahy s veřejností
+SCP:SL Pomocník
+SCP:SL Hlasový herec
+SCP:SL Investor nadace

@@ -16,3 +16,6 @@ Sigue las tareas para cumplir tu objetivo.
 Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nCoopera con los <color=#0096FF>MTF</color>\nNeutraliza a los demás sujetos.
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color>\n <color=#ffff00>Eres ciego, tu visión se basa en el sonido\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color>\n <color=#ffff00>Eres ciego, tu visión se basa en el sonido\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
+Ayuda a los <color=#FF8E00>Clase-D</color> a escapar.\nElimina a todo el que se interponga.
+Ayuda a los <color=#FF8E00>Clase-D</color> a escapar.\nElimina a todo el que se interponga.
+Ayuda a los <color=#FF8E00>Clase-D</color> a escapar.\nElimina a todo el que se interponga.

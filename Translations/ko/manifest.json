@@ -5,6 +5,10 @@
     "Arizen",
     "schade"
   ],
+  "InterfaceLocales": [
+    "ko-KR",
+    "ko"
+  ],
   "SystemLocales": [
     "ko-KR",
     "ko"

@@ -1,4 +1,4 @@
-<size=80>ATILDINIZ</size>\nSunucu bağlantıyı zorla kapattı.\n<size=26>\nYönetici tarafından buyuk olasılıkla geçici uzaklaştırma aldınız \nveya sunucunun isteklerini karşılamıyorsunuz(Steam'e baglantı v.b).\nZamanlı uzaklaştırmalar için - oyunun yapımcıları sorumlu <u>değildir</u>.\n</size>
+<size=80>ATILDINIZ</size>\nSunucu bağlantıyı zorla kapattı.
 <size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen kurucu mevcut değil.
 <size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen bağlantı kimliği yok.
 <size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen kanal yok.

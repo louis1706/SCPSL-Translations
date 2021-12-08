@@ -3,6 +3,10 @@
   "Authors": [
     "Welcome To Hell Project"
   ],
+  "InterfaceLocales": [
+    "ru-RU",
+    "ru"
+  ],
   "SystemLocales": [
     "ru-BY",
     "ru-KZ",

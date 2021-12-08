@@ -1,5 +1,5 @@
 <color=green>GEÖFFNET</color>
-<color=#07A2FF>GESCHLOSSEN</color>
+<size=20><color=#07A2FF>GESCHLOSSEN</color></size>
 <color=orange>BEWEGEND</color>
 <color=red>VERSCHLOSSEN</color>
 <color=red>FEHLER</color>

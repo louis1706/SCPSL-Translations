@@ -35,3 +35,5 @@
 39~.44 Revolver
 40~AK
 41~Schrotflinte
+42~Kürbiseimer~Ein niedlicher Halloween Eimer zum Sammeln von Süßem.
+44~SCP-2176~Dein eigenes Geisterlicht! Achtung, sehr zerbrechlich...

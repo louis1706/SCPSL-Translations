@@ -5,6 +5,10 @@
     "Erick",
     "ConnorTheCone"
   ],
+  "InterfaceLocales": [
+    "es-ES",
+    "es"
+  ],
   "SystemLocales": [
     "es-AR",
     "es-BZ",

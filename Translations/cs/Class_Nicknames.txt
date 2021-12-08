@@ -5,7 +5,7 @@ Larry
 -
 Lečitel alá doktor
 -
-The Old AI
+Staré AI
 -
 The Shy Guy
 Zombie
@@ -14,5 +14,5 @@ Zombie
 -
 -
 Strážník
-With Many Voices
-With Many Voices
+S několika Hlasy
+S několika Hlasy

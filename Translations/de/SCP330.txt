@@ -1,0 +1,15 @@
+Süßigkeiten
+Regenbogen Bonbon
+Ein Stück Kandiszucker, mit vielen verschiedenen Geschmäckern. 
+Gelbes Bonbon
+Der überwältigende Geruch von Zitrone lässt dich ein wenig erschaudern. Süßes oder Saures?
+Lila Bonbon
+Es riecht nach saftigen Weintrauben. Dir läuft das Wasser im Mund zusammen. Süßes oder Saures?
+Rotes Bonbon
+Ein starker Duft von Kirsche erfüllt den Raum. Er ist ein bisschen... <i>zu</i> stark. Süßes oder Saures?
+Grünes Bonbon
+Von den Süßigkeiten geht ein unangenehmer, krautiger Geruch aus. Süßes oder Saures?
+Blaues Bonbon
+Er riecht weich und süß, ähnlich wie ein Marshmallow.
+Pinkes Bonbon
+Der Erdbeerduft ist so sanft, wie er aussieht. Süßes oder Saures?

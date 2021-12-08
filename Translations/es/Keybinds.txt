@@ -18,3 +18,13 @@ Alternar modo de linterna
 Chat de Voz Alternativo
 Noclip
 Consola
+Atajo Tarjeta
+Inspeccionar 
+Percutor del revolver
+Lanzar objeto
+Atajo de arma primaria
+Atajo de arma secundaria
+Atajo de articulo medico
+Ocultar Interfaz
+Niebla del noclip Si/No
+Atajo granada

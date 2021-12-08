@@ -18,3 +18,13 @@ Toggle Flashlight
 Alt Voice Chat
 Noclip
 Game Console
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey

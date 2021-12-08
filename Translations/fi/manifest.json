@@ -6,6 +6,10 @@
     "Zathor",
     "Argus"
   ],
+  "InterfaceLocales": [
+    "fi-FI",
+    "fi"
+  ],
   "SystemLocales": [
     "fi-FI",
     "fi"

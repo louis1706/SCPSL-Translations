@@ -1,5 +1,5 @@
 Custom
-Preset #
+Preset #[index]
 SAVE
 CLEAR ATTACHMENTS
 Default

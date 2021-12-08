@@ -6,6 +6,10 @@
     "Ganxly",
     "MajorFox"
   ],
+  "InterfaceLocales": [
+    "fr-FR",
+    "fr"
+  ],
   "SystemLocales": [
     "fr-DZ",
     "fr-BE",

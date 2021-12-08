@@ -6,6 +6,10 @@
     "Tychus_驍奕",
     "菈菲"
   ],
+  "InterfaceLocales": [
+    "zh-TW",
+    "zh-Hant"
+  ],
   "SystemLocales": [
     "zh-TW",
     "zh-HK",
@@ -13,6 +17,6 @@
     "zh-Hant"
   ],
   "ForcedFontOrder": [
-    "NotoSansCJKsc-RegularDynamic"
+    "NotoSansCJKtc-RegularDynamic"
   ]
 }

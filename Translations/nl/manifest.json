@@ -6,6 +6,10 @@
     "Hoptimtom",
     "Rin"
   ],
+  "InterfaceLocales": [
+    "nl-NL",
+    "nl"
+  ],
   "SystemLocales": [
     "nl-AW",
     "nl-BE",

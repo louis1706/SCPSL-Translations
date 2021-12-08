@@ -4,6 +4,11 @@
     "Tam",
     "Evan (Rnen)"
   ],
+  "InterfaceLocales": [
+    "nb-NO",
+    "nb",
+    "no"
+  ],
   "SystemLocales": [
     "nb-NO",
     "nb-SJ",

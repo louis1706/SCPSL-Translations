@@ -35,3 +35,5 @@
 39~.44 Revolver
 40~AK
 41~Shotgun
+42~Bag of Candies~A bag containing the following candies:
+43~SCP-2176~Your very own Ghostlight! Caution, very fragile...

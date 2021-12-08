@@ -18,3 +18,13 @@ Fener Aç/Kapa
 Alternatif Sesli Sohbet
 Noclip
 Konsol
+Kart Kısayolu
+İncele
+Altıpatlar Kurma
+Eşya Fırlatma
+Birincil Silah Kısayolu
+İkincil Silah Kısayolu
+Tıbbi Eşya Kısayolu
+Oyun Arayüzünü Gizle
+Noclip Sisini Değiştir
+Bomba Kısayolu

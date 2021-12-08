@@ -3,6 +3,10 @@
   "Authors": [
     "Esquilo_Voador"
   ],
+  "InterfaceLocales": [
+    "pt-PT",
+    "pt"
+  ],
   "SystemLocales": [
     "pt-AO",
     "pt-CV",

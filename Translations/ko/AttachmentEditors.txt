@@ -1,0 +1,16 @@
+커스텀
+프리셋 #[index]
+저장
+부착물 초기화
+기본
+프리셋
+워크스테이션 - <color=#c00>오프라인</color>
+<color=#ccc>SITE-02 정비소</color> - 대기 상태\n<size=39>화면을 눌러 활성화하세요. <color=#ccc>인증된 관계자 전용.</color></size>
+반갑습니다!
+워크스테이션이 부팅 중입니다
+워크스테이션 - <color=#0c0>사용 가능</color>
+<size=52><color=#ccc>SITE-02 정비소</color> - 사용 가능</size>\n<size=42><color=#ccc>총기를 장비하여 부착물을 변경하세요.</color></size>
+종료 중
+워크스테이션을 종료하고 있습니다
+개요 보이기
+개요 닫기

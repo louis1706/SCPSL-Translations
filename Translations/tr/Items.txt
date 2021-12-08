@@ -35,3 +35,5 @@
 39~.44 Altıpatlar
 40~AK
 41~Pompalı
+42~Şeker Torbası~Aşağıdaki şekerleri içeren bir çanta:
+44~SCP-2176~Kendi Ghostlight'ınız! Dikkat, çok kırılgan...

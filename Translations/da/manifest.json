@@ -3,6 +3,10 @@
   "Authors": [
     "Bemsen"
   ],
+  "InterfaceLocales": [
+    "da-DK",
+    "da"
+  ],
   "SystemLocales": [
     "da-DK",
     "da-GL",

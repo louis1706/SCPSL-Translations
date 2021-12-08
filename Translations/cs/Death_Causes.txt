@@ -1,4 +1,4 @@
-Zemřel na výbuch.
+Vypařen hlavicí Alpha.
 Pád ukončil jeho život.
 Zemřel za lepší zítřky.
 Ztratil se v Kapesní Dimenzi.
@@ -14,9 +14,9 @@ Tohle je tělo <b>[user]</b>, třídy [class]!\n\nPříčina smrti: [cause]
 Byl roztrhán na kousky SCP-096.
 Byl zakousnut do lebky.
 Byl rozežrán žíravinou.
-Zemřel po explozi.
+Střepiny a těžké popáleniny způsobené výbuchem.
 Bledá kůže a krev vytékající z úst naznačují vnitřní krvácení způsobené požitím látky.
-Recontaminován.
+Znovu-uvězněn.
 Na těle jsou tupá poranění a drobné škrábance.
-Těžká ztráta krve způsobená hlubokými ranami.
+Težká ztráta krve způsobená hlubokými ranami.
 Chorobně žlutá kůže a žluklý zápach naznačují smrt jedem.

@@ -85,8 +85,8 @@ PŘEČTI SI VÍCE
 PRONÁJEM SERVERU
 ZRUŠIT
 Sekund
-Za to, že hrajete naši hru!
-Flash Taskbar On Spawn
-Okolní prostředí
+Za hraní naší hry!
+Probliknutí Hlavního Panelu Při Spuštění
+Ambient Occlusion
 Volumetrická světla
 Bloom

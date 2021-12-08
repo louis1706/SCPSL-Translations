@@ -3,6 +3,10 @@
   "Authors": [
     "PalZaxson"
   ],
+  "InterfaceLocales": [
+    "ja-JP",
+    "ja"
+  ],
   "SystemLocales": [
     "ja-JP",
     "ja"

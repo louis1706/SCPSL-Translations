@@ -5,6 +5,10 @@
     "Mr.Panda",
     "Joseph"
   ],
+  "InterfaceLocales": [
+    "de-DE",
+    "de"
+  ],
   "SystemLocales": [
     "de-BE",
     "de-DE",

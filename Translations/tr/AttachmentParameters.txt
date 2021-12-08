@@ -8,7 +8,7 @@ Geri tepme (Nişan alırken)
 Mermi doğruluğu
 İsabetlilik
 isabetlilik (Nişan alırken)
-Kuşanma hızı
+Kuşanma süresi
 Ateş gürültüsü
 Şarjör kapasitesi
 Kuşanma süresi

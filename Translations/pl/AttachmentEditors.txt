@@ -1,9 +1,9 @@
-Niestandardowa
-Konfiguracja nr 
+Niestandardowy
+Zestaw [index].
 ZAPISZ
 WYCZYŚĆ
-Domyślna
-KONFIGURACJE
+Domyślny
+ZESTAWY
 STACJA ROBOCZA - <color=#c00>OFFLINE</color>
 <color=#ccc>PLACÓWKA-02 PUNKT PERSONALIZACJI BRONI</color> - TRYB CZUWANIA\n<size=39>STUKNIJ W EKRAN, ABY AKTYWOWAĆ. <color=#ccc>TYLKO DLA UPOWAŻNIONYCH.</color></size>
 WITAJ UŻYTKOWNIKU!

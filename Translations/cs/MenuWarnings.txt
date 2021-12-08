@@ -1,4 +1,4 @@
-WARNING
+VAROVANÍ
 OKAY
-<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
-An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
+Byla detekována <b>grafika Intel</b>, která <b>není podporována</b>.\n<b>Doporučujeme</b> použít <b>neintegrovanou</b> grafickou kartu.\nHra může při aktuálním nastavení <b>často padat.</b>
+Důležitou aktualizaci systému, kterou vyžaduje hlasový chat, nelze nalézt. Ujistěte se prosím, že je váš systém Windows plně aktualizován, jinak hra nemusí fungovat správně. Pokud tento problém přetrvává, kontaktujte náš tým technické podpory a požádejte o další pomoc.

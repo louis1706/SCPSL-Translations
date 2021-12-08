@@ -3,6 +3,10 @@
   "Authors": [
     "Northwood"
   ],
+  "InterfaceLocales": [
+    "en-GB",
+    "en"
+  ],
   "SystemLocales": [
     "en-AS",
     "en-AI",

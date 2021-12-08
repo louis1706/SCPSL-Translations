@@ -3,6 +3,10 @@
   "Authors": [
     "Rainers"
   ],
+  "InterfaceLocales": [
+    "lv-LV",
+    "lv"
+  ],
   "SystemLocales": [
     "lv-LV",
     "lv"

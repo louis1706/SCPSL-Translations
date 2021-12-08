@@ -8,7 +8,7 @@ Retroceso al apuntar
 Precisión de las balas
 Precisión desde la cadera
 Precisión con la mira
-Velocidad de desenfundado
+Tiempo de desenfundado
 Sonido del disparo
 Capacidad de cargador
 Tiempo de desenfundado

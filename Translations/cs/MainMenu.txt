@@ -59,33 +59,33 @@ Maximální počet krve
 FPS Limit
 FPS limit nejde zapnout (V-Sync je zaplý)!
 Reset. nastavení
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
-AUDIO SETTINGS
-MASTER VOLUME
-MENU MUSIC
-VOICE CHAT
-SOUND EFFECTS
-GAMEPLAY OPTIONS
-FAST INTRO FADE
-Úvodní text třídy zmizí mnohem rychleji.
-SCP-079 - TOGGLE VIEW MODE
+Jako fórum používáme diskuse ve službě Steam. (Kliknutím na logo níže otevřete fórum)
+NASTAVENÍ ZVUKŮ
+HLAVNÍ HLASITOST
+HUDBA MENU
+HLASOVÝ CHAT
+ZVUKOVÉ EFEKTY
+HERNÍ NASTAVENÍ
+RYCHLÉ VYHASNUTÍ INTRA
+Informace o třídě zmizí mnohem rychleji.
+SCP-079 - STÁLÝ REŽIM ZOBRAZENÍ
 Jedním stisknutím přepínáte mezi režimy kamery.
 SCP-079 - POST-PROCESSING
-Pokud je vypnuta, efekty kamery budou výrazně omezeny.
-HEAD BOB
-Umožňuje houpání kamery z pohledu první osoby během pohybu.
+Pokud je vypnuto, efekty kamery budou výrazně omezeny.
+POSKAKOVANÍ HLAVY
+Povoluje poskakování kamery z pohledu první osoby během pohybu.
 TOGGLE SPRINT
-Sprintování se zapíná a vypíná, místo toho, aby se podrželo.
-ODDĚLENÝ UMĚLÝ HP BAR
-Oddělený HP bar.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+Sprint se zapíná a vypíná, namísto toho, aby musel být držen stisknutý.
+ODDĚLENÁ UMĚLÁ LIŠTA HP
+Dává umělému HP vlastní ukazatel zdraví místo překryvného zobrazení.
+Naše překlady jsou open-source na GitHubu!\nChcete pomoci? Kliknutím sem získáte přístup k repozitáři.
 RICH PRESENCE
 Pokud je tato možnost povolena, váš stav se zobrazí na Discordu/Steamu.
 ZOBRAZIT PŘESNOU HODNOTU HP
-Zobrazí přesnou hodnotů HP namísto procent.
-Veřejná lobby
-Pokud je tato možnost povolena, mohou se k vám vaši přátelé ze služby Steam připojit bez povolení.
-SCHOVAT IP
-Pokud je tato možnost povolena, nezobrazí se žádná IP adresa v klientské konzoli.
-TOGGLE SEARCH
-Vyzvednutí položky nebude vyžadovat podržení klávesy; opětovným stisknutím ji zrušíte.
+Zobrazí přesnou hodnotu HP místo pouhých procent.
+VEŘEJNÉ LOBBY
+Pokud je povoleno, mohou se k vám vaši přátelé na Steamu připojit bez povolení.
+SKRÝT IP
+Je-li povoleno, nezobrazí se žádná IP adresa v klientské konzoli.
+STÁLÝ REŽÍM ZVEDNUTÍ PŘEDMĚTŮ
+Zvednutí předmětu nebude vyžadovat podržení klávesy; opětovným stisknutím přerušíte.

@@ -4,6 +4,10 @@
     "Lycan",
     "terminator-97"
   ],
+  "InterfaceLocales": [
+    "it-IT",
+    "it"
+  ],
   "SystemLocales": [
     "it-IT",
     "it-SM",

@@ -16,3 +16,6 @@ Folge den Anweisungen um dein Ziel zu vervollständigen.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nNeutralisiere andere Fraktionen.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.

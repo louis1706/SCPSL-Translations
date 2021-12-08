@@ -3,7 +3,12 @@
   "Authors": [
     "ahyper",
     "Krumpac",
-    "Cezhar"
+    "Cezhar",
+    "Andrew"
+  ],
+  "InterfaceLocales": [
+    "cs-CZ",
+    "cs"
   ],
   "SystemLocales": [
     "cs-CZ",
