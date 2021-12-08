@@ -11,7 +11,7 @@ Des déchirures aux jambes laissent penser qu'une chute a été fatale.
 Vous avez fait une chute mortelle.
 Décomposé dans la dimension de poche.
 Rongé par une substance fortement corrosive.
-Une peau jaune pâle et une odeur rance suggèrent une mort par un poison.
+Une peau jaune pâle et une odeur rance suggèrent une mort par empoisonnement.
 Le poison a eu raison de vous.
 La peau pâle et le sang coulant de la bouche suggèrent qu'une hémorragie interne a été causée par l'inhalation d'une substance.
 SCP-207 a eu raison de vous.
