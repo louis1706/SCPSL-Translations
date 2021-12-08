@@ -35,3 +35,5 @@
 39~.44 Révolver
 40~AK
 41~Fusil à pompe
+42~Sac de bonbons~Un sac contenant les bonbons suivants :
+43~SCP-2176~Votre propre lumière fantôme ! Attention, très fragile...
