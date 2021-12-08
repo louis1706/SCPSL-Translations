@@ -1,14 +1,14 @@
-La Statue
+La Sculpture
 -
 -
 Le Vieil Homme
 -
-Le Docteur
+Le Docteur de la Peste
 -
-L'IA
+L'Ancienne IA
 -
 L'Homme Timide
-Zombie
+Le Guéri
 -
 -
 -
@@ -16,3 +16,6 @@ Zombie
 -
 Prédateur aux Mille-Voix
 Prédateur aux Mille-Voix
+-
+-
+-
