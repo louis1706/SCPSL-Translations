@@ -1,30 +1,30 @@
-<size=25>Tirer</size>
-<size=25>Zoomer</size>
-<size=25>Sauter</size>
-<size=25>Interagir</size>
-<size=25>Inventaire</size>
-<size=25>Recharger</size>
-<size=25>Courir</size>
-<size=25>Chat Vocal</size>
-<size=25>Marche Furtive</size>
-<size=25>Avancer</size>
-<size=25>Reculer</size>
-<size=25>Aller à Gauche</size>
-<size=25>Aller à Droite</size>
-<size=25>Liste des Joueurs</size>
-<size=25>Informations</size>
-<size=25>Panel Admin</size>
-<size=25>Lampe Torche</size>
-<size=25>Chat Vocal Alt</size>
-<size=25>Noclip</size>
-<size=25>Console</size>
-<size=25>Raccourci Carte</size>
-<size=25>Inspecter</size>
-<size=25>Armer le Revolver</size>
-<size=25>Jeter un Objet</size>
-<size=25>Raccourci Arme Principale</size>
-<size=25>Raccourci Arme Secondaire</size>
-<size=25>Raccourci Soin</size>
-<size=25>Masquer l'Interface</size>
-<size=25>Brouillard en Noclip</size>
-<size=25>Raccourci Grenade</size>
+Tirer
+Zoomer
+Sauter
+Interagir
+Inventaire
+Recharger
+Courir
+Chat Vocal
+Marche Furtive
+Avancer
+Reculer
+Aller à Gauche
+Aller à Droite
+Liste des Joueurs
+Informations
+Panel Admin
+Lampe Torche
+Chat Vocal Alt
+Noclip
+Console
+Raccourci Carte
+Inspecter l'Objet
+Armer le Revolver
+Jeter un Objet
+Raccourci Arme Principale
+Raccourci Arme Secondaire
+Raccourci Soin
+Masquer l'Interface
+Brouillard en Noclip
+Raccourci Grenade
