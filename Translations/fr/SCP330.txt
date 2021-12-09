@@ -1,22 +1,22 @@
-Candies
-Rainbow Candy
-Its a hard piece of rock candy, packed with all sorts of flavours.
-Grants a large number of small bonuses, including health regeneration, invigoration, and AHP.
-Yellow Candy
-The overwhelming smell of lemon makes you cringe a little.
-Allows you to move faster and sprint longer for a short period of time.
-Purple Candy
-It has a juicy grape smell. Your mouth begins to water.
-Grants temporary resistance to damage and slowly regenerates health.
-Red Candy
-A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
-Quickly restores your health.
-Green Candy
-A nasty, herbal smell emits from the candy.
-Provides a long-lasting regeneration of health and temporary immunity to most status effects.
-Blue Candy
-It smells soft and sweet, something akin to a marshmallow.
-Grants a temporary barrier.
-Pink Candy
-The strawberry scent is as gentle as it looks.
-- R E D A C T E D -
+Bonbons
+Bonbon Arc-en-ciel
+C'est un bonbon très dur, rempli de toutes sortes de saveurs.
+Accorde un grand nombre de petits bonus, notamment la régénération de la santé, de l'endurance et de l'AHP.
+Bonbon Jaune
+La forte odeur du citron vous fait légèrement grimacer.
+Vous permet de vous déplacer plus rapidement et de sprinter plus longtemps pendant une courte période.
+Bonbon Violet
+Il a une odeur de raisin juteux. Votre bouche commence à saliver.
+Confère une résistance temporaire aux dégâts et régénère lentement la santé.
+Bonbon Rouge
+Une forte odeur de cerise remplit la pièce. C'est un peu... <i>trop</i> fort.
+Restaure rapidement votre santé.
+Bonbon Vert
+Une odeur désagréable d'herbes se dégage du bonbon.
+Fournit une régénération durable de la santé et une immunité temporaire à la plupart des effets.
+Bonbon Bleu
+A une senteur douce et sucrée, quelque chose qui ressemble à de la guimauve.
+Accorde un bouclier temporaire.
+Bonbon Rose
+L'odeur de fraise est aussi douce qu'elle en a l'air.
+- C E N S U R E R -
