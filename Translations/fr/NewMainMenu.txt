@@ -90,3 +90,4 @@ Flash de l'Icône au spawn (Barre des tâches)
 Occlusion Ambiante
 Lumières Volumétriques
 Flou lumineux
+Activer les sous-titres
