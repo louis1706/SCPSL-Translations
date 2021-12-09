@@ -28,37 +28,36 @@ La Micro H.I.D. nécessite environ 5 secondes de charge avant de pouvoir tirer.
 Maintenir le clique droit enfoncé maintient la Micro H.I.D. dans un état prêt à tirer, drainant lentement son énergie.
 La Micro H.I.D. est très bruyant pendant sa charge. Assurez-vous de l'utiliser pendant que vos cibles ne peuvent pas s'enfuir.
 Charger la Micro H.I.D. produit un son intimidant qui suffit à dérouter vos ennemis.
-
-A bottle of SCP-207 not only increases your movement speed, but will partially restore your health as well.
-Up to four SCP-207 bottles can be drunk, allowing for a significant multiplier to your speed.
-SCP-500 not only heals you but removes most negative effects, and provides regeneration afterwards.
-While SCP-268 makes you invisible to all humans, SCP-079 and SCP-939s can still notice you.
-SCP-268 won’t save you from SCP-096 if you’ve looked at him.
-SCP-018 is highly unpredictable. When it’s thrown, take cover.
-SCP-018 can be used to block off pursuers when bouncing in a hallway.
-SCP-914 can change all items, including weapons and ammunition.
-SCP-914 can recharge radios and the Micro H.I.D.
-SCP-079 starts off relatively weak but gets more powerful as a match goes on.
-SCP-079 can lock doors, turn off lights, and overcharge tesla gates.
-A tesla gate being looked at by SCP-079 will always appear active.
-SCP-079 can’t turn off lights in a room with a broken door.
-SCP-079 is recontained using generators found in Heavy Containment, and a final button in its containment chamber.
-A camera being used by SCP-079 will glow blue. You never know when it's watching.
-SCP-173 can move freely in dark rooms, even if it's being looked at. Bring a flashlight!
-SCP-173 can kill stealthily from behind.
-SCP-173 can create a puddle that slows down humans that walk through it — creating quick and efficient area-denial.
-SCP-106 is resistant to bullets but not explosives and electricity.
-SCP-106 can quickly be recontained using the femur breaker that is found in its containment chamber.
-SCP-106 can walk through doors and glass windows.
-SCP-096 is at its weakest when it has just begun to calm down.
-SCP-096 can charge forward while enraged – breaking doors and killing targets.
-SCP-096 will destroy doors and pry open closed gates when enraged.
-SCP-939’s bite is not affected by body armor.
-SCP-939 inflicts amnesia upon humans it bites; darkening their vision.
-SCP-939 can sprint indefinitely and is completely silent when walking.
-SCP-939 is silent when walking, making it a perfect ambush predator.
-SCPs’ footsteps are distinct from human ones. Listen carefully!
-SCP-049 can kill any human instantly, if it gets close.
-SCP-049 can only reanimate corpses if they’re fresh.
-SCP-049-2 is vulnerable to headshots.
-SCP-049-2s make good scouts and are dangerous in large numbers.
+Une bouteille de SCP-207 augmente non seulement votre vitesse de déplacement, mais restaure également partiellement votre santé.
+Jusqu'à quatre bouteilles de SCP-207 peuvent être bues, appliquant un multiplicateur important à votre vitesse.
+SCP-500 vous guérit, supprime la plupart des effets négatifs et octroie un effet de régénération.
+Alors que SCP-268 vous rend invisible aux yeux des humains, SCP-079 et SCP-939 peuvent toujours vous voir.
+SCP-268 ne vous sauvera pas de SCP-096 si vous l'avez regardé.
+SCP-018 est hautement imprévisible. Quand il est lancé, mettez-vous à couvert.
+SCP-018 peut être utilisé pour bloquer des poursuivants lorsqu'il rebondit dans un couloir.
+SCP-914 peut transformer tous les objets, y compris les armes et les munitions.
+SCP-914 peut recharger les radios et la Micro H.I.D.
+SCP-079 est relativement faible en début de partie mais devient plus puissant au fur et à mesure.
+SCP-079 peut verrouiller les portes, éteindre les lumières et surcharger les Tesla.
+Une Tesla surveillée par SCP-079 apparaîtra toujours active.
+SCP-079 ne peut pas éteindre les lumières dans une pièce avec une porte cassée.
+SCP-079 est reconfiné à l'aide de générateurs trouvés dans la Zone de Confinement Lourd, et d'un dernier bouton dans sa chambre de confinement.
+Une caméra utilisée par SCP-079 s'illuminera en bleu. Vous ne savez jamais quand il sera là.
+SCP-173 peut se déplacer librement dans les pièces sombres, même s'il est regardé. Apportez une lampe torche !
+SCP-173 peut tuer furtivement par derrière.
+SCP-173 peut créer une flaque qui ralentit les humains qui la traversent — créant rapidement une zone peu praticable.
+SCP-106 est résistant aux balles mais pas aux explosifs et à l'électricité.
+SCP-106 peut être rapidement reconfiné à l'aide du briseur de fémur qui se trouve dans sa chambre de confinement.
+SCP-106 peut traverser les portes et les vitres.
+SCP-096 est plus vulnérable lorsqu'il commence à se calmer.
+SCP-096 peut effectuer une charge vers l'avant en étant enragé – cassant des portes et tuant ses victimes.
+SCP-096 peut détruire les portes et forcer les portes blindées lorsqu'il est enragé.
+La morsure de SCP-939 n'est pas affectée par un gilet pare-balles.
+SCP-939 inflige une amnésie aux humains qu'il mord, obscurcissant leur vision.
+SCP-939 peut sprinter indéfiniment et est complètement silencieux lorsqu'il marche.
+SCP-939 est silencieux lorsqu'il marche, ce qui en fait un parfait prédateur embusqué.
+Les pas des SCP sont distincts de ceux des humains. Écoutez attentivement !
+SCP-049 peut tuer n'importe quel humain instantanément, d'un seul toucher.
+SCP-049 ne peut réanimer les cadavres que s'ils sont frais.
+SCP-049-2 est vulnérable aux tirs dans la tête.
+Les SCP-049-2 sont de bons éclaireurs et sont dangereux en grand nombre.
