@@ -27,3 +27,5 @@ Blessures par balle de calibre [ammotype].
 Traumatisme contondant mortel. Le corps est gravement mutilé.
 Des signes de traumatisme grave aux deux fémurs suggèrent une mort par choc circulatoire.
 Vous avez été sacrifié pour reconfiner SCP-106.
+Tué automatiquement pour cause de tir allié.
+La peau froide et les doigts gelés suggèrent une mort par hypothermie.
