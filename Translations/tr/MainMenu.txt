@@ -89,3 +89,11 @@ IP GİZLE
 Etkinleştirildiğinde, herhangibir IP işlemci konsolunda gösterilmez.
 ARAT
 Eşya almak basılı bir tuş gerektirmez; iptal etmek için tekrar basın.
+Modellere daha fazla derinlik kazandırmak için köşelere ve dar alanlara yumuşak gölgeler uygular.
+Performansı fazlaca kullanarak çevreye daha fazla derinlik kazandırır.
+Işık yoğunluğuna göre bir ışıma uygulayarak aydınlatmaya daha fazla derinlik verir.
+Cassie anonslarının altyazılarını görmek için bu ayarı açın.
+Oyun altta iken doğduğunuzda görev çubuğu yanıp söner.
+Çizgileri yumuşatır ve görsel bozulmaları ortadan kaldırır.
+Ekran yırtılmasını durdurmak için oyun içi kare hızını monitörünüzün yenileme hızıyla senkronize eder.
+Kurşun delikleri veya kan sıçraması gibi yansıtılan dokular.

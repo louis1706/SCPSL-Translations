@@ -30,7 +30,7 @@ V-Sync
 FPS Limit
 Aus
 Texturenauflösung
-Max. sichtbares Blut
+Blut und Einschusslöcher
 Schatten
 Schattenauflösung
 Schattendistanz

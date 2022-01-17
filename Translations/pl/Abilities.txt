@@ -6,8 +6,8 @@ Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
 Standardowe wyposażenie:Jesteś wyposażony w karabin, granaty, radio, rozbrajacz i kartę dostępu.
 Uzbrojony i niebezpieczny:Wysłano cię z lekkim karabinem maszynowym, urządzeniem hakującym (specjalną kartą dostępu) oraz apteczką.
-Zaskakująca prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwujący będą równocześnie mrugać co kilka sekund, umożliwiając ci działanie.
-Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
+Karkołomna prędkość:Nie ważne gdzie się ukryją, odnajdziesz ich w mgnieniu oka. Zwiększ swą prędkość ruchu oraz dystans teleportowania się, kosztem swojej śmiertelności. Umiejętność mija krótko po tym, gdy ktoś cię zaobserwuje lub ją anulujesz.
+Mrugnięcie:Kiedy ciebie ujrzą, spraw by żałowali urywania kontaktu wzrokowego nawet na moment. Kiedy ikona oka stanie się czerwona, przytrzymaj i przenieś wskaźnik do określonego miejsca. Puść, aby się teleportować i zabić najbliższą osobę w zasięgu 2 metrów.
 Przejście:Możesz utworzyć pole czarnej mazi do którego możesz się w każdej chwili teleportować. Teleportacja trwa kilka sekund.\nPonowne utworzenie pola spowoduje zmianę miejsca teleportacji.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
@@ -25,6 +25,7 @@ Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
 Otwórz/Zamknij drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
 Blokada:Począwszy od drugiego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
-Praktycznie niezniszczalny:Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać klikając przycisk "ANULUJ" na generatorze.
-Łamanie karku:Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
+Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać klikając przycisk "ANULUJ" na generatorze.
+Wzmocniony beton:Zachwycaj się spojrzeniami pełnych podziwu, lecz najpewniej będziesz musiał stać czoła wandalizmowi. Masz wbudowaną odporność na pociski. Bronie ze słabą penetracją zadają tobie o wiele mniej obrażeń.
 Szarża (podczas szału):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, niszcząc wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przeciśniesz się przez nią.
+Furia:Niech znają twój gniew. Utwórz pod sobą kałużę, która plami i znacznie spowalnia ludzi przechodzących przez nią. Zabicie poplamionej osoby odnawia kilka punktów Hume Shield.

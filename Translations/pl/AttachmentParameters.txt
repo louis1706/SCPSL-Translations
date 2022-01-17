@@ -5,8 +5,8 @@ Penetracja
 Szybkostrzelność
 Odrzut
 Odrzut przy ADS
-Celność
-Celność
+Trafialność pocisków
+Celność z biodra
 Celność przy ADS
 Czas dobywania
 Głośność wystrzału

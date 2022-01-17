@@ -90,3 +90,4 @@ Doğduğunda Görev Çubuğunu aydınlat
 Ortam Işığı
 Hacimsel Aydınlatma
 Bloom
+Altyazılar

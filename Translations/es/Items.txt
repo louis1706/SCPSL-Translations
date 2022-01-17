@@ -35,3 +35,7 @@
 39~Revolver .44
 40~AK
 41~Escopeta
+42~Bolsa de caramelos~Una bolsa que contiene los siguientes caramelos:
+43~SCP-2176~¡Tu propia luz fantasma! Precaución, es muy frágil...
+44~SCP-244-A~Un jarrón ancestral, congelado al tacto. Crea una larga nube de niebla helada cuando es colocado.
+45~SCP-244-B~Un jarrón ancestral, congelado al tacto. Crea una larga nube de niebla helada cuando es colocado.

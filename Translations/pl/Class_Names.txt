@@ -17,5 +17,5 @@ Ochroniarz
 SCP-939-53
 SCP-939-89
 Strzelec Rebelii Chaosu
-Represor Rebelii Chaosu
 Maruder Rebelii Chaosu
+Represor Rebelii Chaosu

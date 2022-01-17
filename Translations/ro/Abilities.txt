@@ -1,0 +1,31 @@
+Abilitatea Nu a Fost Găsită:ID-ul abilității asociată cu această abilitate nu există.
+Sprint:Mărește viteza de mișcare, dar crește și sunetul realizat în mișcare.
+Strecurat:Mișcările tale devin tăcute, cu prețul unei viteze mari.
+Inventar:Deschideți inventarul și selectați un item pe care l-ați preluat folosind LMB sau renunțați-l folosind RMB.
+Neînarmat:Nu ai nimic. Găsește ceva. Orice.
+Cartelă de Acces:Aveți o cartelă de acces, nu este cea mai bună, dar n-o pierdeți.
+Problemă Standard:Sunteți echipat cu un Rifle, Grenade, un Radio, și o Cartelă de Acces.
+Armat și Periculos:Ai o Mitralieră Ușoară, un Instrument de Piratare (cartelă de acces), și o Trusă de Prim Ajutor.
+Viteze Mari:Indiferent unde se ascund, îi vei găsi în puțin timp și te vor vedea pentru mai puțin. Dublează-ți viteza de mișcare și distanța de teleportare, cu prețul letalității tale. Durează până la scurt timp după ce a fost cineva martor sau anulat manual.
+Clipire:Când își pun ochii pe tine, fă-i să regrete întrerupând vederea, chiar și pentru un moment. Când ochiul se face roșu, ține și mișcă indicatorul la locația dorită. Dă drumul să te teleportezi și să ucizi cel mai aproape om în rază de 2 metri.
+Dolină:Puteți plasa o piscină neagră de coroziune și vă puteți teleporta înapoi în orice moment. Teletransportarea durează câteva secunde.\nPuteți muta dolina plasând-o din nou.
+Coroziune:Vă puteți deplasa prin uși mergând în ele.
+Cântec de Lebădă:Nu suferiți aproape nicio pagubă din gloanțe, dar puteți fi reținuți instantaneu printr-un sacrificiu uman în camera de izolare.
+Dimensiune de Buzunar:Captează un om și teleportați-le într-o dimensiune de buzunar care îi ucide rapid. Oamenii trebuie să aleagă ieșirea corectă sau să moară.
+Scopofobie:Începi docil și te enervezi când ești văzut sau rănit. Îndepărtați-vă furia prin uciderea transgresorilor - urmați lumina lor înainte ca furia să dispară. Nemernicia fiecărui infractor se adaugă la AHP-ul dvs., Împiedicându-vă să vă facă rău atâta timp cât ești în furie.
+Încercați Să Nu Plângeți (Docil):Este prea greu. Așezarea pe o ușă ajută; devii mai liniștit și stai pe loc, calmându-te... sau așteptând să treacă cineva.
+Atac Melee (Furie):Răsfoiți orice în cale pentru a ajunge la cei care v-au rănit. Atacurile tale vor distruge ușile și vor ucide majoritatea oamenilor instantaneu.
+Ultrasensibil:Nu poți vedea oameni decât dacă fug, te lovesc sau trag o armă în imediata apropiere a ta.
+Predator:Pașii tăi sunt tăcuți. Ținând apăsată tasta atribuită vă creșteți viteza, dar vă faceți mișcarea audibilă.
+Mimică:Poți vorbi cu voce tare oricărui jucător din apropiere, inclusiv oamenilor.
+Mușcătură:Atacă un om aflat la distanță de corp la corp, provocând instantaneu daune grave.
+Antidot:Atinge un om în raza apropiată, ucigându-l instantaneu.
+Vindecare:Reanimează un om ucis recent. Oamenii vindecați se joacă ca zombi cu mișcare rapidă și viață scăzută.\nNu există o limită a numărului de oameni care pot fi reanimați.
+Lovitură:Atacă un om și îi provoacă o cantitate moderată de daune.
+Deschideți/Închideți Ușile:Puteți interacționa cu uși pentru a le deschide și închide pentru 5 AP. Puteți, de asemenea, să le blocați, care încet vă scade AP-ul, dar împiedicând pe oricine să le deschidă sau să le închidă până când ridicați blocajul sau rămâneți fără AP.
+Supraîncărcare Tesla:Puteți activa o Poartă Tesla pentru 50 AP pentru a o declanșa instantaneu, ucigând orice jucător din sau lângă ea.
+Blocare:Începând cu Nivelul de Acces 2, puteți interacționa cu pictogramele cu semn de pericol pentru a bloca toată camera, stingând toate luminile și închizând toate ușile. În timp ce se află în camere închise, oamenii nu îl pot vedea pe SCP-173.
+Practic Indestructibil:Trei generatoare apar în Heavy Containment. Dacă toate sunt deblocate și activate, veți deveni reținuți.\nGeneratoarele au o secvență de numărătoare inversă pe care orice jucător o poate întrerupe apăsând butonul „CANCEL” de pe generator.
+Beton Armat:Acceptă privirile lor de admirație, dar stați în poziție împotriva vandalismului lor. Ești rezistent la gloanțe. Armele cu penetrare redusă provoacă daune semnificativ mai mici în comparație cu armele străpungătoare.
+Încărcare (Furie):Reduceți scăpările - merită. Te înțepi drept, demolând orice în fața ta pe o distanță scurtă. Dacă lovești o poartă grea, te forțezi prin ea.
+Criză:Spune-le furia ta. Creați o piscină de murdărie sub voi care pătează și inhibă foarte mult mobilitatea oamenilor care trec prin ea. Uciderea oamenilor pătați va recupera o parte din scutul tău.

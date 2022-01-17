@@ -1,0 +1,30 @@
+Împușcă
+Zoom
+Sari
+Interacțiune
+Inventar
+Reîncărcare
+Sprint
+Chat Vocal
+Strecurare
+Mergi Înainte
+Mergi Înapoi
+Mergi în Stânga
+Mergi în Dreapta
+Lista de Jucători
+Informație Caracter
+Remote Admin
+Toggle Lanternă
+Voice Chat Alt
+Noclip
+Consola Jocului
+Tastă Rapidă Cartelă de Acces
+Inspect
+Cock Revolver
+Aruncă Item
+Tastă Rapidă Armă Primară
+Tastă Rapidă Armă Secundară
+Tastă Rapidă Medical
+Ascunde GUI
+Toggle Ceață Noclip
+Tastă Rapidă Grenadă

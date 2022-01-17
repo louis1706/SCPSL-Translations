@@ -16,3 +16,6 @@ Esegui le direttive per completare il tuo obiettivo.
 Aiuta gli <color=#FFFF7CFF>Scienziati</color> a scappare\nCoopera con gli <color=#0096FF>NTF</color>\nNeutralizza gli altri soggetti.
 Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP.</color>
 Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#F00>SCP.</color>
+Aiuta il <color=#FF8E00>Personale di Classe-D</color> a scappare.\nNeutralizza gli altri soggetti.
+Aiuta il <color=#FF8E00>Personale di Classe-D</color> a scappare.\nNeutralizza gli altri soggetti.
+Aiuta il <color=#FF8E00>Personale di Classe-D</color> a scappare.\nNeutralizza gli altri soggetti.

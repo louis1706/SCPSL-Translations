@@ -1,10 +1,10 @@
 Ninguno
 Tarjeta de acceso
-Articulo medico
+Artículo médico
 Radio
 Arma de fuego
 Granada
 Objeto SCP
 Micro H.I.D.
-Municion
+Munición
 Armadura personal

@@ -1,0 +1,4 @@
+Risorsa di luce
+Contatore di munizioni
+Soppressione del flash
+Visione Notturna

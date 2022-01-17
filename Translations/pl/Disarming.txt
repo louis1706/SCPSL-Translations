@@ -1,0 +1,3 @@
+Zostałeś rozbrojony przez [player].
+administratora
+Wykonuj rozkazy lub poproś członków drużyny o pomoc.

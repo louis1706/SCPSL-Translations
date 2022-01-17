@@ -35,4 +35,4 @@
 <size=80>DESCONECTADO</size>\nHa fallado la comprobación de seguridad del servidor.
 <size=80>DESCONECTADO</size>\nEl procesamiento de la seguridad ha sido demasiado lento para el servidor.\nPrueba de nuevo o contacta al administrador del servidor.
 <size=80>ERROR DE AUTORIZACIÓN</size>\nMensaje del servidor central: [message].
-<size=80>DESCONECTADO</size>\nEl servidor se esta cerrando.
+<size=80>DESCONECTADO</size>\nEl servidor se está cerrando.

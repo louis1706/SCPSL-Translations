@@ -45,7 +45,7 @@ Musica del Menu
 Volume dell'interfaccia
 Tema del menu
 Introduzione Veloce
-Sobbalzo Testa
+Sobbalzo Visuale
 Attiva/Disattiva Corsa
 Mostra valore HP esatto
 Rich Presence
@@ -57,7 +57,7 @@ Lingua
 Menu principale
 Connetti
 Indietro
-Questa modifica richiederà un ricaricamento.\nRicaricare ora il menu?
+Questa modifica richiederà un riavvio.\nRiavviare ora il menu?
 Si
 No
 Sei sicuro di voler uscire?
@@ -87,6 +87,7 @@ Creare un server di gioco all'interno di esso non è più supportato.\nCi sono t
 Secondo
 Per aver giocato al nostro gioco!
 Fai lampeggiare la barra delle applicazioni quando spawni (quando ti rigeneri)
-occlusione ambientale
+Occlusione ambientale
 Luci volumetriche
-Fioritura
+Sfocatura
+Mostra sottotitoli

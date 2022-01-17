@@ -1,0 +1,22 @@
+Vaporizat de Alfa Warhead.
+Picioarele sparte sugerează traume fatale căuzate de o cădere.
+Semnele unui traumatism sever la ambele oase ale femurului sugerează moartea prin șoc circulator.
+Decedat în Dimensiunea de Buzunar.
+Sunt remenante de SCP-106.
+Multe arsuri electrice.
+Traumatism contondent fatal; corpul este grav mutilat și pulpat.
+Rane de glonț [ammotype].
+Fractură cervicală la baza craniului.
+Cantități masive de descompunere a țesuturilor sunt prezente pe corp.
+Încetarea bruscă a semnelor de viață. Fără traume clare.
+Cauza a morții neștiută.
+Este corpul lui <b>[user]</b> - ei erau [class]!\n\nCauza morții: [cause]
+Lacerări masive și pierderi excesive de sânge.
+Se pot observa urme mari de mușcături adânci pe corp.
+Topit de o substanță foarte corozivă.
+Shrapnel și arsuri grave căuzate de o explozie.
+Pielea palidă și sângele care scurge din gură sugerează sângerări interne căuzate de ingestia de substanțe.
+Reținut.
+Traumele contondente și zgârieturile minore sunt prezente pe corp.
+Pierderi severe de sânge căuzate de răni profunde.
+Pielea galbenă bolnavă și mirosul rânced sugerează moartea prin otravă.

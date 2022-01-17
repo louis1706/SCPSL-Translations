@@ -1,0 +1,27 @@
+Mobile Task Force Unit Epsilon-11 designada [designation] ha entrado en las instalaciones.<split>Se aconseja a todo el personal restante que proceda con protocolos estándares de evacuación hasta que un escuadrón de MTF alcance su ubicación.<split>
+Esperando la recontencion de: [count] sujetos SCP.
+Esperando la recontencion de: 1 sujeto SCP.
+Amenazas substanciales para la seguridad en las instalaciones -- extreme la precaucion.
+eliminado satisfactoriamente. Causa de la eliminación sin especificar.
+eliminado porSCP-[scp].
+eliminado satisfactoriamente por los sistemas automáticos de seguridad.
+eliminado satisfactoriamente por el Silo Alfa.
+contenido satisfactoriamente por el personal científico.
+contenido satisfactoriamente por el personal Clase-D.
+contenido satisfactoriamente por la insurgencia del caos.
+SCP-[scp]
+contenido satisfactoriamente. Unidad de contención desconocida.
+contained successfully. Unidad de contención [designation].
+Perdido en la secuencia de descontaminacion.
+[current] de [max] generadores activados.
+<split>Todos los generadores han sido activados satisfactoriamente.
+Sobrecarga en 3... 2... 1...
+Las instalaciones vuelven a estar en modo operacional.
+Atención a todo el personal.<split>La descontaminacion general de la zona de contención ligera se llevara a cabo en T -15 minutos.<split>Todas las substancias biológicas deben ser retiradas con tal de evitar su destrucción.
+Peligro, la descontaminacion general de la zona de contención ligera ocurrirá en T-[time] minutos.
+Peligro, la descontaminacion general de la zona de contención ligera ocurrirá en T-1 minuto.
+Peligro, la descontaminacion general de la zona de contención ligera ocurrirá en T-30 segundos.<split>Todos los puntos de control se han abierto de forma permanente. Evacue el área inmediatamente.
+La zona de contención ligera esta cerrada y lista para la descontaminacion.<split>La eliminación de substancias orgánicas ha empezado.
+SECUENCIA DE DETONACIÓN DE EMERGENCIA DEL SILO ALFA ACTIVA.<split>LA SECCIÓN SUBTERRÁNEA DE LAS INSTALACIONES SERA DETONADA EN T-[time] SEGUNDOS.
+DETONACIÓN CANCELADA. REINICIANDO SISTEMAS.
+SECUENCIA DE DETONACIÓN RENAUDADA, T-[time] SEGUNDOS.

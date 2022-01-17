@@ -4,16 +4,16 @@ Danno
 Penetrazione
 Rateo di fuoco
 Rinculo
-Rinculo quando si mira
+Rinculo in modalità mirino
 Precisione del proiettile
-Hip-firing accuracy
+Precisione Hip-firing
 Precisione di mira
-Velocità di equipaggio
-Rumorosità da sparo
-Capacità del caricatore
 Tempo di equipaggio
+Rumorosità dello sparo
+Capacità del caricatore
+Tempo di estrazione
 Tempo di ricarica
 ---
 Velocità di mira
-Diffusione delle pallottole
-Coerenza del modello
+Dispersione dei colpi
+Densità dei pallettoni

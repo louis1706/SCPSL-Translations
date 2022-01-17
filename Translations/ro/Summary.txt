@@ -1,0 +1,17 @@
+Runda s-a terminat!
+SCPs AU CÂȘTIGAT
+MTF AU CÂȘTIGAT
+CLAS-D AU CÂȘTIGAT
+EGALITATE
+Ei sunt responsabili pentru uciderea alor [summary_scpfrags] ființe umane.
+Pericol terminat. Acest loc este din nou sigur.
+Toată securitatea Fundației a fost terminată.
+Ambele părți au suferit pierderi și au beneficiat foarte mult. Câștigătorul este nedeterminat.
+Au scăpat [summary_d_escaped] clas-d
+Au supravețuit [summary_s_escaped] oameni de știință
+Detonația de Alfa Warhead a terminat [summary_warhead_kills] ființe.
+Nu a fost detonată Alfa Warhead în această misiune.
+Această misiune a durat [summary_round_minutes] (de) minute și [summary_round_seconds] (de) secunde.
+[summary_scp_terminated] SCP eliminați.
+următoarea rundă în [summary_next_round_countdown] de secunde.
+Ai avut [summary_damages] damage și ai omorât [summary_kills] jucători.

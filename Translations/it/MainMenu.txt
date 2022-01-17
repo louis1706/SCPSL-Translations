@@ -89,3 +89,11 @@ NASCONDI IP
 Se abilitato, qualsiasi IP visualizzato nella console del client non verrà visualizzato.
 ATTIVA/DISATTIVA RICERCA
 Raccogliere un item non richiederà premere un tasto; premi di nuovo per annullare.
+Applica ombre morbide ad angoli e zone strette per dare ai modelli più profondità.
+Aumenta la profondità dell'ambiente ad un costo elevato.
+Fornisce illuminazione più profondità applicando un bagliore in base all'intensità della luce.
+Mostra i sottotitoli per gli annunci CASSIE.
+Lampeggia la barra delle applicazioni quando si respawna mentre il gioco non è focalizzato.
+Leviga le linee e rimuove le distorsioni visive.
+Sincronizza il frame rate in-game con la frequenza di aggiornamento del monitor.
+Strutture proiettate come fori di proiettile o schizzi di sangue.

@@ -1,4 +1,4 @@
-SCP-173 nie może się poruszać ani atakować, gdy jest obserwowany. Rzeźba sieje terror wśród bezbronnych ludzi jak i małych grup, ale powinna być ostrożna na polu walki.
+SCP-173 przykuwa uwagę swym przerażającym wyglądem. Gdy nie jest obserwowany, staje się śmiercionośny, domagając zawsze wpatrywujących świadków.
 Więźniowie wykorzystywani przez fundację do testowania anomalii. Ich głównym celem jest ucieczka z placówki, unikanie <color=#f00>SCP</color> oraz <color=#0096FF>MTF</color>.\n<color=#008f1e>Rebelia Chaosu</color> pomaga im w ucieczce.
 Wkrótce się odrodzisz.\nW międzyczasie obserwuj, jak kształtuje się sytuacja.
 SCP-106 jest powolnym, odpornym tankiem - niepowstrzymana siła zdolna do przechodzenia przez każde drzwi w placówce.
@@ -16,3 +16,6 @@ Podążaj za wskazówkami, aby ukończyć zadanie.
 Ochroniarz w placówce, którego celem jest pomoc każdemu <color=#FFFF7CFF>Naukowcowi</color> w ucieczce, oraz powstrzymanie zbliżającego się zagrożenia w postaci <color=#f00>SCP</color>. Współpracuje z <color=#0096FF>MTF</color> powstrzymując zagrożenia przed ich przybyciem, eliminując kogokolwiek lub cokolwiek co wejdzie im w drogę.
 SCP-939 jest ślepy i nawiguje po placówce na podstawie otaczających go dźwięków. Wykorzystuje błędy ludzi, używając swoich cichych kroków i przerażającej prędkości, aby zastawiać zasadzki oraz zabijać.
 SCP-939 jest ślepy i nawiguje po placówce na podstawie otaczających go dźwięków. Wykorzystuje błędy ludzi, używając swoich cichych kroków i przerażającej prędkości, aby zastawiać zasadzki oraz zabijać.
+Członek tajnej organizacji, której głównym celem jest zakłócanie działań Fundacji oraz wykorzystywanie podmiotów SCP dla własnej korzyści. Mają za zadanie eliminować <color=#FFFF7CFF>Naukowców</color> i <color=#0096FF>Personel Fundacji</color>, oraz eskortować <color=#FF8E00>Klasy D</color> do bezpiecznego miejsca.
+Członek tajnej organizacji, której głównym celem jest zakłócanie działań Fundacji oraz wykorzystywanie podmiotów SCP dla własnej korzyści. Mają za zadanie eliminować <color=#FFFF7CFF>Naukowców</color> i <color=#0096FF>Personel Fundacji</color>, oraz eskortować <color=#FF8E00>Klasy D</color> do bezpiecznego miejsca.
+Członek tajnej organizacji, której głównym celem jest zakłócanie działań Fundacji oraz wykorzystywanie podmiotów SCP dla własnej korzyści. Mają za zadanie eliminować <color=#FFFF7CFF>Naukowców</color> i <color=#0096FF>Personel Fundacji</color>, oraz eskortować <color=#FF8E00>Klasy D</color> do bezpiecznego miejsca.

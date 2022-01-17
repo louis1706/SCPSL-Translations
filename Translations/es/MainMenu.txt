@@ -89,3 +89,11 @@ OCULTAR IP
 Si se activa, no se mostrarán las IP en la consola del cliente.
 ALTERNAR BÚSQUEDA
 Recoger objetos no necesiará que mantengas una tecla pulsada; pulsa de nuevo para cancelar.
+Aplica sombras suaves a las esquinas y áreas ajustadas para dar mas sensación de profundidad.
+Le da al ambiente mas profundidad, tiene un coste de rendimiento mas elevado.
+Le da a la iluminación mas profundidad aplicando brillo basado en la intensidad.
+Elige si quieres que se muestren los subtítulos para los anuncios de cassie.
+Hace parpadear el icono del juego de la barra de herramientas cuando reapareces y el juego no esta en primer plano.
+Suaviza las lineas y elimina las distorsiones visuales.
+Sincroniza los frames del juego con los de tu monitor.
+Proyecta texturas como por ejemplo las manchas de sangre o los agujeros de bala.

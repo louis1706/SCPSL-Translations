@@ -36,4 +36,6 @@
 40~AK
 41~Pompalı
 42~Şeker Torbası~Aşağıdaki şekerleri içeren bir çanta:
-44~SCP-2176~Kendi Ghostlight'ınız! Dikkat, çok kırılgan...
+43~SCP-2176~Kendi Ghostlight'ınız! Dikkat, çok kırılgan...
+44~SCP-244-A~Dokunulduğunda donan eski bir vazo. Yerleştirildiğinde büyük bir buzlu sis bulutu oluşturur.
+45~SCP-244-B~Dokunulduğunda donan eski bir vazo. Yerleştirildiğinde büyük bir buzlu sis bulutu oluşturur.

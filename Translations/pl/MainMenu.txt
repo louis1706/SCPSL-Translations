@@ -89,3 +89,11 @@ UKRYJ IP
 Gdy włączone, adresy IP nie są wyświetlane w konsoli.
 PRZEŁĄCZANE PODNOSZENIE
 Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.
+Nakłada miękkie cienie na krawędziach w celu dodania im głębi.
+Nadaje środowiskowi więcej głębi dużym kosztem wydajności.
+Nakłada efekt poświaty na oświetlenie nadając mu głębi.
+Wyświetla napisy do komunikatów cassie.
+Gdy się odrodzisz, ikona gry na pasku zadań się podświetli.
+Wygładza krawędzie oraz usuwa wizualne zniekształcenia.
+Synchronizuje ilość klatek w grze do częstotliwości odświeżania monitora.
+Wyświetla efekty dziur po kulach lub plamy krwi.

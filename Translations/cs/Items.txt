@@ -1,16 +1,16 @@
 0~Karta Údržbáře
 1~Karta Vědce
 2~Karta Vedoucího výzkumu
-3~Karta Zone Manažera
-4~Karta Strážce
+3~Karta Správce Zóny
+4~Karta Stráže
 5~Karta Vojína MTF
 6~Karta Containment Inženýra
 7~Karta Seržanta MTF
 8~Karta Kapitána MTF
 9~Karta Vedoucího Institutu
-10~Přístupové Zařízení Povstalců Chaosu
-11~Karta Úrovně-O5
-12~Rádio
+10~Přístupové Zařízení Vzbouřenců Chaosu
+11~Karta Řady-O5
+12~Vysílačka
 13~COM-15
 14~Balíček První Záchrany~Vyléčí tvoje zranění. (65 HP)
 15~Svítilna~Budiž světlo!
