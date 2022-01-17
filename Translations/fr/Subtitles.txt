@@ -1,27 +1,27 @@
-Mobile Task Force Unit Epsilon-11 designated <designation> has entered the facility.<split>All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.<split>
-Awaiting re-containment of: <translatednumber> SCP subjects.
-Awaiting re-containment of: 1 SCP subject.
-Substantial threat to safety remains within the facility -- exercise caution.
-successfully terminated. Termination cause unspecified.
-terminated by SCP-<designation>.
-successfully terminated by Automatic Security System.
-successfully terminated by Alpha Warhead.
-contained successfully by Science Personnel.
-contained successfully by Class-D Personnel.
-contained successfully by Chaos Insurgency.
-SCP-<designation>
-contained successfully. Containment unit unknown.
-contained successfully. Containment Unit <designation>.
-lost in Decontamination Sequence.
-<translatednumber> out of <translatednumber> generators activated.
-<split>All generators have been successfully engaged.
-Overcharge in 3... 2... 1...
-Facility is back in operational mode.
-Attention, all personnel.<split>The Light Containment Zone decontamination process will occur in T-15 minutes.<split>All biological substances must be removed in order to avoid destruction.
-Danger, Light Containment Zone overall decontamination in T-<translatednumber> minutes.
-Danger, Light Containment Zone overall decontamination in T-1 minute.
-Danger, Light Containment Zone overall decontamination in T-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
-Light Containment Zone is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
-ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-<translatednumber> SECONDS.
-DETONATION CANCELLED. RESTARTING SYSTEMS.
-DETONATION SEQUENCE RESUMED, T-<translatednumber> SECONDS.
+L'unité de la Force d'Intervention Mobile Epsilon-11 désignée [designation] est entrée dans la Fondation.<split>Tout le personnel restant est prié de suivre les protocoles d'évacuation standard jusqu'à ce qu'une escouade de la FIM atteigne votre destination.<split>
+En attendant le reconfinement de : [count] entités SCP.
+En attendant le reconfinement de : 1 entité SCP.
+Une menace substantielle pour la sécurité demeure dans la Fondation -- soyez prudent.
+neutralisé avec succès. Cause de la neutralisation non spécifié.
+neutralisé par SCP-[scp].
+neutralisé avec succès par le Système de Sécurité Automatique.
+neutralisé avec succès par l'Ogive Alpha.
+neutralisé avec succès par le personnel Scientifique.
+neutralisé avec succès par le personnel de classe D.
+neutralisé avec succès par l'Insurrection du Chaos.
+SCP-[scp]
+neutralisé avec succès. Unité de confinement inconnue.
+neutralisé avec succès. Unité de confinement : [designation].
+perdu lors de la procédure de décontamination.
+[current] sur [max] générateurs activés.
+<split>Tous les générateurs ont été activés avec succès.
+Overcharge dans 3... 2... 1...
+La Fondation est de retour en mode opérationnel.
+Attention, à tout le personnel.<split>La procédure de décontamination de la Zone de Confinement Léger débutera dans T-15 minutes.<split>Toutes les substances biologiques doivent être retirées afin d'éviter leur destruction.
+Danger, Décontamination globale de la Zone de Confinement Léger dans T-[time] minutes.
+Danger, Décontamination globale de la Zone de Confinement Léger dans T-1 minute.
+Danger, Décontamination globale de la Zone de Confinement Léger dans T-30 secondes.<split>Toutes les portes des points de contrôle ont été définitivement ouvertes. Veuillez évacuer immédiatement.
+La Zone de Confinement Léger est verrouillée et prête la décontamination.<split>L'élimination des substances organiques a maintenant commencé.
+SÉQUENCE DE DÉTONATION D'URGENCE DE L'OGIVE ALPHA ENGAGÉE.<split>LA SECTION SOUTERRAINE DE LA FONDATION EXPLOSERA DANS T-[time] SECONDES.
+DÉTONATION ANNULÉE. REDÉMARRAGE DES SYSTÈMES.
+REPRISE DE LA SEQUENCE DE DETONATION, T-[time] SECONDES.
