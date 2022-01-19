@@ -1,6 +1,6 @@
 L'unité de la Force d'Intervention Mobile Epsilon-11 désignée [designation] est entrée dans la Fondation.<split>Tout le personnel restant est prié de suivre les protocoles d'évacuation standard jusqu'à ce qu'une escouade de la FIM atteigne votre destination.<split>
-En attendant le reconfinement de : [count] entités SCP.
-En attendant le reconfinement de : 1 entité SCP.
+En attente du reconfinement de : [count] entités SCP.
+En attente du reconfinement de : 1 entité SCP.
 Une menace substantielle pour la sécurité demeure dans la Fondation -- restez vigilant.
 neutralisé avec succès. Cause de la neutralisation non spécifié.
 neutralisé par SCP-[scp].
