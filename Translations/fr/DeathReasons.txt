@@ -29,3 +29,4 @@ Des signes de traumatisme grave aux deux fémurs suggèrent une mort par choc ci
 Vous avez été sacrifié pour reconfiner SCP-106.
 Tué automatiquement pour cause de tir allié.
 La peau froide et les doigts gelés suggèrent une mort par hypothermie.
+Vous êtes mort de froid.
