@@ -37,4 +37,7 @@ Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vo
 Vous avez été recapturé par les Nine-Tailed Fox.\nAvec une menace en moins, ils ont pu renforcer les troupes.
 Vous avez été fait prisonnier par l'Insurrection du Chaos.\nIls ont pu prendre avantage des informations que vous leur avez fournies.
 La partie commence dans : <color=yellow>{0}</color>s
-Le lancement de la partie a été <color=#FF5050>suspendu</color>
+Le lancement de la partie est <color=#FF5050>suspendu</color>
+SENSIBILITÉ DE VISÉE
+Appuyez sur [key] pour annuler le lancer.
+Maintenir pour viser.
