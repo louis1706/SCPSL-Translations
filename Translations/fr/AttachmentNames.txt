@@ -41,4 +41,6 @@ Récepteur Type Fusil~Récepteur supérieur de grande taille qui améliore la pu
 Canon Court~Version raccourcie du canon standard, utilisée pour améliorer la vitesse de tir et la mobilité.
 Embout~Augmente la dispersion du projectile, mais améliore l'uniformité du motif à l'impact.
 Canon Allongé~Réduit légèrement la dispersion du projectile, mais augmente le poids et la longueur totale de l'arme à feu.
-Pas de Crosse~Les configurations courtes s'accompagnent d'une grande mobilité, mais retirer la crosse d'un fusil rend impossible de viser en toute sécurité.
+Pas de Crosse~Les configurations courtes s'accompagnent d'une grande mobilité, mais retirer la crosse d'un fusil ayant un recul important n'est pas toujours la meilleure idée.
+Système à un coup~Système standard. Une pression sur la gâchette entraîne une décharge.
+Système à double coup~Mécanisme de déclenchement modifié qui tire les deux cartouches en une seule fois.
