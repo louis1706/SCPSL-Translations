@@ -9,8 +9,8 @@ Das gesamte Sicherheitspersonal der Foundation wurde getötet.
 Beide Seiten haben erhebliche Verluste erlitten. Der Sieger kann nicht ermittelt werden.
 [summary_d_escaped] Klasse-D's entkamen
 [summary_s_escaped] Wissenschaftler überlebten
-Der Alpha Warhead tötete [summary_warhead_kills] Lebewesen.
-Der Alpha Warhead wurde nicht genutzt.
+Der Alpha Sprengkopf tötete [summary_warhead_kills] Lebewesen.
+Der Alpha Sprengkopf wurde nicht genutzt.
 Die Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
 [summary_scp_terminated] getötete SCPs
 Nächste Runde startet in [summary_next_round_countdown] Sekunden.

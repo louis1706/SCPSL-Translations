@@ -6,7 +6,7 @@ Soziale Medien
 Internet
 Favoriten
 Offizielle
-Historie
+Verlauf
 Freunde
 Suche Server
 Erstelle Server
@@ -90,3 +90,4 @@ Taskleiste beim Spawn aufblinken lassen
 Umgebungsunschärfe
 Volumetrische Lichter
 Bloom
+Untertitel umschalten

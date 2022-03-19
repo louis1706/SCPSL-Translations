@@ -10,13 +10,13 @@ Mobile Task Force Einheiten und Chaos Insurgents erreichen die Surface Zone auf 
 Der Alpha Sprengkopf tötet alles und jeden in der Einrichtung bei der Detonation. Er kann auf der Surface Zone aktiviert werden.
 Die Alpha Sprengköpf Detonationssequenz kann aus seinem Raum in der Heavy Containment Zone abgebrochen werden.
 Der Intercomraum in der Entrance Zone kann dazu genutzt werden Sprachnachrichten an alle Spieler zu senden.
-Du kannst Items werfen ("T" ist Standard). Damit kannst du Zugangskartentüren aus Distanz öffnen oder Glas zerschlagen.
+Du kannst Gegenstände werfen ("T" ist Standard). Damit kannst du Zugangskartentüren aus Distanz öffnen oder Glas zerschlagen.
 Die Light Containment Zone wird automatisch nach 15 Minuten verschlossen; jeder in ihr wird dann getötet. Entkomme so lange du kannst!
 Maximiere deinen Vorteil indem du Waffenaufsätze der Situation bedingt justierst. 
 Je mehr Aufsätze du auf deiner Waffe hast, desto schwerer wird sie. Dies beeinflusst deine Ausdauer und Bewegungsgeschwindigkeit.
 Schalldämpfer dämpfen nicht nur deine Schüsse, sie verstecken auch das Mündungsfeuer!
 Längere und schwerere Waffen schießen weniger Präzise während des Rennens.
-Körperpanzerung erhöht die Anzahl an Items und Munition, die du tragen kannst.
+Körperpanzerung erhöht die Anzahl an Gegenständen und Munition, die du tragen kannst.
 Panzerbrechende Munition (AP) funktioniert am besten gegen gepanzerte Ziele.
 Hohlspitzmunition (JHP) erreicht höheren Schaden gegen ungepanzerte Ziele. 
 Drücke und halte die Nachladetaste, um deine Waffe zu entladen, die Munition wird deinem Inventar zugeführt.
@@ -35,9 +35,9 @@ Während SCP-268 dich für Menschen Unsichtbar macht, können SCP-939s und SCP-0
 SCP-268 wird dich nicht vor SCP-096 retten, solltest du es angeschaut haben.
 SCP-018 ist nicht vorhersehbar. Nimm Deckung, wenn es umherspringt.
 SCP-018 kann genutzt werden, um Verfolger zu bremsen.
-SCp-914 kann alle Items verändern, auch Waffen und Munition.
+SCp-914 kann alle Gegenstände verändern, auch Waffen und Munition.
 SCP-914 kann Radios und die Micro H.I.D aufladen.
-SCP-070 startet sehr schwach, wird im Laufe des Spiels aber immer stärker.
+SCP-079 startet sehr schwach, wird im Laufe des Spiels aber immer stärker.
 SCP-079 kann Türen verschließen, Lichter ausschalten und Tesla Gates überladen.
 Ein Tesla Gate das von SCP-079 angesehen wird erscheint immer als aktiv.
 SCP-079 kann Lichter in einem Raum nicht ausschalten, wenn eine Tür zerstört ist. 

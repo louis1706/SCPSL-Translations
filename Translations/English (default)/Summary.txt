@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
 STALEMATE
-They are responsible for killing [summary_scpfrags] human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
+All escaped subjects unaccounted for. Emergency response has been scrambled.
+All threats neutralized. This site is now safe again.
+Foundation security presence has been eliminated. Insurgency occupation in progress.
+Site-02 is under uncertain control. The winner remains undetermined.
 [summary_d_escaped] class-d escaped
 [summary_s_escaped] scientist(s) survived
-Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this mission.
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
 The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
 [summary_scp_terminated] terminated SCPs
-next round in [summary_next_round_countdown] seconds.
-You have dealt [summary_damages] damage and killed [summary_kills] players.
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.

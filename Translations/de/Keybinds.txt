@@ -21,10 +21,10 @@
 <size=25>Zugangskarte</size>
 <size=25>Inspizieren</size>
 <size=25>Revolver spannen</size>
-<size=25>Item werfen</size>
+<size=25>Gegenstand werfen</size>
 <size=25>Primäre Waffe</size>
 <size=25>Sekundäre Waffe</size>
-<size=25>Medi-Items</size>
+<size=25>Heilungsgegenstände</size>
 <size=25>GUI verbergen</size>
 <size=25>Noclip Nebel</size>
 <size=25>Granate</size>

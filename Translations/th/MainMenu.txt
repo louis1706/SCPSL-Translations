@@ -89,3 +89,11 @@ RICH PRESENCE
 ถ้าเปิดใช้ ไอพีทุกแบบที่แสดงในคอนโซลจะถูกซ่อน
 TOGGLE SEARCH
 การหยิบของจะไม่ต้องกดปุ่มค้างไว้; และจะต้องกดปุ่มเดิมเพื่อยกเลิก
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+เปิด/ปิดระบบแสดงคำอธิบายประกาศของแคสซี
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.

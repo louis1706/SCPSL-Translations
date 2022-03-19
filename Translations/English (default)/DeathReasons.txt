@@ -29,3 +29,4 @@ Signs of severe trauma to both femur bones suggests death by circulatory shock.
 You've been sacrificed to recontain SCP-106.
 Automatically killed for friendly fire.
 Cold skin and frostbitten fingers suggest a death by hypothermia.
+You have frozen to death.

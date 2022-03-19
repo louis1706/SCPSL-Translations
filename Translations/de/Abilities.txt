@@ -1,7 +1,7 @@
 Fähigkeit nicht gefunden:Die dieser Fähigkeit zugeordnete Fähigkeits-ID existiert nicht.
 Sprinten:Erhöht deine Bewegungsgeschwindigkeit, aber auch die deine Laufgeräusche.
 Schleichen:Deine Bewegungen werden leiser auf Kosten der Geschwindigkeit.
-Inventar:Öffne dein Inventar und wähle ein Item mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
+Inventar:Öffne dein Inventar und wähle einen Gegenstand mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
 Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
 Zugangskarte:Du hast eine Zugangskarte, nicht die beste aber immerhin. Verlier sie nicht!
 Standard Ausrüstung:Du bist mit einem Gewehr, Granaten, einem Radio, einem Entwaffner und einer Zugangskarte ausgerüstet.
@@ -25,7 +25,7 @@ Schlag:Attackiere einen Menschen und verursache Schaden.
 Öffnen/Schließen von Türen:Du kannst mit Türen interagieren um sie zu öffnen oder zu schließen, dies kostet dich 5 AP. Du kannst sie auch verschließen, dies verbraucht aber deine AP über Zeit. Die Tür bleibt dann verschlossen bis du sie wieder freigibst oder deine AP verbraucht ist.
 Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
 Lockdown:Startet mit Access Level 2, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
-Praktisch unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
+Praktisch unzerstörbar: Drei Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
 Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
 Attacke! (Rage):Schneide Ihnen den Weg zum entkommen ab - Sie verdienen es! Du schnellst vorraus und zestörst alles in deinem Weg. Wenn du auf ein Heavy Gate triffst, zwängst du dich durch es hindurch.
 Tantrum:Lass sie deine Wut spüren! Kreiere eine Pfütze aus Schmutz unter dir, die jeden Menschen kurzzeitig verlangsamt und befleckt. Das töten von befleckten Spielern regeneriert einen Teil deines Hume Schilds.

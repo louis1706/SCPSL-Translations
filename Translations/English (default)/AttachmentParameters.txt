@@ -17,3 +17,5 @@ Reload time
 Aiming speed
 Pellet spread
 Pattern consistency
+Projectiles number
+Reload speed

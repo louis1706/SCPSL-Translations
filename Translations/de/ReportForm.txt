@@ -1,5 +1,5 @@
 Spieler melden
-Ziel:\nPlayer ID:\nErläuterung:
+Ziel:\nPlayer ID:\nGrund:
 Abbrechen
 Melden für das brechen von Serverregeln
 Melden für cheaten oder raiding

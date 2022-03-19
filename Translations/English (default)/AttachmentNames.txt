@@ -41,4 +41,6 @@ Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a h
 Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
 Choke~Increases total radius of spread but improves the consistency of the pattern.
 Extended Barrel~Slightly reduces the spread radius but increases the total firearm weight and length.
-No Stock~Short configurations come with high mobility, but removing stocks from a rifle makes it impossible to safely aim down the sights.
+No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
+Single-Shot System~Standard system. One trigger-pull leads to one discharge.
+Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.

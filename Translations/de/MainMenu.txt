@@ -88,4 +88,12 @@ Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
 IP VERBERGEN
 Wenn eingeschaltet, werden keine IPs in der Client Konsole angezeigt.
 AUFHEBEN UMSCHALTEN
-Das Aufheben von Items erfordert kein Halten der Taste; Drücke erneut, um abzubrechen.
+Das Aufheben von Gegenständen erfordert kein Halten der Taste; Drücke erneut, um abzubrechen.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gibt der Umgebung mehr Tiefe durch hohe Performanceeinbußen.
+Gibt Licht mehr Tiefe durch hinzufügen eines leuchtens, basierend auf der Lichtintensität. 
+Umschalten um Untertitel für CASSIE Durchsagen zu sehen. 
+Lässt die Taskleiste blinken wenn das Spiel nicht im Vordergrund ausgeführt wird.
+Glättet Linien und entfernt visuelle Verzerrungen. 
+Synchronisiert die FPS mit deiner Monitorbildwiederholrate um Bildverzerrung zu entfernen. 
+Projeziert Texturen wie Schusslöcher oder Blutflecken. 

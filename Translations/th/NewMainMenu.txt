@@ -90,3 +90,4 @@ Flash Taskbar ตอนเกิด
 Ambient Occlusion
 Volumetric Lights
 Bloom
+เปิดคำบรรยาย

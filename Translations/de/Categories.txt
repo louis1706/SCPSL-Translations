@@ -1,10 +1,10 @@
 Keine
 Zugangskarten
-Medizinische Items
+Medizinische Gegenstände
 Radios
 Waffen
 Granaten
-SCP Items
+SCP Gegenstände
 Micro H.I.D.
 Munition
 Körperpanzerung

@@ -35,8 +35,8 @@ Directeur du Jeu SCP:SL
 Responsable des serveurs Officiels SCP:SL
 Spécialiste des Vérifications Northwood
 Spécialiste du code Natif Northwood
-Testeur de la Qualité SCP:SL
-Testeur de la Qualité en Chef SCP:SL
+Testeur Qualité SCP:SL
+Testeur Qualité en Chef SCP:SL
 Abonné Twitch SCP:SL
 Audio Manager SCP:SL
 Coordinateur des Avis Northwood
