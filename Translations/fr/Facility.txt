@@ -40,4 +40,5 @@ La partie commence dans : <color=yellow>{0}</color>s
 Le lancement de la partie est <color=#FF5050>suspendu</color>
 SENSIBILITÉ DE VISÉE
 Appuyez sur [key] pour annuler le lancer.
-Maintenir pour viser.
+Maintenir pour viser
+Rendre muet les spectateurs
