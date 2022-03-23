@@ -1,17 +1,17 @@
-fin de la partie !
-<size=110>VICTOIRE DES SCP</size>
-<size=110>VICTOIRE DE LA FIM EPSILON-11</size>
-<size=110>VICTOIRE DES CLASSE-D</size>
+Fin de la partie !
+VICTOIRE DES SCP
+VICTOIRE DE LA FONDATION
+VICTOIRE DE L'INSURRECTION
 ÉGALITÉ
-Ils sont responsables de la mort de [summary_scpfrags] personnes.
-Menace éliminée, cet endroit est de nouveau sécurisé.
-La sécurité de la Fondation a été anéantie.
-Les deux camps ont eu beaucoup de pertes. Impossible de déterminer un gagnant.
+Toutes les entités évadées sont portées disparues. Un état d'alerte a immédiatement été déclaré.
+Toutes les menaces ont été neutralisées. Ce site est à nouveau sécurisé.
+Les forces de sécurité de la Fondation ont été éliminées. Occupation par l'Insurrection en cours.
+Le Site-02 est sous contrôle incertain. Le gagnant reste indéterminé.
 [summary_d_escaped] Classe-D se sont échappés
-[summary_s_escaped] Scientifique(s) se sont échappés
-La détonation de l'ogive Alpha a fait [summary_warhead_kills] victimes.
-L'ogive Alpha n'a pas explosée durant cette partie.
+[summary_s_escaped] Scientifique(s) ont survécu
+La détonation de l'Ogive Alpha a tué [summary_warhead_kills] entité(s).
+L'Ogive Alpha n'a pas explosé au cours de cette mission.
 La partie a duré [summary_round_minutes] minutes et [summary_round_seconds] secondes.
 [summary_scp_terminated] SCP éliminé(s)
 Partie suivante dans [summary_next_round_countdown] secondes.
-Vous avez fait [summary_damages] de dégâts et tué [summary_kills] joueurs !
+Les SCP ont tué [summary_scpfrags] être(s) humain(s).
