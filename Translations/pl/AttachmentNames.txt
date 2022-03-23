@@ -42,3 +42,5 @@ Krótka lufa~Skrócona wersja standardowej lufy, poprawia mobilność oraz czas 
 Czok~Zwiększa ogólny rozrzut śrutu, lecz poprawia przewidywalność rozrzutu.
 Przedłużona lufa~Obniża rozrzut śrutu i sprawia, że strzelba staje się cięższa i dłuższa.
 Bez Kolby~Skraca ogólną długość, przez co broń staje się bardziej mobilna, natomiast usunięta kolba uniemożliwia bezpiecznego z niej celowania.
+System jednostrzałowy~Podstawowy system. Jedno pociągniecie spustu skutkuje jednym wystrzałem.
+System dwustrzałowy~Zmodyfikowany mechanism spustu. Jedno pociągniecie skutkuje dwoma wystrzałami na raz.

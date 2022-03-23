@@ -1,0 +1,14 @@
+# Global owner (commented out) in case we'd ever need that...
+#*       @northwood-studios/translation-management
+
+# Github folder changes goes by management
+.github/ @northwood-studios/translation-management
+
+# English Checks done by Translation Mangement (Evan)
+/Translations/English\ (default)/ @northwood-studios/translation-management
+/Steam-Translations/Achievements/700330_loc_english.vdf @northwood-studios/translation-management
+/Steam-Translations/Rich\ Presence/700330_loc_english.vdf @northwood-studios/translation-management
+
+# Norwegian by Evan
+/Translations/nb/ @Rnen
+*norwegian.vdf @Rnen

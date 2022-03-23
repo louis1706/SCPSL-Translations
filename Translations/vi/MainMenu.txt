@@ -89,3 +89,11 @@ Nếu bật, bạn của bạn có thể vào chung server mà không cần sự
 Nếu bật, IP của bạn sẽ không hiện trong console.
 BẬT TÌM KIẾM
 Việc nhặt vật phẩm sẽ không cần nhấn giữ nữa, nhấn lại để bỏ chọn.
+Áp dụng bóng mềm vào góc cạnh và chỗ hẹp giúp tạo chiều sâu cho mô hình.
+Thêm chiều sâu cho môi trường xung quanh nhưng đánh đổi hiệu suất.
+Thêm chiều sâu vào ánh sáng bằng hiệu ứng phát sáng tùy thuộc vào cường độ ánh sáng.
+Bật để hiện phụ đề khi CASSIE thông báo.
+Nhấp nháy ở Taskbar khi bạn được spawn nếu bạn đang không ở màn hình game.
+Làm mềm các đường thẳng và loại bỏ rối loạn khúc xạ.
+Đồng bộ FPS game với cường độ làm tươi màn hình để tránh rách khung hình.
+Hiển thị họa tiết vết đạn và vết máu.

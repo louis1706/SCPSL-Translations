@@ -34,3 +34,5 @@
 <size=80>Vui lòng chờ</size>\nĐang kiểm tra tính bảo mật của server...
 <size=80>MẤT KẾT NỐI</size>\nKhông kiểm tra được tính bảo mật của server.
 <size=80>MẤT KẾT NỐI</size>\nTốc độ kiểm tra tính bảo mật server quá chậm.\nVui lòng liên hệ quản trị viên server.
+<size=80>LỖI XÁC THỰC</size>\nTin nhắn từ server: [message].
+<size=80>MẤT KẾT NỐI</size>\nServer đang tắt nguồn.

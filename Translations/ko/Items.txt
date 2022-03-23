@@ -35,7 +35,7 @@
 39~.44 REVOLVER
 40~AK RIFLE
 41~SHOTGUN
-42~사탕봉지~여러 개의 사탕이\n들어있는 봉지<color=#FFFF00>각 사탕은 효과가 다릅니다</color>
-43~SCP-2176~유령 손전등입니다\n많이 위험합니다<color=#FFFF00>현 구역을 정전 시킵니다</color>
-44~SCP-244-A~고대 꽃병입니다\n<color=#FFFF00>설치시 차가운 안개를 만듭니다</color>
-45~SCP-244-B~고대 꽃병입니다\n<color=#FFFF00>설치시 차가운 안개를 만듭니다</color>
+42~사탕봉지~여러 개의 사탕이\n들어있는 봉지\n<color=#FFFF00>각 사탕은 효과가 다릅니다</color>
+43~SCP-2176~유령 손전등입니다\n많이 위험합니다\n<color=#FFFF00>현 구역을 정전 시킵니다</color>
+44~SCP-244-A~고대 꽃병입니다\n<color=#FFFF00>설치시 차가운\n안개를 만듭니다</color>
+45~SCP-244-B~고대 꽃병입니다\n<color=#FFFF00>설치시 차가운\n안개를 만듭니다</color>

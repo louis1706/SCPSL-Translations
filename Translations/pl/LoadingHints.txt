@@ -11,7 +11,7 @@ Wybuch głowicy Alfa zabija wszystko w podziemnej części placówki. Ona może 
 Proces detonacji głowicy Alfa może być anulowany w jej pomieszczeniu w Strefie Wyższego Nadzoru.
 Rozgłośnia interkomu w Strefie Wejściowej może być użyta do transmisji wiadomości głosowej do każdego gracza.
 Przedmioty mogą być rzucane (domyślnie pod "T"). Może być to użyte do otwierania z daleka drzwi na kartę dostępu lub rozbijania okien.
-Strefa Niskiego Nadzoru jest zamykana po 15 minutach, zabijając w niej każdego. Ucieknij póki możesz!
+Strefa Niższego Nadzoru jest zamykana po 15 minutach, zabijając w niej każdego. Ucieknij póki możesz!
 Zwiększ swą przewagę poprzez dostosywaniem dodatków do broni zależnie od sytuacji w której się znajdujesz.
 Czym więcej broń posiada dodatków, tym cięższa się ona staje. Wpływa to na zużycie wytrzymałości oraz prędkość ruchu.
 Tłumiki tłumią hałas wystrzału oraz ograniczają błysk powylotowy.

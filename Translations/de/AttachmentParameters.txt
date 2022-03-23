@@ -17,3 +17,5 @@ Nachladezeit
 Zielgeschwindigkeit
 Schrotkugelstreuung
 Einheitlichkeit der Muster
+Anzahl der Geschosse
+Nachladegeschwindigkeit

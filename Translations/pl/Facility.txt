@@ -13,7 +13,7 @@ GŁOWICA ALPHA WYŁĄCZONA
 ODMOWA DOSTĘPU
 CZAT GŁOSOWY
 EKWIPUNEK PEŁNY
-CZ. MYSZY
+CZĘSTOTLIWOŚĆ MYSZY
 HAKOWANIE
 PODNOSZENIE...
 Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić ją najniżej jak tylko to możliwe.\n<b>Zaleca się pozostawić wartość domyślną.</b>
@@ -38,3 +38,6 @@ Zostałeś przechwycony przez jednostkę Nine-Tailed Fox.\nWzmocniłeś jej szer
 Zostałeś schwytany jako naukowiec przez Rebelię Chaosu.\nInformacje, które z ciebie wyciągnęli, pozwoliły im na uzyskanie przewagi nad jednostkami Nine-Tailed Fox.
 START RUNDY ZA: <color=yellow>{0}</color>s
 START RUNDY <color=#FF5050>WSTRZYMANY</color>
+REDUKCJA CZ. MYSZY PRZY ADS
+Naciśnij [key] aby anulować rzut.
+Przełączane ADS

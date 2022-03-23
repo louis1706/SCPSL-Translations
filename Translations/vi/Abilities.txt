@@ -28,3 +28,4 @@ Cách ly:Sau khi đạt được Cấp truy cập thứ 2, bạn có thể tươ
 Hầu như không thể bị tiêu diệt:Năm máy điều khiển điện sẽ xuất hiện trong Khu giam giữ hạng nặng. Nếu tất cả các máy trên được mở khóa và kích hoạt, bạn sẽ bị nhốt lại.\nCác máy điều khiển điện đều có khoảng thời gian chờ trước khi được kích hoạt nên tất cả người chơi để có thể ngăn việc kích hoạt bằng cách nhấn nút 'CANCEL' trên máy.
 Cắn cổ: Giữ hoặc nhấn chuột để cắn cổ người, ngay lập tức giết họ nếu họ không thể nhìn bạn hoặc đang chớp mắt.
 Xung kích (Thịnh nộ):Ngăn người khác tẩu thoát - họ xứng đáng bị giết. Bạn cắm đầu thẳng về phía trước, phá hủy mọi thứ trong một khoảng cách nhỏ. Nếu bạn chạy vào cổng lớn, bạn sẽ lách được qua nó.
+Giận dữ:Thể hiện nỗi tức giận trong lòng. Năng lực tạo ra vũng sình dưới chân, vũng sình có khả năng giảm tốc người đi qua nó. Giết người bị dính sình sẽ hồi một lượng Hume Shield nhỏ.

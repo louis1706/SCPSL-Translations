@@ -41,4 +41,6 @@ Gewehrempfänger~Grösserer Empfänger welcher die Feuerkraft und Genauigkeit er
 Kurzer Lauf~Kürzere Version des Standardlaufes, genutzt um die Ausrüstungszeit zu verringern und die Mobilität zu erhöhen.
 Choke~Vergrößerter Radius der Streuung aber verbessert die Einheitlichkeit des Schussmusters.
 Langer Lauf~Verringert die Streuung minimal, erhöht allerdings das gesamte Gewicht und Länge der Waffe.
-Kein Schaft~ Konfigurationen wie diese kommen mit grosser Mobilität ein, aber das entfernen des Schafts macht es unmöglich sicher zu Zielen.
+Kein Schaft~Kurze Konfigurationen kommen mit hoher mobilität, aber den Schaft einer Waffen mit hohem Rückstoß zu entfernen ist nicht immer die beste Idee.
+Einzelschuss System~Standard System. Ein Abzugsdruck führt zu einem Schuss.
+Doppelschuss System~Modifizierter Auslösemechanismus der mit einem Abzugsdruck zwei mal schießt.

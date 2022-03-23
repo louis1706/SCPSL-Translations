@@ -8,6 +8,8 @@ ingame:
  - Translations/**/*
 credits: 
  - Translations/credits.txt
+manifest:
+ - */manifest.json
 en: 
  - Translations/English (default)/*
  - Steam-Translations/**/*_english.vdf
@@ -62,6 +64,9 @@ pt-BR:
 pt: 
  - Translations/pt/*
  - Steam-Translations/**/*_portuguese.vdf
+ro:
+ - Translations/ro/*
+ - Steam-Translations/**/*_romanian.vdf
 ru: 
  - Translations/ru/*
  - Steam-Translations/**/*_russian.vdf

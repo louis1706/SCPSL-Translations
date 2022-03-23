@@ -17,3 +17,5 @@ Czas przeładowania
 Prędkość zmiany postawy strzeleckiej
 Rozrzut śrutu
 Spójność rozrzutu
+Ilość pocisków
+Prędkość przeładowywania

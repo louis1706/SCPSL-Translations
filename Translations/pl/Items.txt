@@ -39,3 +39,4 @@
 43~SCP-2176~Twój własny Ghostlight! Uwaga, nie upuszczać...
 44~SCP-244-A~Starożytny wazon, zimny w dotyku. Gdy otwarty, tworzy dużą chmurę lodowatej mgły.
 45~SCP-244-B~Starożytny wazon, zimny w dotyku. Gdy otwarty, tworzy dużą chmurę lodowatej mgły.
+46~SCP-1853~Poprawia umięjętność obsługi broni kosztem zwiększonym zużyciem wytrzymałości.

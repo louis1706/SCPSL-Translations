@@ -38,3 +38,17 @@ Chuyên gia mã nguồn SCP:SL
 Tester chất lượng SCP:SL
 Giám sát chất lượng SCP:SL
 Người đăng ký Twitch SCP:SL
+Quản lý âm thanh SCP:SL
+Quản lý phản hồi Northwood
+Giám xác xác minh Northwood
+Giám sát server chính thức SCP:SL
+Giám sát phản hồi Northwood
+Quản lý xác minh Northwood
+Quản lý Bot Northwood
+Quản lý dịch thuật Northwood
+Quản lý thiết kế game SCP:SL
+Hoạt họa SCP:SL
+Quản lý ngoại giao Northwood
+Hỗ trợ SCP:SL
+Lồng tiếng SCP:SL
+Góp vốn SCP:SL

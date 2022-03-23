@@ -28,11 +28,13 @@ TIẾP TỤC
 ÂM LƯỢNG CHÍNH
 đã kết nối
 Bạn thoát hiểm dưới vai Nhà khoa học và gia nhập lực lượng MTF
-Bạn tẩu thoát dưới vai Tù nhân và gia nhập lực lượng Chaos Insurgency.
+Bạn tẩu thoát dưới vai Tù nhân và gia nhập lực lượng Tổ chức Ngầm.
 BẠN LÀ
 Thời gian trốn thoát: [escape_minutes] phút và [escape_seconds] giây
 Đợi [time] cho tới khi bạn được sử dụng [item] lại.
 Nhấn <color=yellow><b>F1</b></color> để hiện hướng dẫn.
 Bạn đã bị trói.\n<size=40>Tuân theo lệnh hoặc nhờ đồng đội giúp.</size>
 Bạn đã bị chiếm hữu bởi MTF.\nVới một mối nguy giảm đi, khả năng thành công của họ sẽ cao hơn.
-Bạn đã bị bỏ tù và chiếm hữu bởi Chaos Insurgency.\nVới lượng thông tin bạn đã khai, họ có thêm nhiều lợi thế.
+Bạn đã bị bỏ tù và chiếm hữu bởi Tổ chức Ngầm.\nVới lượng thông tin bạn đã khai, họ có thêm nhiều lợi thế.
+VÒNG CHƠI BẮT ĐẦU TRONG: <color=yellow>{0}</color>giây
+VÒNG CHƠI ĐÃ <color=#FF5050>TẠM DỪNG</color>

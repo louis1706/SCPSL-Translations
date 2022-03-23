@@ -39,3 +39,4 @@
 43~SCP-2176~Dein eigenes Geisterlicht! Achtung, sehr zerbrechlich...
 44~SCP-244-A~Eine antike Vase, Hände erfrierend kalt. Erzeugt eine große eisige Wolke wenn auf dem Boden platziert.
 45~SCP-244-B~Eine antike Vase, Hände erfrierend kalt. Erzeugt eine große eisige Wolke wenn auf dem Boden platziert.
+46~SCP-1853~Verbessert die Waffenmanipulationsfähigkeiten auf Kosten eines höheren Ausdauerverbrauchs.

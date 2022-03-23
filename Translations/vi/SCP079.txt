@@ -1,4 +1,4 @@
-NĂNG LƯỢNG PHỤ TRỢ (AP)
+NĂNG LƯỢNG (AP)
 KINH NGHIỆM (EXP)
 MÀN ẢNH CAMERA ONLINE
 NHẤN [KEY] ĐỂ BẬT MAP TOÀN CƠ SỞ
@@ -14,4 +14,4 @@ Tương tác tổng quan
 Bạn đang bị tấn công!
 Máy điều khiển điện đã được đánh giấu trên bản đồ
 NGUY HIỂM
-SCP{0}MTF & Bảo vệ{1}Nhà khoa học{2}Tù nhân{3}Chaos Insurgents{4}
+SCP{0}MTF & Bảo vệ{1}Nhà khoa học{2}Tù nhân{3}Lính Tổ chức Ngầm{4}
