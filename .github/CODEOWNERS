@@ -3,12 +3,45 @@
 
 # Github folder changes goes by management
 .github/ @northwood-studios/translation-management
+/* @northwood-studios/translation-management
+
 
 # English Checks done by Translation Mangement (Evan)
 /Translations/English\ (default)/ @northwood-studios/translation-management
 /Steam-Translations/Achievements/700330_loc_english.vdf @northwood-studios/translation-management
 /Steam-Translations/Rich\ Presence/700330_loc_english.vdf @northwood-studios/translation-management
 
+
+# Finnish by Foxeworks
+/Translations/fi/ @Foxeworks
+*finnish.vdf @Foxeworks
+
+# French by MajorFox-MJ
+/Translations/fr/ @MajorFox-MJ
+*french.vdf @MajorFox-MJ
+
+# German by Dat-Joseph
+/Translations/de/ @Dat-Joseph
+*german.vdf @Dat-Joseph
+
+# Hungarian by omgiamhungarian
+/Translations/hu/ @omgiamhungarian
+*hungarian.vdf @omgiamhungarian
+
 # Norwegian by Evan
 /Translations/nb/ @Rnen
 *norwegian.vdf @Rnen
+
+# Polish by zabszk
+Translations/pl/ @zabszk
+*polish.vdf @zabszk
+
+# Russian by GuyFawkes
+/Translations/ru/ @GuyFawkes76
+*russian.vdf @GuyFawkes76
+
+# zh & zh-Hant by Tychus-Xiaoyi
+/Translations/zh/ @Tychus-Xiaoyi
+*schinese.vdf @Tychus-Xiaoyi
+/Translations/zh-Hant/ @Tychus-Xiaoyi
+*tchinese.vdf @Tychus-Xiaoyi

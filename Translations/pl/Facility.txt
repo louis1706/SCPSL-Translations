@@ -41,3 +41,4 @@ START RUNDY <color=#FF5050>WSTRZYMANY</color>
 REDUKCJA CZ. MYSZY PRZY ADS
 Naciśnij [key] aby anulować rzut.
 Przełączane ADS
+Wycisz obserwatorów

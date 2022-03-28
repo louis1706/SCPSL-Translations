@@ -35,3 +35,8 @@
 39~.44 Revolver
 40~AK
 41~Hagle
+42~Pose med Godteri~En pose som inneholder følgende godteri:
+43~SCP-2176~Ditt helt egne spøkelses-lys! Forsiktig, veldig skjør...
+44~SCP-244-A~En antikk vase, iskald overflate. Lager en stor sky av is-tåke når plassert.
+45~SCP-244-B~En antikk vase, iskald overflate. Lager en stor sky av is-tåke når plassert.
+46~SCP-1853~Forbedrer våpen-manipulasjons ferdigheter til tross for høyere utholdenhets-påkjenning.
