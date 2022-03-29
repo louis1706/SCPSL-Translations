@@ -6,7 +6,7 @@ VICTOIRE DE L'INSURRECTION
 Les sujets évadés ont envahi l'établissement. Un message d'alerte a immédiatement été diffusé.
 Toutes les menaces à la sécurité ont été neutralisées. Le Site-02 est à nouveau sécurisé.
 La présence de la Fondation a été exterminée. Agents en attente de nouveaux ordres.
-Le Site-02 est sous un certain contrôle, mais pas sans coût. Le vainqueur est indéterminé.
+Le Site-02 est sous un certain contrôle, mais pas sans sacrifices. Le vainqueur est indéterminé.
 [summary_d_escaped] Classe(s)-D se sont échappés
 [summary_s_escaped] Scientifique(s) ont survécu
 La détonation de l'Ogive Alpha a tué [summary_warhead_kills] entité(s).
