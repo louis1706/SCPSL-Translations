@@ -3,9 +3,9 @@ SCP WYGRYWA
 FUNDACJA WYGRYWA
 REBELIA WYGRYWA
 SYTUACJA PATOWA
-Nie zdołano zabezpieczyć każdego podmiotu. Zarządzanie kryzysowe zostało zainicjowane.
-Zneutralizowano zagrożenie. Placówka jest ponownie bezpieczna.
-Pozbyto się całego personelu fundacji. Okupacja rebelii trwa w toku. 
+Uciekłe podmioty opanowały całą placówkę. Zarządzanie kryzysowe zostało zainicjowane.
+Zneutralizowano zagrożenie. Ośrodek 02 jest ponownie bezpieczny.
+Cały personel fundacji został zgładzony. Żołnierze oczekują dalszych rozkazów.
 Ośrodek 02 jest pod niepewną kontrolą. Zwycięzca zostaje nieokreślony.
 [summary_d_escaped] klas d uciekło
 [summary_s_escaped] naukowców przetrwało

@@ -8,8 +8,8 @@ Hosszúság
 ELDOB:
 Sisak Hatékonysága
 Mellény Hatékonysága
-Állóképesség Használat
-Mozgás sebessége
+Állóképesség-használat
+Mozgás Sebessége
 Tárgy Limit:
 Lőszer Limit:
 {0} összesen

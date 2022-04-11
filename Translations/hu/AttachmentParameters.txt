@@ -11,9 +11,11 @@ Célzási pontosság
 Felszerelési gyorsaság
 Lövés hangossága
 Tár kapacitása
-Felszereléső idő
+Felszerelési idő
 Újratöltési idő
 ---
 Célzási idő
 Sörétek szórása
 Szórási minta kiszámíthatósága
+Lövetek száma
+Újratöltési sebesség

@@ -1,54 +1,54 @@
-Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
-SCP:SL Art Manager
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
+Northwood Fő Végrehajtó Tisztviselő
+Northwood Fő Információ Tisztviselő
+Northwood Fő Operáció Tisztviselő
+Northwood Közösség Rendező
+Northwood Discord Menedzser
+Northwood Végrehajtó Asszisztens
+Northwood Visszajelzési Menedzser
+Northwood Emberi Erőforrások
+Northwood Emberi Erőforrások Igazgató
+Northwood Értékesítési Platform Menedzser
+Northwood Személyzet
+Northwood Steam Menedzser
+Northwood Rendszeradminisztrátor
+Northwood Wiki Menedzser
+SCP:SL Művészeti Menedzser
+SCP:SL Művészeti Ellenőr
+SCP:SL Művész
+SCP:SL Háttérprogramozó
+SCP:SL Háttérprogramozó Menedzser
+SCP:SL Fejlesztő
+SCP:SL Event Nyertes
+SCP:SL Fullstack Programozó
+SCP:SL Játéktervező
+SCP:SL Játékmenet Programozó
+SCP:SL Globális Moderáció Menedzser
+SCP:SL Globális Moderátor
+SCP:SL Fő Játéktervező
+SCP:SL Fő Játékmenet-Programozó
+SCP:SL Szinttervező
 SCP:SL Partner
-SCP:SL Patreon Supporter
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
-SCP:SL Game Director
-SCP:SL Official Server Manager
-Northwood Verification Specialist
-SCP:SL Anti-Cheat Developer
-SCP:SL Quality Assurance Tester
-SCP:SL Quality Assurance Supervisor
-SCP:SL Twitch Subscriber
-SCP:SL Audio Manager
-Northwood Feedback Coordinator
-Northwood Verification Supervisor
-SCP:SL Official Server Supervisor
-Northwood Feedback Supervisor
-Northwood Verification Manager
-Northwood Bot Manager
-Northwood Translation Manager
-SCP:SL Game Design Manager
-SCP:SL Animator
-Northwood Public Relations Director
-SCP:SL Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
+SCP:SL Patreon Támogató
+SCP:SL Minőségbiztosítási Menedzser
+SCP:SL Hangtervező
+SCP:SL Játékrendező
+SCP:SL Hivatalos Szerver Menedzser
+Northwood Igazoló Szakember
+SCP:SL Csaláselleni Fejlesztő
+SCP:SL Minőségbiztosítás Tesztelő
+SCP:SL Minőségbiztosítási Ellenőr
+SCP:SL Twitch Feliratkozó
+SCP:SL Audió Menedzser
+Northwood Visszajelzési Koordinátor
+Northwood Igazolási Felügyelő
+SCP:SL Hivatalos Szerver Felügyelő
+Northwood Visszajelzési Menedzser
+Northwood Visszajelzési Menedzser
+Northwood Bot Menedzser
+Northwood Fordítási Menedzser
+SCP:SL Játékterv Menedzser
+SCP:SL Animátor
+Northwood Közkapcsolat Rendező
+SCP:SL Segítő
+SCP:SL Szinkronszínész
+SCP:SL Alapítvány Befektető

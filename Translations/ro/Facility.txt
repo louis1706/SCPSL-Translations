@@ -38,3 +38,7 @@ Ai fost recapturat de Nine-Tailed Fox.\nCu o amenințare mai puțină în instal
 Ai fost luat ca un prizonier ca un om de știință de Insurgența Haosului.\nEi au putut obține un avantaj din informațiile pe care le-ați dat.
 RUNDA ÎNCEPE ÎN: <color=yellow>{0}</color>s
 ÎNCEPEREA RUNDEI ESTE <color=#FF5050>ÎNTRERUPTĂ</color>
+REDUCERE SENS. ȚINTIRE
+Apasă [key] pentru a anula aruncarea.
+Toggle ADS
+Dezactivează Chat-ul Spectatorilor

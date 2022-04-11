@@ -17,3 +17,5 @@ Kuşanma süresi
 Nişan alma hızı
 Mermi yayılması
 Gidişat tutarlılığı
+Mermi sayısı
+Şarjör değiştirme hızı

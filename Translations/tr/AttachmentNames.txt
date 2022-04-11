@@ -41,4 +41,6 @@ Tüfek Sürgüsü~Ateş gücünü ve isabetliliğini artırır ancak ağır gaz 
 Kısa Namlu~Standart namlunun kısaltılmış versiyonu, çekme hızını ve hareketliliği artırır.
 Şok~Mermi yayılımını artırır ancak gidişat modelini iyileştirir.
 Uzatılmış Namlu~Mermi yayılımını azaltır ancak silahın toplam ağırlığını ve uzunluğunu artırır.
-Dipçik Yok~Yüksek hareketlilik için kısa yapılandırma, ancak tüfekten dipçiği kaldırdığı için nişan alırkenki kontrolü imkansız kılar.
+Dipçik Yok~Yüksek hareketlilik için kısa yapılandırma, ancak geri tepmesi yüksek bir tüfekte dipçiği kaldırmak pek iyi bir fikir değildir.
+Tekli-Atış Sistemi~Standart sistem. Tetik çekildiğinde tek bir atış yapar.
+Çifte-Atış Sistemi~Tetik çekildiğinde her iki tetiği de harekete geçiren modifiye tetik mekanizması.

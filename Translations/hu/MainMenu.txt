@@ -8,7 +8,7 @@ NYELV
 ANTIANALÍZIS
 Részletek megváltoztatása:\n-PIXEL FÉNY SZÁM - a fényforrások maximális száma, amelyeknek fényük az egyes képpontokon jelenik meg.\n-V-Sync - lehetővé teszi a szinkronizációt a kijelző eszköz frissítési gyakoriságával.
 CSATLAKOZÁS
-ÚTÓFEL\nDOLGOZÁS
+UTÓFELDOLGOZÁS
 KÉSZÍTŐK
 KILÉPÉS
 Teljes képernyős mód
@@ -21,12 +21,12 @@ PIXEL FÉNY SZÁM
 ÁRNYÉK TÍPUS
 ÁRNYÉKOK
 LÉTREHOZÁS
-Útófeldolgozási beállítások módosítása. Ezek a beállítások nem befolyásolják a teljesítményt. Az alapértelmezett értékek hagyása ajánlott.
+Utófeldolgozási beállítások módosítása. Ezek a beállítások nem befolyásolják a teljesítményt. Az alapértelmezett értékek hagyása ajánlott.
 Fényvisszaverési mód:\nHa kikapcsolva - a játék sokkal rosszabbul fog kinézni. Ajánlott, ha alacsony teljesítményű számítógéped van.
 V-SYNC
 CSATLAKOZÁS
 MINŐSÉG BEÁLLÍTÁSOK
-Árnyék beállítások megváltoztatása. Ezek a csúszkák alacsonyabb értékeken történő beállításai növelhetik a játékmenet simaságát.
+Árnyékbeállítások megváltoztatása. Ezek a csúszkák alacsonyabb értékeken történő beállításai növelhetik a játékmenet simaságát.
 FŐMENÜ
 FÉNYVISSZAVERÉSI MÓD
 ELMOSÓDÁS
@@ -42,12 +42,12 @@ SZERVER BÖNGÉSZŐ
 OK
 MECCSKERESÉS
 2. Fegyverek használata
-A Discordot használjuk fórumként. Telepítés nem szükséges.\n(klikkelj a logóra hogy belépj)
+A Discordot használjuk fórumként. Telepítés nem szükséges.\n(klikkelj a logóra, hogy belépj)
 Alapértelmezés szerint, a szerver egy lokális hálózaton fut.\nA barátaidnak a közvetlen IP címre van szükségük.\nHa egy publikus szervert szeretnél, válaszd ki a LocalAdmin.exe-t és kövesd az instrukciókat.\nHa bármi kérdésed van, a tech support segítségedre van (link a főmenüben)
 1. Az alapok
 A következő játék még egy publikus bétaverzióban van.\nLehet, hogy kapcsolati problémákkal és játékhibákkal találkozol.\nA jelenlegi állapot nem tükrözi a végleges változatot.
 4. (többi tutorial később)
-DIREKT CSATLAKOZÁS
+KÖZVETLEN CSATLAKOZÁS
 TECH SUPPORT / FÓRUM
 HANGERŐ
 Írd be a kiválasztott szerver IP címét.
@@ -55,7 +55,7 @@ ADATOK LETÖLTÉSE
 NINCS ELÉRHETŐ SZERVER
 NYOMD MEG AZ ESC-ET A BEZÁRÁSHOZ/VISSZALÉPÉSHEZ
 BILLENTYŰKIOSZTÁS
-MAX. VÉRMENNYISÉG
+Matricák
 FPS Limit
 FPS Limit nem működik, ha a vSync be van kapcsolva!
 Alapértelmezettek betöltése
@@ -83,9 +83,17 @@ RÉSZLETES MEGJELENÍTÉS
 Ha engedélyezve van, a státuszod Steamen és Discordon is fel lesz tüntetve.
 PONTOS HP ÉRTÉK MUTATÁSA
 A pontos HP értékeket mutatja a százalék helyett.
-NYÍLVÁNOS LOBBY
-Ha engedélyezve van, a Steames barátaid engedély nélkül szabadon csatlakozhatnak.
+NYILVÁNOS LOBBY
+Ha engedélyezve van, a Steam-es barátaid engedély nélkül szabadon csatlakozhatnak.
 IP elrejtése
 Ha engedélyezve van, semmilyen IP cím sem lesz feltüntetve a konzolban.
 Interakció módja
-A tárgyak felvételéhez nyomd meg az interakció gombját; nyomd meg mégegyszer, ha meg akarod szakítani.
+A tárgyak felvételéhez nyomd meg az interakció gombját; nyomd meg még egyszer, ha meg akarod szakítani.
+Lágy árnyékokat alkalmaz a sarkokban és szoros helyeken, hogy mélyebbé tegye a modelleket.
+Több mélységet ad a környezetnek nagy teljesítmény árán.
+Több mélységet ad a megvilágításnak azáltal, hogy ragyogást alkalmaz a fényintenzitás alapján.
+Kapcsolja a feliratokat CASSIE közleményeknél.
+Újraéledéskor villogtatja az ikont a tálcán, ha a játék nincs fókuszban.
+Kisimítja a vonalakat, és eltünteti a vizuális torzítást.
+Szinkronizálja a játék FPS-ét a monitorod frissítési sebességével, hogy elkerülje a "screen tearing"-et ("képernyőszakadás").
+Vetített textúrák, mint golyónyomok és vérfoltok.

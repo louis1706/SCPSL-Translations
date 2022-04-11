@@ -9,7 +9,7 @@ ingame:
 credits: 
  - Translations/credits.txt
 manifest:
- - */manifest.json
+ - Translations/**/manifest.json
 en: 
  - Translations/English (default)/*
  - Steam-Translations/**/*_english.vdf

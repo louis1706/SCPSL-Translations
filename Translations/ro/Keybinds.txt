@@ -15,7 +15,7 @@ Lista de Jucători
 Informație Caracter
 Remote Admin
 Toggle Lanternă
-Voice Chat Alt
+Chat Vocal Alt
 Noclip
 Consola Jocului
 Tastă Rapidă Cartelă de Acces

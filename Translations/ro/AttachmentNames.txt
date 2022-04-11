@@ -1,16 +1,16 @@
 Nimic~Opțiune default fără efecte.
 Sight Fier~O pereche de markeri de aliniere care alcătuiesc un dispozitiv simplu de observare ușoară.
-Sight Punct~Sight reflexă fără mărire cu un mic punct iluminat indicând punctul aiming-ului.
+Sight Punct~Sight reflexă fără mărire cu un mic punct iluminat indicând punctul de țintire.
 Sight Holografic~Sight fără mărire cu reticul holografic. Efectiv în luptă de aproape.
 Lunetă cu Vedere Nocturnă~Sight telescopic augmentat cu un dispozitiv cu vedere-nocturnă. Greu, dar efectiv în toate condițiile de iluminare.
 Sight Numărător de Amuniție~Sight de fier cu dispozitiv integrat de numărare a amuniției.
 Sight Telescopic~Dispozitiv de observare greu, care oferă mărire optică. Perfect pentru distanțe lungi, dar limitează percepția generală.
-Stoc Standard~Stoc obișnuit, oferă control mai bun al armei cu aiming.
-Stoc Extins~Oferă control mai bun al armei cu aiming, dar crește timpul de echipare.
+Stoc Standard~Stoc obișnuit, oferă control mai bun al armei cu țintire.
+Stoc Extins~Oferă control mai bun al armei cu țintire, dar crește timpul de echipare.
 Stoc Retras~Face arma mai compactă, ceea ce crește mobilitatea.
-Stoc Ușor~Reduce greutatea armei dar este mai greu să controlezi recoil-ul cu aiming.
-Stoc Greu~Greutate crescută scade mobilitatea dar face arma mai stabilă cu aiming.
-Stoc Reducere-Recoil~Stoc echipat cu un sistem care încearcă să disperseze forța între gloanțe individuale.
+Stoc Ușor~Reduce greutatea armei dar este mai greu să controlezi recul cu țintire.
+Stoc Greu~Greutate crescută scade mobilitatea dar face arma mai stabilă cu țintire.
+Stoc Reducere-Recul~Stoc echipat cu un sistem care încearcă să disperseze forța între gloanțe individuale.
 Foregrip~Prindere verticală înainte. Face mai ușor să manipulezi creșterea muzzle-ului.
 Sight Laser~Oferă un punct de referință vizual asupra țintei, care ajută la hip-firing, dar vă poate dezvălui cu ușurință poziția.
 Lanternă~Sursă de lumină toggleable. Crește greutatea totală a armei dar îți poate salva viața în zone întunecate.
@@ -19,7 +19,7 @@ Butoi Standard~Butoi convențional fără dispozitiv muzzle.
 Butoi Extins~Îmbunătățește puterea totală de foc, dar contribuie la o mobilitate redusă cauzată de greutatea și lungimea crescută.
 Supresor~Moderator de sunet. Reduce zgomotul făcut de gloanțe, dar crește greutatea și lungimea totală a armei.
 Ascundere Flash~Elimină muzzle flash. Face mai ușor să împuști în întuneric.
-Muzzle Brake~Compensator recoil. Folosește gaze propulsive pentru a reduce recoil-ul, dar crește intensitatea acustică a gloanțelor.
+Muzzle Brake~Compensator de recul. Folosește gaze propulsive pentru a reduce recul, dar crește intensitatea acustică a gloanțelor.
 Muzzle Booster~Îmbunătățește rata focului, care rezultă mai mult damage pe secundă, dar arma este mai grea de controlat. 
 Magazie FMJ~Magazie standard care conține gloanțe metalice complete.
 Magazie AP~Magazie standard care conține gloanțe cu pătrundere de armură.
@@ -41,4 +41,6 @@ Receptor de Rifle~Receptorul superior de dimensiuni mari îmbunătățește pute
 Butoi Scurt~Versiune scurtată a butoiului standard, utilizată pentru a îmbunătăți viteza de tragere și mobilitatea.
 Choke~Crește raza totală de răspândire, dar îmbunătățește consistența pattern-ului.
 Butoi Extins~Reduce ușor raza de răspândire, dar mărește greutatea și lungimea totală a armei.
-Fără Stoc~Configurațiile scurte vin cu mobilitate ridicată, dar îndepărtarea stocurilor dintr-un rifle face aiming-ul în siguranță imposibil.
+Fără Stoc~Configurațiile scurte vin cu mobilitate ridicată, dar îndepărtarea stocurilor dintr-o armă face țintirea în siguranță imposibilă.
+Sistem Împușcătură-Singură~Sistem standard. O singură apăsare a declanșatorului duce la o descărcare.
+Sistem Împușcătură-Dublă~Mecanism de declanșare modificat care acționează ambele roți cu o singură tragere.

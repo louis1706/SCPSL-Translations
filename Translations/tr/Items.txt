@@ -39,3 +39,4 @@
 43~SCP-2176~Kendi Ghostlight'ınız! Dikkat, çok kırılgan...
 44~SCP-244-A~Dokunulduğunda donan eski bir vazo. Yerleştirildiğinde büyük bir buzlu sis bulutu oluşturur.
 45~SCP-244-B~Dokunulduğunda donan eski bir vazo. Yerleştirildiğinde büyük bir buzlu sis bulutu oluşturur.
+46~SCP-1853~Silah kullanma yeteneklerini daha fazla enerji kullanımı karşılığında arttırır.

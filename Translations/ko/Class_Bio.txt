@@ -1,21 +1,21 @@
-<color=#F00>SCP-173</color>은 상대가 당신을 보고 있을 때 움직이거나 공격할 수 없습니다\n상대가 깜빡이거나 보지 않을 때 죽여야합니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#FF8E00>D 클래스</color>는 중범죄를 지어 끌려왔습니다\n<color=#F00>SCP</color>와 <color=#0096FF>NTF (구미호)</color>를 피해 시설을 탈출해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 협력해야합니다
-사망하였습니다\n곧 리스폰됩니다\n관전을 하면서 상황을 지켜봅시다
-<color=#F00>SCP-106</color>은 느리지만\n든든한 탱커 역할을 하며 문을 통과할 수 있습니다\n공격 시 주머니 차원으로 가둡니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#FFFF7CFF>과학자</color>가 시설에서 탈출하여\n<color=#0096FF>NTF (구미호)</color>에 협력 했습니다\n모든 <color=#F00>SCP</color>를 격리해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 <color=#FF8E00>D 클래스</color>를 제거해야합니다\n남은 <color=#FFFF7CFF>과학자</color>를 안전하게 구출해야합니다
-<color=#F00>SCP-049</color>는 느리고 약하지만, 매복에 특화되어 있습니다\n시체를 소생해 동료를 늘려 유리하게 이끌어 가야합니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#FFFF7CFF>과학자</color>는 시설에서 연구하는 직원입니다\n<color=#F00>SCP</color>와 <color=#008F1E>CI (혼돈의 반란)</color>를 피해 시설을 탈출해야합니다\n<color=#0096FF>NTF (구미호)</color>와 협력해야합니다
-<color=#F00>SCP-079</color>는 직접적인 전투나 이동을 할 수 없습니다\n대신 <color=#F00>SCP</color>를 간접적으로 도울 수 있습니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#FF8E00>D 클래스</color>가 시설에서 탈출하여\n<color=#008F1E>CI (혼돈의 반란)</color>에 협력 했습니다\n<color=#FFFF7CFF>과학자</color>와 <color=#0096FF>NTF (구미호)</color>를 제거해야합니다\n남은 <color=#FF8E00>D 클래스</color>을 안전하게 탈출시켜야합니다\n상황에 따라서<color=#F00>SCP</color>와 협력 / 적대할 수 있습니다 
-<color=#F00>SCP-096</color>은 분노하여 상대를 죽일수있습니다\n분노한 상태에서 문을 부수거나 잠긴 문을 열 수 있습니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#F00>SCP-049-2</color>는 소생된 좀비입니다\n할퀴어서 데미지를 줄 수 있습니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#0096FF>NTF (구미호)</color>는 시설에 문제가 발생할시\n투입되는 특수부대입니다\n모든 <color=#F00>SCP</color>를 격리해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 <color=#FF8E00>D 클래스</color>를 제거해야합니다\n<color=#FFFF7CFF>과학자</color>를 안전하게 구출해야합니다
-<color=#0096FF>NTF (구미호)</color>는 시설에 문제가 발생할시\n투입되는 특수부대입니다\n모든 <color=#F00>SCP</color>를 격리해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 <color=#FF8E00>D 클래스</color>를 제거해야합니다\n<color=#FFFF7CFF>과학자</color>를 안전하게 구출해야합니다
-<color=#0096FF>NTF (구미호)</color>는 시설에 문제가 발생할시\n투입되는 특수부대입니다\n모든 <color=#F00>SCP</color>를 격리해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 <color=#FF8E00>D 클래스</color>를 제거해야합니다\n<color=#FFFF7CFF>과학자</color>를 안전하게 구출해야합니다
-임무를 수행하여 목표를 달성해야 합니다\n다른 용도로 사용할수도 있습니다\n게임에 영향이 있거나 없을수도 있습니다
-<color=#808080>시설 경비원</color>은 시설의 안전을 책임집니다\n모든 <color=#F00>SCP</color>를 격리해야합니다\n<color=#008F1E>CI (혼돈의 반란)</color>과 <color=#FF8E00>D 클래스</color>를 제거해야합니다\n<color=#FFFF7CFF>과학자</color>를 안전하게 구출해야합니다\n지원오는 <color=#0096FF>NTF (구미호)</color>와 협력해야합니다
-<color=#F00>SCP-939-53</color>은 시야가 잘 안보입니다\n상대가 행동하거나 공격하면 시야에 나타납니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#F00>SCP-939-89</color>는 시야가 잘 안보입니다\n상대가 행동하거나 공격하면 시야에 나타납니다\n다른 <color=#F00>SCP</color>와 협동해야합니다\n상황에 따라서 <color=#008F1E>CI (혼돈의 반란)</color>와 협력 / 적대할 수 있습니다
-<color=#008F1E>CI (혼돈의 반란)</color>는 재단을 배신하고\n재단의 SCP들을 훔치려고 왔습니다\n<color=#FFFF7CFF>과학자</color>와 <color=#0096FF>NTF (구미호)</color>를 제거해야합니다\n<color=#FF8E00>D 클래스</color>을 안전하게 탈출시켜야합니다\n상황에 따라서<color=#F00>SCP</color>와 협력 / 적대할 수 있습니다
-<color=#008F1E>CI (혼돈의 반란)</color>는 재단을 배신하고\n재단의 SCP들을 훔치려고 왔습니다\n<color=#FFFF7CFF>과학자</color>와 <color=#0096FF>NTF (구미호)</color>를 제거해야합니다\n<color=#FF8E00>D 클래스</color>을 안전하게 탈출시켜야합니다\n상황에 따라서<color=#F00>SCP</color>와 협력 / 적대할 수 있습니다
-<color=#008F1E>CI (혼돈의 반란)</color>는 재단을 배신하고\n재단의 SCP들을 훔치려고 왔습니다\n<color=#FFFF7CFF>과학자</color>와 <color=#0096FF>NTF (구미호)</color>를 제거해야합니다\n<color=#FF8E00>D 클래스</color>을 안전하게 탈출시켜야합니다\n상황에 따라서<color=#F00>SCP</color>와 협력 / 적대할 수 있습니다
+<color=#F00>SCP-173</color>은 누군가 그를 보고 있을 때 움직이거나 공격할 수 없습니다. 낙오자와 소규모 집단을 죽일 때 효과적이지만\n총격전은 가급적 피해야합니다.
+변칙적인 개체에 대한 실험을 위해 재단에서 사용하는 소모품인\n<color=#FF8E00>D계급 인원의</color> 목표는 <color=#F00>SCP</color>와 <color=#0096FF>구미호 특무부대</color>를 피해 시설을 탈출하는 것입니다.\n<color=#008F1E>혼돈의 반란</color>이 당신의 탈출을 도울 것입니다.
+곧 리스폰됩니다.\n기다리는 동안 상황이 이상하게 흘러가는 것을\n지켜보고 계십시오..
+<color=#F00>SCP-106</color>은 느리지만 든든한 탱커 역할을 하며\n문을 통과할 수 있습니다. 적을 혼란시켜 단합하지 못하게 하고\n승리를 쟁취하십시오.
+<color=#FFFF7CFF>과학자</color>가 탈출 한 뒤 위험으로부터 재단의 안전을 책임지는\n엘리트 특무부대의 상등병이 되었습니다. 주요 목표는 모든\n<color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고 <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
+<color=#F00>SCP-049</color>는 느리고 약하지만, 매복에 특화되어 있습니다.\n시체를 소생해 동료를 늘려 게임을 유리하게 이끌어 가십시오.
+변칙적인 개체에 대한 실험을 하는 <color=#FFFF7CFF>과학자</color>의 목표는 \n<color=#F00>SCP</color>와 <color=#008F1E>혼돈의 반란</color>을 피해 시설을 탈출하는것입니다.\n<color=#0096FF>구미호 특무부대</color>가 당신의 탈출을 도울 것입니다.
+<color=#F00>SCP-079</color>는 직접적인 전투나 이동을 할 수 없지만, 각 방을 비추는 보안 카메라를 통해 <color=#F00>SCP</color>를 도울 수 있습니다. 탭 키를 눌러 시설 전체의 지도를 볼 수 있으며, 카메라에 표시된 버튼들을 눌러 팀원을 도울 수 있습니다.\n제한된 전력(AP)이 있고, 이 AP는 능력을 발휘하는 데에 사용됩니다. 경험치가 충분히 모여\n접근 권한이 높아지면 AP의 회복량이 빨라지고 새 능력을 얻을 수 있습니다.
+당신은 시설에서 탈출하여 비밀 단체이자 재단의 적대 조직인\n<color=#008F1E>혼돈의 반란</color>에 합류했습니다. 이들의 임무는\n<color=#FFFF7CFF>과학자</color>와 모든 <color=#0096FF>재단 관계자</color>를 제거하고 <color=#FF8E00>D계급 인원</color>들을 호송하는 것입니다.
+<color=#F00>SCP-096</color>은 존재만으로도 압박을 가하며,\n분노하면 집단 전체를 신속하게 없앨 수 있습니다.
+<color=#F00>SCP-049-2</color>는 소생된 좀비로, 그 숫자가 늘어나면\n게임의 흐름을 변화시킬 수 있습니다.
+위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의 중사입니다.\n주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
+위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의 대위입니다.\n주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
+위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n낮은 직급을 가진 이등병입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>,\n<color=#FF8E00>D계급 인원</color>을 제거하고 <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것입니다.
+주어진 임무를 수행하여\n목표를 달성하십시오.
+<color=#808080>시설 경비</color>의 목표는\n<color=#FFFF7CFF>과학자</color>의 탈출을 돕고 곧 있을 <color=#F00>SCP</color>의 위협을 멈추는 것입니다.\n<color=#0096FF>구미호 특무부대</color>와 협력하여 방해가 되는 모든 것을 사살하십시오.
+<color=#F00>SCP-939-53</color>은 소리로 세상을 봅니다.\n빠른 움직임과 조용한 발걸음을 가지고 있어\n암살에 특화되어 있습니다.
+<color=#F00>SCP-939-89</color>는 소리로 세상을 봅니다.\n빠른 움직임과 조용한 발걸음을 가지고 있어\n암살에 특화되어 있습니다.
+재단 운영을 방해하고 SCP들로 사익을 취하는 것이 주목적인 비밀단체의 일원입니다.\n그들의 임무는 <color=#FFFF7CFF>과학자</color>들과 <color=#0096FF>재단 관계자</color>들을 제거하고\n<color=#FF8E00>D계급 인원</color>들을 호송하는 것입니다.
+재단 운영을 방해하고 SCP들로 사익을 취하는 것이 주목적인 비밀단체의 일원입니다.\n그들의 임무는 <color=#FFFF7CFF>과학자</color>들과 <color=#0096FF>재단 관계자</color>들을 제거하고\n<color=#FF8E00>D계급 인원</color>들을 호송하는 것입니다.
+재단 운영을 방해하고 SCP들로 사익을 취하는 것이 주목적인 비밀단체의 일원입니다.\n그들의 임무는 <color=#FFFF7CFF>과학자</color>들과 <color=#0096FF>재단 관계자</color>들을 제거하고\n<color=#FF8E00>D계급 인원</color>들을 호송하는 것입니다.

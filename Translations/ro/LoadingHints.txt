@@ -22,10 +22,10 @@ Gloanțe cu punct gol (JHP) au damage mai mare contra ținte fără armură dar 
 Ține apăsat butonul de reîncărcare pentru a de-încărca o armă, adăugând gloanțele în inventorul tău.
 Armele a Insurgența Haosului sunt puternice dar amunițiile lor nu se spaunează în Facilitate. Fă-o să conteze.
 Grenadele pot fi folosite să distrugi uși.
-Grenadele pot fi aruncate cu mai puțină forță folosind right click.
+Grenadele pot fi aruncate cu mai puțină forță folosind click dreapta.
 Micro H.I.D.-ul poate ucide majoritatea SCP-urilor foarte rapid dar are alimentare de putere limitată. Folosește inteligent!
 Micro H.I.D.-ul necesită aproximativ 5 secunde de încărcare înainte să poată tragă.
-Ținând apăsat right click va ține Micro H.I.D.-ul la stat de gata-de-tras; consumând energia încetișor.
+Ținând apăsat click dreapta va ține Micro H.I.D.-ul la stat de gata-de-tras; consumând energia încetișor.
 Micro H.I.D.-ul este foarte zgomotos în timpul încărcării. Fi sigur să o folosești în timp ce țintele tale nu pot fugi.
 Încărcând Micro H.I.D.-ul produce un sunet înfricoșător care este destul să strice planurile inamicilor tăi.
 O sticlă de SCP-207 nu numai crește viteza de mișcare, dar va parțial restaura și viața ta.
@@ -50,14 +50,14 @@ SCP-106 este rezistent la gloanțe dar nu explozive și electricitate.
 SCP-106 poate fi recontaminat rapid folosind spărgătorul de femur care este găsit în zona lui de contaminare.
 SCP-106 poate merge prin uși și geamuri din sticlă.
 SCP-096 este cel mai slab când începe să se calmeze.
-SCP-096 poate înțepeni înainte când înfuriat cu right click - stricând uși și ucigând ținte. Daune semnificative contra non-ținte.
-SCP-096 va distruge uși și forțând porți închise să se deschidă folosind right click când înfuriat.
+SCP-096 poate înțepeni înainte când înfuriat cu click dreapta - stricând uși și ucigând ținte. Daune semnificative contra non-ținte.
+SCP-096 va distruge uși și forțând porți închise să se deschidă folosind click dreapta când înfuriat.
 Mușcăturile lui SCP-939 nu sunt afectate de armură.
 SCP-939 cauzează amnezie contra oameni pe care îi mușcă; întunecând vederea lor.
 SCP-939 poate fugi indefinitiv și este complet silențios când merge.
 SCP-939 este silențios mergând, făcându-l un predator de ambuscadă perfect.
 Pașii SCP-urilor sunt distincte de la cei a oamenilor. Ascultă cu atenție!
-SCP-049 poate ucide orice om instanteneu cu left click, dacă vine prea aproape.
+SCP-049 poate ucide orice om instanteneu cu click stânga, dacă vine prea aproape.
 SCP-049 poate reanima corpuri numai dacă sunt proaspete.
 SCP-049-2 este vulnerabil la headshot-uri.
 Instanțele SCP-049-2 sunt buni cercetași și sunt periculoși în numere mari.

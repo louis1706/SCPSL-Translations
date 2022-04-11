@@ -3,11 +3,11 @@ ADS zoom
 Damage
 Penetrare
 Rata focului
-Recoil
-Recoil cu aiming
-Precizia gloanțelor
-Precizia hip-firing
-Precizie aiming
+Recul
+Recul cu țintire
+Precizie gloanțe
+Precizie hip-firing
+Precizie țintire
 Timp echipare
 Zgomot gloanțe
 Capacitate magazie 
@@ -17,3 +17,5 @@ Timp reîncărcare
 Viteză aiming
 Răspândirea peletelor
 Consistență pattern
+Număr proiectile
+Viteză de reîncărcare

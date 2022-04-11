@@ -1,16 +1,16 @@
-기본 프리셋
-커스텀 프리셋 #[index]
+커스텀
+프리셋 #[index]
 저장
-프리셋 초기화
+부착물 초기화
 기본
 프리셋 모음
-조립대 - <color=#c00>오프라인</color>
-<color=#ccc>SITE-02 조립대</color> - 대기 상태\n<size=39>화면을 선택하여 시작<color=#ccc>인증됨</color>사용자님</size>
+워크스테이션 - <color=#c00>오프라인</color>
+<color=#ccc>SITE-02 총기 커스텀마이징 거점</color> - 대기 상태\n<size=39>화면을 눌러 활성화하세요. <color=#ccc>인증된 인원 전용.</color></size>
 환영합니다
-준비중
-스마트 조립대 - <color=#0c0>사용 가능</color>
-<size=52><color=#ccc>SITE-02 조립대</color> - 사용 가능</size>\n<size=42><color=#ccc>총기를 장비하여 부착물을 변경</color></size>
+준비 중
+워크스테이션 - <color=#0c0>사용 가능</color>
+<size=52><color=#ccc>SITE-02 총기 커스텀마이징 거점</color> - 준비</size>\n<size=42><color=#ccc>총기를 장비하여 부착물을 변경합니다.</color></size>
 종료 중
-스마트 조립대 종료
-스탯보기
+워크스테이션이 종료되고 있습니다
+요약 보기
 닫기

@@ -1,14 +1,14 @@
 ADJ UTASÍTÁSOKAT
 KÖVESD AZ UTASÍTÁSOKAT
 AZONOS RANG
-D-osztályú személyzet megmenekült
-Tudósok túlélték
+D-Osztályú Személyzet szökött meg
+Tudós élte túl
 megölve SCP által
-Likvidált SCP-k
-Alpha robbanófej
+Likvidált SCP
+Alpha Robbanófej
 Felrobbant
 Nem volt felhasználva
-A következő [time] mp múlva indul.
+A következő kör [time] másodperc múlva indul.
 SPECIÁLIS KÉPESSÉG
 VÍZNYELŐ KÉSZÍTÉSE
 VÍZNYELŐ HASZNÁLATA

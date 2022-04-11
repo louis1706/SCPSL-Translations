@@ -6,7 +6,7 @@ BAZAT PE <i>SCP: CONTAINMENT BREACH</i>
 ÎNAPOI
 LIMBĂ
 ANTIALIASING
-Modificați detaliile:\n-PIXEL LIGHT COUNT - Numărul maxim de surse de lumină care au lumina redată pe pixeli individuali.\n-V-Sync - Activați sincronizarea cu rata de reîmprospătare a dispozitivului de afișare.
+Modificați detaliile:\n-NUMĂRUL DE LUMINĂ PIXELI - Numărul maxim de surse de lumină care au lumina redată pe pixeli individuali.\n-V-Sync - Activați sincronizarea cu rata de reîmprospătare a dispozitivului de afișare.
 INTRĂ ÎN JOC
 POST\nPROCESSING
 CREDITE
@@ -26,7 +26,7 @@ Mod de redare ușoară:\nCând este oprit, calitatea grafică este redusă semni
 V-SYNC
 CONECTEAZĂ-TE
 SETĂRI DE CALITATE
-Schimbați preferințele pentru umbră. Setarea acestor glisoare la valori mai mici poate crește smoothnessului jocului.
+Schimbați preferințele pentru umbră. Setarea acestor glisoare la valori mai mici poate crește netezimea jocului.
 MENIU PRINCIPAL
 RENDER DE LUMINI
 BLUR DE MOȚIUNE

@@ -1,4 +1,4 @@
-#INFO PER I TRADUTTORI: In questo file puoi usare altre linee, per farle mostrare sul display sopra la porta
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
 CENTRALE
 INTERCOM
 BROAD-

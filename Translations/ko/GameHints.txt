@@ -1,6 +1,6 @@
-<color=red>접근 거부</color>
-<color=yellow>[type] 탄</color>을(를) 더는 소지 불가능합니다\n보유한 탄 : (<color=yellow>[max_type_count] 발</color>)
-<b>보유한</b> <color=yellow>[type] 탄</color>이(가) 최대입니다\n보유한 탄 : (<color=yellow>[max_type_count] 발</color>)
-<color=yellow>[type]</color>을(를) 더는 소지 불가능합니다\n보유한 아이템 : (<color=yellow>[max_type_count] 개</color>)
-<b>보유한</b> <color=yellow>[type]</color>이(가) 최대입니다\n보유한 아이템 : (<color=yellow>[max_type_count] 개</color>)
-아이템은 <color=yellow>[max_item_count] 개 </color>까지 보유가능함
+<color=red>접근 불가</color>
+<color=yellow>[type] 탄약</color>을 더 소지할 수 없습니다 (<color=yellow>[max_type_count] 발</color>)
+<b>이미</b> <color=yellow>[type] 탄약</color>의 최대 보유량을 넘었습니다 (<color=yellow>[max_type_count] 발</color>)
+<color=yellow>[type]</color>을(를) 더 소지할 수 없습니다 (<color=yellow>[max_type_count]개</color>)
+<b>이미</b> <color=yellow>[type]</color>의 최대 보유량을 넘었습니다 (<color=yellow>[max_type_count]개</color>)
+오직 <color=yellow>[max_item_count]개의 아이템</color>만 소지할 수 있습니다.

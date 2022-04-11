@@ -1,10 +1,10 @@
 Egyik sem
 Kulcskártya
-Orvosi Cikkek
+Orvosi Cikk
 Rádió
-Lőfegyverek
-Gránátok
-SCP Cikkek
+Lőfegyver
+Gránát
+SCP Cikk
 Micro H.I.D.
 Lőszer
 Golyóálló mellény

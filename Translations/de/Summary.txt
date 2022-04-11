@@ -3,10 +3,10 @@ Die Runde ist beendet!
 <size=100>FOUNDATION HAT GEWONNEN</size>
 <size=100>INSURGENCY HAT GEWONNEN</size>
 <size=100>UNENTSCHIEDEN</size>
-Alle entkommenen Subjekte fehlen. Notfallmaßnahmen wurden eingeleitet.
-Alle Bedrohungen neutralisiert. Die Einrichtung ist nun wieder sicher.
-Foundation Sicherheitspräsens wurde eliminiert. Insurgency Besetzung im Gange.
-Site-02 ist unter unbestimmter Kontrolle. Der Gewinner bleibt unbestimmt.
+Die entkommenen Subjekte haben die Einrichtung überrannt. Notfallmaßnahmen wurden eingeleitet.
+Alle Sicherheitsbedrohungen wurden neutralisiert. Site-02 ist nun wieder sicher.
+Foundation Präsenz wurde vernichtet. Einsatzkräfte stehen bereit für weitere Befehle.
+Site-02 ist unter bestimmter Kontrolle, aber nicht ohne Kosten. Der Gewinner ist unbestimmt.
 [summary_d_escaped] Klasse-D's entkamen
 [summary_s_escaped] Wissenschaftler überlebten
 Die Detonation des Alpha Sprengkopfs terminierte [summary_warhead_kills] Wesen.

@@ -5,7 +5,7 @@ Az Öregember
 -
 A Pestis doktor
 -
-A régi Mesterséges Intelligencia
+A Régi Mesterséges Intelligencia
 -
 A Félénk Alak
 A Meggyógyított
@@ -16,3 +16,6 @@ A Meggyógyított
 -
 Számtalan Hangon
 Számtalan Hangon
+-
+-
+-
