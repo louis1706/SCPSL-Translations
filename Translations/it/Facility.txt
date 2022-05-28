@@ -38,3 +38,7 @@ Eri stato catturato dalle forze Nine-Tailed Fox.\nCon una minaccia in meno nella
 Eri stato catturato come Scienziato dalla Chaos Insurgency.\nLoro possono avvantaggiarsi delle tue informazioni per trarne vantaggio.
 IL ROUND INIZIERÀ TRA: <color=yellow>{0}</color> SECONDI.
 IL ROUND È IN <color=#FF5050>PAUSA</color>
+RIDUZIONE DELLA SENSIBILITÀ MIRANDO
+Premi [key] per annullare l'azione
+Attivazione ADS
+Silenzia la chat degli spettatori

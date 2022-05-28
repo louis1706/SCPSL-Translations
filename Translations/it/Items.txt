@@ -1,19 +1,19 @@
-0~Chiave Magnetica del Bidello
-1~Chiave Magnetica dello Scienziato
-2~Chiave Magnetica del Ricercatore
-3~Chiave Magnetica del Responsabile di Zona
-4~Chiave Magnetica della Guardia della Struttura
-5~Chiave Magnetica del Soldato Nine-Tailed Fox
-6~Chiave Magnetica dell'Ingegnere di Contenimento
-7~Chiave Magnetica del Sergente Nine-Tailed Fox
-8~Chiave Magnetica del Capitano Nine-Tailed Fox
-9~Chiave Magnetica del Responsabile della Struttura
+0~Tessera Magnetica del Bidello
+1~Tessera Magnetica dello Scienziato
+2~Tessera Magnetica del Ricercatore
+3~Tessera Magnetica del Responsabile di Zona
+4~Tessera Magnetica della Guardia della Struttura
+5~Tessera Magnetica del Soldato Nine-Tailed Fox
+6~Tessera Magnetica dell'Ingegnere di Contenimento
+7~Tessera Magnetica del Sergente Nine-Tailed Fox
+8~Tessera Magnetica del Capitano Nine-Tailed Fox
+9~Tessera Magnetica del Responsabile della Struttura
 10~Dispositivo di accesso della Chaos Insurgency
-11~Chiave Magnetica Livello-O5
+11~Tessera Magnetica Livello-O5
 12~Radio
 13~COM-15
 14~Kit di Pronto Soccorso~Guarisce le tue ferite.
-15~Lampada~Sia fatta la luce!
+15~Torcia~Sia fatta la luce!
 16~Micro H.I.D.~Scaricatore di elettricità portatile, ad alta intensità.
 17~SCP-500~La panacea.
 18~SCP-207~Aumenta le tue capacità motorie.
@@ -39,3 +39,5 @@
 43~SCP-2176~La tua Ghostlight personale! Attenzione, molto fragile...
 44~SCP-244-A~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionato.
 45~SCP-244-B~Un vaso antico, gelido al tatto. Crea una grande nuvola di nebbia ghiacciata quando viene posizionato.
+46~SCP-1853~Migliora le abilità di manipolazione delle armi a costo di un maggiore utilizzo della stamina.
+47~3-X Distruttore di particelle

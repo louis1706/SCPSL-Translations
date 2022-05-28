@@ -1,4 +1,4 @@
-È il cadavere di <b>[user]</b> - lui era un/a [class]!\n\Causa della morte: [cause]
+È il cadavere di <b>[user]</b> - lui era un/a [class]!\n\nCausa della morte: [cause]
 Ricontenuto.
 Polverizzato dalla Alpha Warhead.
 Arresto improvviso dei segni di vita. Nessun chiaro trauma.
@@ -21,11 +21,12 @@ Schegge e gravi ustioni causate da un'esplosione.
 Sei stato ucciso da un'esplosione che si trovava nelle immediate vicinanze.
 Lacerazioni massicce ed eccessiva perdita di sangue.
 Frattura cervicale alla base del cranio.
-Grandi, profondi segni di morso sul corpo può essere osservato.
+Grandi e profondi segni di morso sul corpo possono essere osservati.
 Trauma contundente e piccoli graffi sono presenti sul corpo.
 Ferite da proiettili [ammotype].
 Trauma contundente fatale; il corpo è gravemente mutilato e polverizzato.
 Segni di trauma grave ad entrambe le ossa del femore suggeriscono morte per shock circolatorio.
 Sei stato sacrificato per ricontenere SCP-106.
-Ucciso automaticamente per Fuoco amico.
+Ucciso automaticamente per fuoco amico.
 La pelle fredda e le dita congelate suggeriscono una morte per ipotermia.
+Ti sei congelato a morte.

@@ -7,7 +7,7 @@ ricontenuto da SCP-[scp].
 ricontenuto con successo da Sistemi di Sicurezza Automatici.
 ricontenuto con successo dalla Alpha Warhead.
 ricontenuto con successo dal Personale scientifico.
-ricontenuto con successo dal Personale di Classe-D.
+ricontenuto con successo dal Personale di Classe D.
 ricontenuto con successo dalla Chaos Insurgency.
 SCP-[scp]
 ricontenuto con successo. Unità di ricontenimento sconosciuta.
@@ -17,11 +17,11 @@ perso nella Sequenza di Decontaminazione.
 <split>Tutti i generatori sono stati attivati con successo.
 Sovraccaricamento in 3... 2... 1...
 La struttura è tornata operativa.
-Attenzione, a tutto il Personale.<split>Il processo di Decontaminazione nella Light Containment Zone avverrà tra T-15 minuti.<split>Tutte le sostanze biologiche dovranno essere eliminate per evitarne la distruzione.
-Pericolo, La Light Containment Zone verrà decontaminata in T-[time] minuti.
-Pericolo, La Light Containment Zone verrà decontaminata in T-1 minuto.
-Pericolo, la Light Containment Zone verrà decontaminata in T-30 secondi.<split>Tutti i checkpoint sono permanentemente aperti. Siete pregati di evacuare IMMEDIATAMENTE.
+Attenzione, a tutto il Personale.<split>Il processo di Decontaminazione nella Light Containment Zone avverrà tra (Tminus)15 minuti.<split>Tutte le sostanze biologiche dovranno essere eliminate per evitarne la distruzione.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)[time] minuti.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)1 minuto.
+Pericolo, la Light Containment Zone verrà decontaminata in (Tminus)30 secondi.<split>Tutti i checkpoint sono permanentemente aperti. Siete pregati di evacuare IMMEDIATAMENTE.
 La Light Containment Zone è bloccata e pronta per la decontaminazione.<split>La rimozione delle sostanze organiche è ora iniziata.
-SEQUENZA DI DETONAZIONE DELLA ALPHA WARHEAD ATTIVATA.<split>LA SEZIONE SOTTERRANEA DELLA STRUTTURA SARÀ FATTA DETONARE T-[time] SECONDI.
+SEQUENZA DI DETONAZIONE DELLA ALPHA WARHEAD ATTIVATA.<split>LA SEZIONE SOTTERRANEA DELLA STRUTTURA SARÀ FATTA DETONARE TRA (TMINUS)[time] SECONDI.
 DETONAZIONE ANNULLATA. SISTEMI IN RIAVVIO.
-SEQUENZA DI DETONAZIONE RIPRESA, T-[time] SECONDI.
+SEQUENZA DI DETONAZIONE RIPRESA, (TMINUS)[time] SECONDI.

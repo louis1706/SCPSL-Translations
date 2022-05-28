@@ -1,6 +1,6 @@
 Es ist <b>[user]</b>'s Körper! - Er/Sie war [class]!\n\nTodesgrund: [cause]
 Wieder eingedämmt.
-Verdampfte durch den Alpha Sprengkopf
+Vaporisiert durch den Alpha Sprengkopf
 Plötzliches Aufhören der Lebenszeichen. Kein klares Trauma erkennbar.
 Unbekannte Todesursache.
 Schwere elektrische Verbrennungen.
@@ -21,11 +21,11 @@ Splitterwunden- und Verbrennungen durch eine Explosion.
 Du wurdest durch eine nahe Explosion getötet.
 Schwere Verwundung und exessiver Blutverlust.
 Frakturen an der Schädelbasis.
-Große, tiefe Bisswunden verteilt um den Schädel sind sichtbar.
+Große, tiefe Bisswunden verteilt am Körper sind sichtbar.
 Stumpfes Trauma und kleinere Kratzer sind auf dem Körper zu sehen.
 [ammotype] Schusswunden.
 Tödliches stumpfes Trauma; Der Körper ist schwer verstümmelt und zerdrückt.
-Anzeichen eines schweren Traumas an beiden Oberschenkelknochen, deuten auf einen Tod durch Kreislaufschock hin.
+Anzeichen eines schweren Traumas an beiden Oberschenkelknochen deuten auf einen Tod durch Kreislaufschock hin.
 Du wurdest geopfert um SCP-106 wieder einzudämmen.
 Automatisch für Teambeschuss getötet.
 Kalte Haut und erfrorene Finger deuten auf einen Tod durch Hyperthermie hin.

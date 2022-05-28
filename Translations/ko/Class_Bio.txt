@@ -9,7 +9,7 @@
 당신은 시설에서 탈출하여 비밀 단체이자 재단의 적대 조직인\n<color=#008F1E>혼돈의 반란</color>에 합류했습니다. 이들의 임무는\n<color=#FFFF7CFF>과학자</color>와 모든 <color=#0096FF>재단 관계자</color>를 제거하고 <color=#FF8E00>D계급 인원</color>들을 호송하는 것입니다.
 <color=#F00>SCP-096</color>은 존재만으로도 압박을 가하며,\n분노하면 집단 전체를 신속하게 없앨 수 있습니다.
 <color=#F00>SCP-049-2</color>는 소생된 좀비로, 그 숫자가 늘어나면\n게임의 흐름을 변화시킬 수 있습니다.
-위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의 중사입니다.\n주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
+위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의 병장입니다.\n주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
 위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의 대위입니다.\n주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
 위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n낮은 직급을 가진 이등병입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>,\n<color=#FF8E00>D계급 인원</color>을 제거하고 <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것입니다.
 주어진 임무를 수행하여\n목표를 달성하십시오.

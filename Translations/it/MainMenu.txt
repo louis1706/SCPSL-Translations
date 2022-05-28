@@ -1,6 +1,6 @@
 UNISCITI
 CHIUDI
-QUALITA' OMBRE
+QUALITÀ OMBRE
 IMPOSTAZIONI
 BASATO SU <i>SCP: CONTAINMENT BREACH</i>
 INDIETRO
@@ -22,13 +22,13 @@ OMBRE
 OMBRE
 CREA PARTITA
 Cambia impostazioni di post-processing. Questi cambiamenti non avranno effetti sulla performance. Sarebbe consigliabile lasciare le impostazioni predefinite.
-MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avra' un aspetto peggiore. E' consigliabile usarlo solo se si possiede un computer di fascia bassa
+MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avrà un aspetto peggiore. È consigliabile usarlo solo se si possiede un computer di fascia bassa
 V-SYNC
 CONNETTITI
 IMPOSTAZIONI QUALITÀ
-Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore piu' basso potrebbe migliorare la fluidita' di gioco.
+Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore più basso potrebbe migliorare la fluidita' di gioco.
 MENU
-MODALITA' DI RENDERIZZAZIONE DELLE LUCI
+MODALITÀ DI RENDERIZZAZIONE DELLE LUCI
 MOTION BLUR
 DISTANZA OMBRE
 DETTAGLI
@@ -42,10 +42,10 @@ LISTA DEI SERVER
 OK
 CERCA PARTITA
 2. Utilizzare le armi
-Noi utilizziamo Discord come un forum. Non e' necessaria nessuna installazione.\n(clicca sul logo per unirti)
-Di base, il server funzionera' in maniera privata.\nI tuoi amici avranno bisogno dell' indirizzo IP per partecipare.\nSe vuoi creare un server pubblico, seleziona LocalAdmin.exe nella cartella di gioco e segui le istruzioni.\nSe hai qualche domanda, puoi chiederla al supporto tecnico (link nel MENU)
+Noi utilizziamo Discord come un forum. Non è necessaria nessuna installazione.\n(clicca sul logo per unirti)
+Di base, il server funzionerà in maniera privata.\nI tuoi amici avranno bisogno dell' indirizzo IP per partecipare.\nSe vuoi creare un server pubblico, seleziona LocalAdmin.exe nella cartella di gioco e segui le istruzioni.\nSe hai qualche domanda, puoi chiederla al supporto tecnico (link nel MENU)
 1. Le Basi
-Questo gioco e' ancora in fase beta.\nPotresti quindi incontrare problemi tipo disconnessioni o bug di gioco.\nLo stato attuale del prodotto non riflettera' il prodotto finale.
+Questo gioco è ancora in fase beta.\nPotresti quindi incontrare problemi tipo disconnessioni o bug di gioco.\nLo stato attuale del prodotto non rifletterà il prodotto finale.
 4. (in arrivo)
 CONNESSIONE DIRETTA
 SUPPORTO TECNICO / FORUM
@@ -62,13 +62,13 @@ Ripristina
 Usiamo le discussioni di Steam come un Forum. (Clicca sul logo in basso per aprire i forum)
 IMPOSTAZIONI AUDIO
 VOLUME PRINCIPALE
-MUSICA DEL MENU'
+MUSICA DEL MENU
 CHAT VOCALE
 EFFETTI SONORI
 OPZIONI GAMEPLAY
 INTRODUZIONE VELOCE
 Velocizza l'introduzione
-SCP-079 - MODALITA' VISUALIZZAZIONE
+SCP-079 - MODALITÀ VISUALIZZAZIONE
 Premi una volta per cambiare le modalità della telecamera.
 SCP-079 - POST-PROCESSING
 Se disabilitato gli effetti della camera verranno pesantemente ridotti.
@@ -92,7 +92,7 @@ Raccogliere un item non richiederà premere un tasto; premi di nuovo per annulla
 Applica ombre morbide ad angoli e zone strette per dare ai modelli più profondità.
 Aumenta la profondità dell'ambiente ad un costo elevato.
 Fornisce illuminazione più profondità applicando un bagliore in base all'intensità della luce.
-Mostra i sottotitoli per gli annunci CASSIE.
+Mostra i sottotitoli per gli annunci C.A.S.S.I.E.
 Lampeggia la barra delle applicazioni quando si respawna mentre il gioco non è focalizzato.
 Leviga le linee e rimuove le distorsioni visive.
 Sincronizza il frame rate in-game con la frequenza di aggiornamento del monitor.

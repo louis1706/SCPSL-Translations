@@ -26,5 +26,5 @@
 <size=25>Sekundäre Waffe</size>
 <size=25>Heilungsgegenstände</size>
 <size=25>GUI verbergen</size>
-<size=25>Noclip Nebel</size>
+<size=25>Noclip Nebel umschalten</size>
 <size=25>Granate</size>

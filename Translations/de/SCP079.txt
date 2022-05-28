@@ -1,7 +1,7 @@
 RESERVE ENERGIE
 ERFAHRUNG
 KAMERA ÜBERTRAGUNG ONLINE
-Drücke [KEY] um zur Minimap zu wechseln
+DRÜCKE [KEY] UM ZUR MINIMAP ZU WECHSELN
 Erfahrung gesammelt:
 Zusammenarbeit
 Klasse-D Tötungsassist

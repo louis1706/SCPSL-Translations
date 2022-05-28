@@ -42,3 +42,5 @@ Canna corta~Versione corta della canna standard, utilizzata per migliorare veloc
 Strozzatura~Aumenta il raggio totale di diffusione, ma migliora la coerenza dell'esemplare.
 Canna estesa~Riduce leggermente il raggio di diffusione ma aumenta il peso totale dell'arma da fuoco e la sua lunghezza.
 Senza calcio~Le configurazioni brevi sono dotate di alta mobilità, ma rimuovere le scorte da un fucile rende impossibile puntare in modo sicuro verso il basso dal mirino.
+Sistema a colpo singolo~Sistema standard. Un grilletto porta ad una scarica.
+Sistema a colpo multiplo~Meccanismo di scatto modificato che aziona entrambe le saldature con una sola trazione.

@@ -1,18 +1,18 @@
 UNIRSE
 CERRAR
-RESOLUCION DE SOMBRAS
+RESOLUCIÓN DE SOMBRAS
 OPCIONES
 BASADO EN <i>SCP: CONTAINMENT BREACH</i>
 ATRÁS
 IDIOMAS
 ANTIALIASING
-Cambiar detalles:\n-Nº PÍXELES DE LUZ - Cantidad máxima de fuentes que tienen sus luces renderizadas en pixeles individuales.\n-Sincronización Vertical - Habilítalo para sincronizar con la tasa de refresco del monitor.
+Cambiar detalles:\n-Nº PÍXELES DE LUZ - Cantidad máxima de fuentes que tienen sus luces renderizadas en píxeles individuales.\n-Sincronización Vertical - Habilítalo para sincronizar con la tasa de refresco del monitor.
 UNIRSE AL JUEGO
 POST\nPROCESADO
 CRÉDITOS
 SALIR
 Modo pantalla completa
-OPCIONES GRAFICAS
+OPCIONES GRÁFICAS
 CORRECIÓN DE COLOR
 Introduzca la dirección IP...
 OPCIONES DE PANTALLA
@@ -88,7 +88,7 @@ Si se activa, tus amigos de Steam podrán entrar sin permiso.
 OCULTAR IP
 Si se activa, no se mostrarán las IP en la consola del cliente.
 ALTERNAR BÚSQUEDA
-Recoger objetos no necesiará que mantengas una tecla pulsada; pulsa de nuevo para cancelar.
+Recoger objetos no necesitará que mantengas una tecla pulsada; pulsa de nuevo para cancelar.
 Aplica sombras suaves a las esquinas y áreas ajustadas para dar mas sensación de profundidad.
 Le da al ambiente mas profundidad, tiene un coste de rendimiento mas elevado.
 Le da a la iluminación mas profundidad aplicando brillo basado en la intensidad.

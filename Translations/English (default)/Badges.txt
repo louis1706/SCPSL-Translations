@@ -49,6 +49,10 @@ Northwood Translation Manager
 SCP:SL Game Design Manager
 SCP:SL Animator
 Northwood Public Relations Director
-SCP:SL Helper
+SCP:SL Community Helper
 SCP:SL Voice Actor
 SCP:SL Foundation Investor
+Northwood Studio Director
+SCP:SL Game Director Assistant
+Northwood Tech Support Supervisor
+Northwood Tech Support Manager

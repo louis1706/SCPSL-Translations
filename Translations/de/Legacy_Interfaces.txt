@@ -3,11 +3,11 @@ FOLGE ANWEISUNGEN
 GLEICHER RANG
 Klasse-D Personal entkam
 Wissenschaftler überlebten
-getötet von SCPs
-terminierte SCPs
+Getötet von SCPs
+Terminierte SCPs
 Alpha Sprengkopf
-gezündet
-ungenutzt
+Gezündet
+Ungenutzt
 Die nächste Runde startet in [time] Sekunden.
 SPEZIALFÄHIGKEIT
 ERSTELLE SCHLUPFLOCH
@@ -15,5 +15,5 @@ NUTZE SCHLUPFLOCH
 DU BIST GESTORBEN
 Du wurdest getötet von
 als
-passiv
+Passiv
 (versteckt)

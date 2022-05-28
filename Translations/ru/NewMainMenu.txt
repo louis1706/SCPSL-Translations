@@ -90,3 +90,4 @@ Do not track (DNT - Не отслеживать)
 Ambient Occlusion
 Объёмное Освещение
 Bloom
+Переключить субтитры

@@ -10,7 +10,7 @@
 <size=80>DISCONNESSO</size>\nLa tua versione del gioco è diversa da quella del server.
 <size=80>DISCONNESSO</size>\nConfigurazione del server errata.
 <size=80>DISCONNESSO</size>\nL'indirizzo inserito è invalido o inesistente.
-<size=80>DISCONNESSO</size>\nÉ stato riscontrato un errore inaspettato!
+<size=80>DISCONNESSO</size>\nÈ stato riscontrato un errore inaspettato!
 <size=80>ATTENDERE</size>\n<size=35>Connessione in corso...</size>
 <size=80>ROUND RICOMINCIATO</size>\n<size=35>Riavvio del livello in corso...</size>
 <size=80>ATTENDERE</size>\n<size=35>Caricamento tutorial...</size>
@@ -34,5 +34,5 @@
 <size=80>ATTENDERE</size>\nElaborazione della verifica della sicurezza del server...
 <size=80>DISCONNESSO</size>\nImpossibile validare la verifica della sicurezza del server.
 <size=80>DISCONNESSO</size>\nL'elaborazione della verifica della sicurezza del server è stata troppo lenta. \nSi prega di riprovare o contattare l'amministratore del server.
-<size=80>ERRORE DI AUTENTICAZIONE</size>\Messaggio dal server centrale: [message].
+<size=80>ERRORE DI AUTENTICAZIONE</size>\nMessaggio dal server centrale: [message].
 <size=80>DISCONNESSO</size>\nIl server si sta spegnendo.

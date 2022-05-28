@@ -3,10 +3,10 @@ SCPler KAZANDI
 VAKIF KAZANDI
 İSYANCILAR KAZANDI
 BERABERE
-Kaçan deneklerin hiçbiri açıklanmadı. Acil müdahale şifrelendi.
-Tüm tehditler etkisiz hale getirildi. Bu yer artık güvenlidir, yeniden.
-Vakıf güvenliğinin mevcudiyeti ortadan kaldırıldı. İsyan işgali sürüyor.
-Site-02 belirsiz kontrol altında. Kazanan hala kararlaştırılmamış.
+Kaçan denekler tesisi ele geçirdi. Acil müdahale şifrelendi.
+Güvenliğe yönelik tüm tehditler etkisiz hale getirildi. Site-02 bir kez daha güvende.
+Vakıf mevcudiyeti ortadan kaldırıldı. Operatörler gelecek emirler için beklemede.
+Site-02 kontrol altında, bedeli ağır oldu. Galip belli değil.
 [summary_d_escaped] d-sınıf kaçtı
 [summary_s_escaped] bilim adam(lar)ı hayatta kaldı
 Alpha Savaş Başlığı'nın infilakı [summary_warhead_kills] varlığı etkisiz hale getirdi.

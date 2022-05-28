@@ -1,4 +1,4 @@
-Northwood 대표 이사
+Northwood 최고 경영자
 Northwood 최고 정보 담당자
 Northwood 최고 운영 책임자
 Northwood 커뮤니티 관리자
@@ -10,18 +10,18 @@ Northwood 인사 담당 이사
 Northwood 마케팅 플랫폼 책임자
 Northwood 스태프
 Northwood 스팀 매니저
-Northwood 시스템 총관리자
+Northwood 시스템 관리자
 Northwood 위키 매니저
-SCP:SL 그래픽 매니저
-SCP:SL 그래픽 감독
+SCP:SL 아트 매니저
+SCP:SL 아트 감독
 SCP:SL 아티스트
 SCP:SL 백엔드 프로그래머
 SCP:SL 백엔드 프로그래밍 매니저
 SCP:SL 개발자
 SCP:SL 이벤트 우승자
 SCP:SL 풀스택 개발자
-SCP:SL 게임 디자이너
-SCP:SL 게임 플레이 개발자
+SCP:SL 리드 게임 디자이너
+SCP:SL 리드 게임 플레이 개발자
 SCP:SL 글로벌 운영 관리자
 SCP:SL 글로벌 운영자
 SCP:SL 게임 디자인 팀장

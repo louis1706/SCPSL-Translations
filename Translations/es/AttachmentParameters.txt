@@ -17,3 +17,5 @@ Tiempo de recarga
 Velocidad de apuntado
 Dispersión de los perdigones
 Consistencia del patrón
+Número de proyectiles
+Velocidad de recarga

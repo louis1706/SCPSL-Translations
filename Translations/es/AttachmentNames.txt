@@ -42,3 +42,5 @@ Cañón corto~Versión reducida del cañón estándar, se usa para mejorar la mo
 Obturador de cañón~Aumenta la dispersión de los proyectiles.
 Cañón ampliado~Reduce considerablemente la dispersión pero aumenta el peso y la longitud
 Sin culata~Configuración CQB con gran movilidad, eliminar la culata de un rifle puede hacer que sea imposible de controlar al usar la mira.
+Método de disparo único~Mecánismo por defecto. Apretar una vez el gatillo provoca el disparo de un solo cartucho.
+Método de doble disparo~Mecánismo modificado que dispara los dos cartuchos de un solo disparo.

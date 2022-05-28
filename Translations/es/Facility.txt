@@ -38,3 +38,7 @@ Has sido recapturado por la NTF.\nCon una amenaza menos en las instalaciones, ha
 Has sido tomado como prisionero por la Insurgencia del Caos.\nHan podido obtener ventaja con la información proporcionada.
 LA RONDA COMIENZA EN: <color=yellow>{0}</color>s
 EL COMIENZO DE LA RONDA ESTÁ <color=#FF5050>PAUSADO</color>
+SENSIBILIDAD DE APUNTADO. REDUCCIÓN
+Aprieta [key] para cancelar el lanzamiento.
+Activar ADS
+Silenciar Chat de Espectador

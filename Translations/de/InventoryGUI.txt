@@ -9,7 +9,7 @@ DROP:
 Helmeffizienz
 Westeneffizienz
 Ausdauerverbrauch
-<size=10>Bewegungsgeschwindigkeit</size>
+Bewegungsgeschwindigkeit
 Gegenstand-Limits:
 Munitions-Limits:
 {0} komplett

@@ -17,3 +17,5 @@ Tempo di ricarica
 Velocità di mira
 Dispersione dei colpi
 Densità dei pallettoni
+Numero di proiettili
+Velocità di ricarica

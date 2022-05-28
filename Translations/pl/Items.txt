@@ -40,3 +40,4 @@
 44~SCP-244-A~Starożytny wazon, zimny w dotyku. Gdy otwarty, tworzy dużą chmurę lodowatej mgły.
 45~SCP-244-B~Starożytny wazon, zimny w dotyku. Gdy otwarty, tworzy dużą chmurę lodowatej mgły.
 46~SCP-1853~Poprawia umięjętność obsługi broni kosztem zwiększonym zużyciem wytrzymałości.
+47~Rozpraszacz cząstek 3-X

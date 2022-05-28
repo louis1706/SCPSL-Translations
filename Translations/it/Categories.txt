@@ -1,5 +1,5 @@
 Niente
-Chiave Magnetica
+Tessera Magnetica
 Medicinali
 Radio
 Arma da fuoco

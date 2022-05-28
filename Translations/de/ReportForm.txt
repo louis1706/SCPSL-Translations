@@ -1,7 +1,7 @@
 Spieler melden
 Ziel:\nPlayer ID:\nGrund:
 Abbrechen
-Melden für das brechen von Serverregeln
-Melden für cheaten oder raiding
+Melden für das Brechen von Serverregeln
+Melden für Cheating oder Raiding
 WIRD GEMELDET
 Bitte warten...

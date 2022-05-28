@@ -90,4 +90,4 @@ Barra de tareas flash al aparecer
 Oclusión ambiental
 Luces volumétricas 
 Bloom
-Activar/Desactivar subtitulos
+Activar/Desactivar subtítulos
