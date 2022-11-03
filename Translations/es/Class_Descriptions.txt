@@ -6,7 +6,7 @@ Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los de
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nMata instantáneamente con poco tiempo de recarga.\nInteractúa con un cuerpo recién muerto para revivirlos como aliados.</color>
 Escapa de la instalación\nCoopera con los <color=#0096FF>MTF</color>\nEvita a los demás.
 Hackea a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nAcceso total a las instalaciones.\nPuedes abrir cualquier puerta.\nSobrecarga puertas Tesla para matar.\nEvita que te sobrecargen.</color>
-Ayuda a los <color=#FF8E00>Clase-D</color> a escapar\nNeutraliza al resto.
+Ayuda a los <color=#FF8E00>Clase-D</color> a escapar.\nElimina a todo el que se interponga.
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nTe enfadas si la gente te mira y por los sonidos de disparos.\nAl enfurecerse, corres rápido y rompes puertas cerradas.</color>
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nProtege a SCP-049, funcionas mejor en grupo.</color>
 Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza al resto.\nDirige a tus subordinados. \nSigue las ordenes de tu comandante.

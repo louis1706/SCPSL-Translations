@@ -1,4 +1,4 @@
-munición {0}/{1} {2}
+Munición {0}/{1} {2}
 Daño
 Cadencia de disparo
 Precisión desde la cadera
@@ -10,8 +10,8 @@ Eficacia del casco
 Eficacia del chaleco
 Uso de resistencia
 Velocidad de movimiento
-Limite de objetos:
-Limite de munición:
+Límite de objetos:
+Límite de munición:
 {0} total
 Penetración de armadura
 Precisión al correr

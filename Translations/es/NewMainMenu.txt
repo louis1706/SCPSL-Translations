@@ -12,7 +12,7 @@ Buscar servidores
 Crear servidor
 Volver a unirse
 Conexión directa
-Refrescar
+Recargar
 Ocultar partidas vacías
 Ocultar partidas llenas
 Sin lista blanca
@@ -46,11 +46,11 @@ Volumen de la interfaz
 Música del menú
 Atenuación rápida de la introducción
 Movimiento de cabeza
-Pulsar para alternar sprint
+Pulsar para alternar carrera
 Mostrar valores exactos de vida
 Rich Presence
 Sala pública
-Alternar búsqueda
+Alternar recolección
 SCP-079 - Alternar modo de vista
 SCP-079 - Post-procesado
 Idioma
@@ -90,4 +90,4 @@ Barra de tareas flash al aparecer
 Oclusión ambiental
 Luces volumétricas 
 Bloom
-Activar/Desactivar subtítulos
+Activar subtítulos

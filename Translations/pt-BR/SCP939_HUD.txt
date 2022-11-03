@@ -1,0 +1,12 @@
+Pressione [key_attack] ou [key_jump] para Investir.
+Pré-visualizar a voz (Apenas você pode ouvir isso)
+PRÉ-VISUALIZAÇÃO LOCAL
+Remover a voz (segure)
+Tocar a voz (todos podem ouvir isso)
+SCP-939 o matou e roubou sua voz!
+Se você não deseja que sua voz seja usada, desative esta opção.
+Lembrar minha escolha.
+Deletar
+OK
+Mais informações
+SCP-939 usa uma mecânica em que os últimos segundos de sua transmissão de voz são gravados temporariamente. Isso pode ser reproduzido por SCP-939 para atrair alvos.\nAs gravações são automaticamente descartadas se você deixar o servidor, SCP-939 morrer ou no reinício da rodada. Desativar esse recurso removerá todas as gravações existentes de suas transmissões.

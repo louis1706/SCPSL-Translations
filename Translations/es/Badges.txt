@@ -52,3 +52,8 @@ Director/a de relaciones publicas de Northwood
 Ayudante de SCP:SL
 Actor/Actriz de voz de SCP:SL
 Inversor/a de la fundación de SCP:SL
+Director de estudio de Northwood
+Asistente del director de juego de SCP:SL
+Supervisor de soporte técnico de Northwood
+Gerente de soporte técnico de Northwood
+Gerente de administración de sistemas de Northwood

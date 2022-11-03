@@ -4,7 +4,7 @@ In attesa di ricontenere: 1 SCP.
 All'interno della struttura permane una minaccia sostanziale alla sicurezza: prestare attenzione.
 ricontenuto con successo. Causa anomala.
 ricontenuto da SCP-[scp].
-ricontenuto con successo da Sistemi di Sicurezza Automatici.
+ricontenuto con successo da Sistemi dai Sicurezza Automatici.
 ricontenuto con successo dalla Alpha Warhead.
 ricontenuto con successo dal Personale scientifico.
 ricontenuto con successo dal Personale di Classe D.

@@ -1,12 +1,12 @@
-¡La ronda ha acabado!
-LOS SCPs GANAN
-LA FUNDACIÓN GANA
-LA INSURGENCIA GANA
-EMPATE
+¡La ronda ha terminado!
+<size=100>GANAN LOS SCPs</size>
+<size=100>GANA LA FUNDACIÓN</size>
+<size=100>GANA LA INSURGENCIA</size>
+<size=100>EMPATE</size>
 Los sujetos escapados han tomado el control de las instalaciones. Se ha enviado un equipo de emergencia.
-Todas las amenazas han sido neutralizados. Las instalaciones son seguras de nuevo.
-Toda la presencia de la fundación ha sido exterminada. Operativos aguardando próximas órdenes.
-Las instalaciones están bajo cierto control, pero con numerosas bajas. El ganador es indeterminado.
+Todas las amenazas han sido neutralizadas. El Sitio-02 ahora está seguro.
+Toda la presencia de la fundación ha sido exterminada. Operativos aguardando nuevas órdenes.
+El Sitio-02 está bajo cierto control, pero con numerosas bajas. El ganador es indeterminado.
 Se escaparon [summary_d_escaped] clases-d
 Sobrevivieron [summary_s_escaped] científicos
 La Ojiva Alfa ha eliminado [summary_warhead_kills] sujetos.

@@ -49,6 +49,11 @@ Northwood Manager delle Traduzioni
 SCP:SL Game Design Manager
 SCP:SL Animatore
 Northwood Direttore delle pubbliche relazioni
-SCP:SL Helper
+SCP:SL Community Helper
 SCP:SL Doppiatore
 SCP:SL Investitore della Fondazione
+Northwood Direttore dello studio
+SCP:SL Assistente del Direttore di gioco
+Northwood Supervisore del Supporto Tecnico
+Northwood Manager del Supporto Tecnico
+Northwood Manager Amministratore di sistema

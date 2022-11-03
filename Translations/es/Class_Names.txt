@@ -2,20 +2,20 @@ SCP-173
 Clase-D
 Espectador
 SCP-106
-Especialista de la NTF
+Especialista de los Nine-Tailed Fox
 SCP-049
 Científico
 SCP-079
 Recluta de la Insurgencia del Caos
 SCP-096
 SCP-049-2
-Sargento de la NTF
-Capitán de la NTF
-Soldado Raso de la NTF
-TUTORIAL
+Sargento de los Nine-Tailed Fox
+Capitán de la Nine-Tailed Fox
+Soldado Raso de la Nine-Tailed Fox
+Tutorial
 Guardia de las instalaciones
-SCP-939-53
-SCP-939-89
+SCP-939
+-
 Fusilero de la Insurgencia del Caos
-Represor de la Insurgencia del Caos
 Merodeador de la Insurgencia del Caos
+Represor de la Insurgencia del Caos

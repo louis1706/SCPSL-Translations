@@ -18,13 +18,13 @@ Torcia
 Radio
 Noclip
 Console di gioco
-Tasto di scelta rapida delle Schede magnetiche
+Tasto di scelta rapida delle Tessere magnetiche
 Ispeziona
 Carica del grilletto della Revolver
 Lancia oggetto
 Tasto di scelta rapida dell'arma Primaria
 Tasto di scelta rapida dell'arma Secondaria
-Tasto di scelta rapida degli oggetti medici
+Tasto di scelta rapida dei Medicinali
 Nascondi la GUI (Graphical User Interface)
 Togli la nebbia nella Noclip-mode
 Tasto di scelta rapida delle Granate

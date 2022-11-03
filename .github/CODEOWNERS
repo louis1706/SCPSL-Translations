@@ -21,8 +21,8 @@
 *french.vdf @MajorFox-MJ
 
 # German by Dat-Joseph
-/Translations/de/ @Dat-Joseph
-*german.vdf @Dat-Joseph
+/Translations/de/ @Dat-Joseph @Red-Z
+*german.vdf @Dat-Joseph @Red-Z
 
 # Hungarian by omgiamhungarian
 /Translations/hu/ @omgiamhungarian
@@ -32,13 +32,15 @@
 /Translations/nb/ @Rnen
 *norwegian.vdf @Rnen
 
-# Polish by zabszk
-Translations/pl/ @zabszk
-*polish.vdf @zabszk
+# Polish by zabszk & Petris
+Translations/pl/ @zabszk @MichalPetryka
+*polish.vdf @zabszk @MichalPetryka
 
 # Russian by GuyFawkes
 /Translations/ru/ @GuyFawkes76
 *russian.vdf @GuyFawkes76
+
+# Spanish by N/A
 
 # zh & zh-Hant by Tychus-Xiaoyi
 /Translations/zh/ @Tychus-Xiaoyi

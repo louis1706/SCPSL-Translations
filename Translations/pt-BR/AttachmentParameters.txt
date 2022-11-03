@@ -1,4 +1,4 @@
-ADS zoom
+ADS Zoom
 ---
 Dano
 Penetração
@@ -17,3 +17,5 @@ Tempo para recarregar
 Velocidade para mirar
 Propagação das balas
 Consistência do padrão
+Número de Projéteis
+Velocidade de recarregamento

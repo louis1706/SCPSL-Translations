@@ -42,3 +42,7 @@ AIMING SENS. REDUCTION
 Press [key] to cancel the throw.
 ADS Toggle
 Mute Spectator Chat
+Enable Noise Reduction (recommended)
+Automatic (System Default)
+No Microphone Detected!
+INPUT DEVICE

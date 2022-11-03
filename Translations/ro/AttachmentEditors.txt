@@ -14,3 +14,4 @@ STAȚIE DE LUCRU - <color=#0c0>PREGĂTIT</color>
 STAȚIA DE LUCRU SE ÎNCHIDE
 ARATĂ REZUMAT
 ÎNCHIDE REZUMAT
+Personalizare [Attachment]

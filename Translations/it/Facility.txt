@@ -28,7 +28,7 @@ CONTINUA
 VOLUME PRINCIPALE
 connessi
 Sei fuggito come Scienziato e ti sei unito alle forze Nine-Tailed Fox.
-Sei fuggito come Classe-D e ti sei unito alla Chaos Insurgency.
+Sei fuggito come Classe D e ti sei unito alla Chaos Insurgency.
 RUOLO:
 Tempo di fuga: [escape_minutes] minuti e [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
@@ -42,3 +42,7 @@ RIDUZIONE DELLA SENSIBILITÀ MIRANDO
 Premi [key] per annullare l'azione
 Attivazione ADS
 Silenzia la chat degli spettatori
+Abilita la riduzione del rumore (Raccomandato)
+Automatico (Default del sistema)
+Nessun microfono rilevato!
+DISPOSITIVO DI IMPUT

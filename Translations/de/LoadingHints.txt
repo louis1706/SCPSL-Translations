@@ -8,7 +8,7 @@ Adrenalin kann genutzt werden, um deine Ausdauer sofort zu erneuern, es gibt dir
 Radios haben 4 Reichweiten. Umso weiter die Reichweiter, desto schneller wird die Batterie aufgebraucht.
 Mobile Task Force Einheiten und Chaos Insurgents erreichen die Surface Zone auf gegenseitigen Seiten.
 Der Alpha Sprengkopf tötet alles und jeden in der Einrichtung bei der Detonation. Er kann auf der Surface Zone aktiviert werden.
-Die Alpha Sprengköpf Detonationssequenz kann aus seinem Raum in der Heavy Containment Zone abgebrochen werden.
+Die Alpha Sprengkopf Detonationssequenz kann aus seinem Raum in der Heavy Containment Zone abgebrochen werden.
 Der Intercomraum in der Entrance Zone kann dazu genutzt werden Sprachnachrichten an alle Spieler zu senden.
 Du kannst Gegenstände werfen ("T" ist Standard). Damit kannst du Zugangskartentüren aus Distanz öffnen oder Glas zerschlagen.
 Die Light Containment Zone wird automatisch nach 15 Minuten verschlossen; jeder in ihr wird dann getötet. Entkomme so lange du kannst!

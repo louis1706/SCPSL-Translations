@@ -49,6 +49,11 @@ Kierownik Działu Tłumaczeń Northwood
 Kierownik Działu Projektowania Rozgrywki SCP:SL
 Projektant Animacji SCP:SL
 Dyrektor Relacji Publicznych Northwood
-Pomocnik SCP:SL
+Pomocnik Społeczności SCP:SL
 Aktor Głosowy SCP:SL
 Inwestor Fundacji SCP:SL
+Dyrektor Northwood
+Asystent Głównego Dyrektora Rozwoju SCP:SL
+Nadzorca Działu Pomocy Technicznej Northwood
+Kierownik Działu Pomocy Technicznej Northwood
+Kierownik Administracji Systemów Northwood

@@ -7,7 +7,7 @@ Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F
 Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nMeide andere Fraktionen.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
 Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
-Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nLinksklick um jemanden zu töten.</color>
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen.

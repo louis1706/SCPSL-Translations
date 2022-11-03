@@ -49,6 +49,11 @@ Northwood 번역 매니저
 SCP:SL 게임 디자인 매니저
 SCP:SL 애니메이터
 Northwood 홍보 이사
-SCP:SL 도우미
+SCP:SL 커뮤니티 도우미
 SCP:SL 성우
 SCP:SL 초기 투자자
+Northwood 스튜디오 감독
+SCP:SL 게임 감독 보조
+Northwood 기술 지원 관리자
+Northwood 기술 지원 매니저
+Northwood 시스템 관리 매니저

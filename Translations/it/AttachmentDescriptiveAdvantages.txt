@@ -1,4 +1,4 @@
-Risorsa di luce
+Sorgente d'illuminazione
 Contatore di munizioni
-Soppressione del flash
-Visione Notturna
+Rimozione del lampo
+Visione notturna

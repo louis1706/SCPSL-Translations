@@ -1,0 +1,13 @@
+This soul is no longer with us.
+This corpse has expired.
+This soul has been revived too many times.
+This soul no longer wants to be revived.
+This corpse cannot be revived.
+This corpse has already been consumed.
+Only human corpses may be consumed.
+ATTACK COOLDOWN
+You have denied further resurrection from SCP-049!
+Press [key] to deny further resurrection.
+No target found.
+You're already at full health.
+This corpse is already being consumed.

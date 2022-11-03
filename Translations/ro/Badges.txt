@@ -49,6 +49,11 @@ Northwood Manager de Traduceri
 SCP:SL Manager de Design al Jocului
 SCP:SL Animator
 Northwood Director de Relații Publice
-SCP:SL Ajutător
+SCP:SL Ajutor Comunitar
 SCP:SL Actor de Voce
 SCP:SL Investitor de Fundație
+Northwood Director de Studio
+SCP:SL Asistent Director de Joc
+Northwood Supraveghetor Suport Tehnic
+Northwood Manager Suport Tehnic
+Northwood Manager De Administrare A Sistemului 

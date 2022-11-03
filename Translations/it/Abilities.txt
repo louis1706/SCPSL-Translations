@@ -1,31 +1,31 @@
-Abilità non trovata:L'ID associato a questa abilità non esiste.
+Abilità non presente:L'ID associato a questa abilità non esiste.
 Scatto:Aumenta la tua velocità di movimento, in compenso aumenta il suono dei passi.
 Spia:I tuoi movimenti diventano silenziosi, la velocità sarà ridotta di molto.
-Inventario:Apri il tuo inventario e seleziona un oggetto usando il tasto sinistro del mouse oppure lascialo cadere usando il tasto destro.
+Inventario:Apri il tuo inventario, seleziona un oggetto, col tasto sinistro per prenderlo in mano, altrimenti col tasto destro per lasciarlo a terra.
 Disarmato:Non hai niente, trova qualcosa, qualsiasi cosa!
-Chiave magnetica:Hai una chiave magnetica, non è la migliore, ma non perderla.
-Equipaggiamento Standard:Sei equipaggiato con un fucile, granate, radio, manette e una chiave magnetica!
-Armato e Pericoloso:Ti è stata consegnata una mitragliatrice leggera, uno strumento per l'hacking (chiave magnetica) e un kit medico!
-Velocità Sorprendente:Quando nessun umano riesce a vederti ti muovi molto velocemente. Se sei guardato direttamente da un umano non ti puoi muovere ne attaccare, tutti gli umani che ti stanno guardando batteranno gli occhi simultaneamente ogni paio di secondi, permettendoti di attaccare.
-Panico: la tua velocità aumenta mentre la vita diminuisce.
-Buco nel Terreno:Puoi posizionare una pozza nera di corrosione e teletrasportarti ad essa in qualsiasi momento. Il teletrasporto richiede alcuni secondi.\nPer spostare la pozza è sufficiente piazzarla di nuovo.
-Corrosione:Ti puoi muovere attraverso le porte camminandoci attraverso.
-Canto del Cigno:Non subisci praticamente nessun danno dai proiettili, ma puoi essere immediatamente ricontenuto attraverso un sacrificio umano all'interno della tua camera di contenimento.
-Dimensione Tascabile:Cattura un essere umano e teletrasportalo nella dimensione tascabile, essa lo ucciderà rapidamente. L'umano dovrà scegliere l'uscita corretta o morirà.
-Timido:Di base, ti muovi lentamente ma non puoi attaccare ed emetti un fievole pianto. Se gli umani guardano la tua faccia, ti fermerai per cinque secondi, poi entrerai in modalità "Rabbia".
-Rabbia Anti-Sociale:Quando sei arrabbiato ti muovi molto velocemente e urli rumorosamente. Lo stato resta attivo per circa 30 secondi; quando finisce non potrai entrare in modalità rabbia per un breve periodo di tempo, durante il quale non piangerai.\nMentre sei arrabbiato clicca o tieni premuto il pulsante destro del mouse per uccidere istantaneamente qualsiasi essere umano nelle tue prossimità.
-Abbattuto:Mentre sei arrabbiato, se interagisci con le porte le romperai!
-Ultra Sensibile:Non puoi vedere gli esseri umani a meno che essi non corrano, ti urtino o sparino nelle tue vicinanze.
-Predatore:I tuoi passi sono silenziosi. Tenere premuto il tasto assegnato allo scatto aumenterà la tua velocità, ma i tuoi movimenti saranno più rumorosi.
-Imitazione:Puoi parlare a qualsiasi giocatore nelle vicinance, umani inclusi.
-Morso:Attacca un essere umano a distanza ravvicinata, infliggendogli istantaneamente gravi danni.
-Antidoto:Tocca un essere umano a distanza ravvicinata, uccidendolo all'istante.
-La Cura:Rianima un essere umano morto di recente. Gli umani guariti diventeranno SCP-049-2 (Zombie), i quali saranno molto veloci e avranno poca salute (300HP).\nNon c'è alcun limite al numero di umani che potrai curare.
-Colpo:Attacca un umano e infliggi una moderata quantità di danni.
-Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le potrai bloccare consumando i tuoi AP impedendo l'apertura fino a quando non le sblocchi o finirai l'EA.
-Sovraccarico delle Tesla:Puoi attivare istantaneamente un Tesla per 50 EA uccidendo qualsiasi giocare all'interno o nei suoi pressi.
-Blocco:A partire dal livello 2 potrai interagire con alcune stanze bloccandole, spegnendo le luci e bloccando tutte le porte. Durante il processo di blocco, gli esseri umani non potranno vedere l'SCP-173, Gli altri SCP potranno aprire le tue porte bloccate.
-Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimento Pesante (HCZ). Se tutti i generatori verrano sbloccati e attivati, verrai ricontenuto dopo 60 secondi.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore, anche gli SCP.
-Rottura del Collo:Tieni premuto o fai clic per spezzare il collo ad un essere umano, uccidendolo instantaneamente, fintanto che non possano vederti o battono le ciglia.
+Tessera magnetica:Hai una tessera magnetica, non è la migliore, ma non perderla.
+Dotazione standard:Sei equipaggiato con un'arma, granate, una radio ed una tessera magnetica.
+Armato e pericoloso:Ti è stata consegnata una Mitragliatrice leggera, una tessera magnetica "speciale", ed un Kit di Pronto Soccorso.
+Velocità vertiginosa:Non importa dove si nascondono, li troverai in poco tempo e ti vedranno per meno. Raddoppia la velocità di movimento e la distanza di lampeggio, a costo della tua letalità. Dura fino a poco dopo essere stato assistito o cancellato manualmente.
+Sbattimento di palpebre:Una volta che ti hanno visto, fagli rimpiangere di aver perso la vista, anche solo per un momento. Quando l'occhio diventa cremisi, tenere premuto e spostare l'indicatore in una posizione desiderata. Rilasciare per teletrasportare e uccidere l'essere umano più vicino entro 2 metri.
+Voragine:È possibile posizionare una piscina nera di corrosione e teletrasportarsi di nuovo ad esso in qualsiasi momento. Il teletrasporto richiede alcuni secondi. \nÈ possibile spostare la voragine posizionandola di nuovo.
+Corrosione:Si può passare attraverso le porte camminando in loro.
+Canto del cigno:Non subisci quasi nessun danno dai proiettili, ma puoi essere immediatamente ricondotto attraverso un sacrificio umano all'interno della tua camera di contenimento.
+Dimensione tascabile:Cattura un umano e lo teletrasporta in una dimensione tascabile che li uccide rapidamente. Gli esseri umani devono scegliere l'uscita corretta, o morire.
+Scopophobia:Inizi docile e ti arrabbi quando vieni visto o ferito. Placa la tua rabbia uccidendo i trasgressori - segui la loro luce prima che la tua furia si plachi. L'indegnità di ogni colpevole si aggiunge al tuo AHP, impedendo danni a voi fino a quando rimane.
+Rabbia Anti-Sociale:È un po' difficile. Appoggiarsi a una porta aiuta; si diventa più tranquillo e stare in posizione contro di essa, calmandosi giù... o in attesa di qualcuno a venire attraverso.
+Attacco corpo a corpo:Strappare qualsiasi cosa nel vostro modo di arrivare a coloro che ti hanno fatto del male. I vostri attacchi distruggerà le porte e uccidere la maggior parte degli esseri umani istantaneamente.
+Ultrasensibile:Non puoi vedere gli umani se non corrono, ti urtano o sparano vicino a te.
+Predatore:I tuoi passi sono silenziosi. Tenere premuto il tasto assegnato aumenta la tua velocità, ma rende udibile il tuo movimento.
+Imitazione:È possibile parlare ad alta voce a tutti i giocatori vicini, compresi gli esseri umani.
+Morso:Attacca un umano nel raggio di una mischia, infliggendo istantaneamente gravi danni.
+Antidoto:Tocca un umano a distanza ravvicinata, uccidendolo all'istante.
+La Cura:Rianima un umano recentemente ucciso. Gli esseri umani curati giocano come zombie con movimento veloce e bassa salute. Non c'è limite a quanti esseri umani possano essere rianimati.
+Attacco:Attacca un essere umano e infligge loro una quantità moderata di danni.
+Apri/Chiudi Porte:È possibile interagire con le porte per aprirle e chiuderle per 5 AP. Puoi anche bloccarle, drenando l'AP ma impedendo a chiunque di aprirle o chiuderle fino a quando non rimuovi il blocco o finisci l'AP.
+Sovraccarico delle Tesla:Puoi attivare un Tesla Gate per 50 AP per attivarlo istantaneamente, uccidendo qualsiasi giocatore all'interno o nelle vicinanze.
+Blocco:A partire dal livello di accesso 2, è possibile interagire con alcune stanze per bloccarle, spegnere tutte le luci e chiudere tutte le porte. Mentre sono in stanze chiuse, gli umani non possono vedere SCP-173.
+Virtualmente Indistruttibile: Tre generatori si generano nella Heavy Containment Zone. Se tutti i generatori verrano sbloccati e attivati, verrai ricontenuto dopo 60 secondi.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore, anche gli SCP.
+Calcestruzzo rinforzato:Accetta i loro sguardi di ammirazione, ma difendi la tua posizione contro il loro vandalismo. Hai costruito una resistenza contro gli spari. Le armi a bassa penetrazione infliggono meno danni rispetto alle armi perforanti.
 Carica (Rabbia):Rendi le loro fughe brevi - se lo meritano. Ti precipiti dritto, demolendo qualsiasi cosa di fronte a te. Se colpisci un gate, ti aprirai la strada attraverso esso.
-Tantrum: Fategli conoscere la vostra furia. Create una pozza di sporcizia sotto di voi che macchia e inibisce notevolmente la mobilità degli esseri umani che passano attraverso di essa. Uccidere umani macchiati recupererà un po' del tuo scudo.
+Tantrum:Fategli conoscere la vostra furia. Create una pozza di sporcizia sotto di voi che macchia e inibisce notevolmente la mobilità degli esseri umani che passano attraverso di essa. Uccidere umani macchiati recupererà un po' del tuo scudo.

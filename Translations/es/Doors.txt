@@ -4,7 +4,7 @@
 <color=red>BLOQUEADA</color>
 <color=red>ERROR</color>
 <color=red>ACCESO DENEGADO</color>
-<color=green>ACCESO GARANTIZADO</color>
+<color=green>ACCESO CONCEDIDO</color>
 <color=#07A2FF>TARJETA REQUERIDA</color>
-<color=orange>PASE</color>
+<color=orange>ADELANTE</color>
 <color=orange>CERRANDO</color>

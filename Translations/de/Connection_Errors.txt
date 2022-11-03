@@ -1,4 +1,4 @@
-<size=80>Du wurdest gekickt</size>\nDer Server hat die Verbindung gestoppt.\n<size=26>\nDu wurdest möglicherweise temporär gebannt, oder du erfüllst die Serveranforderungen nicht (z.B. Verbindung zu Steam).\nFür mögliche temporäre Bans sind die Spieleentwickler <u>nicht</u> verantwortlich.\n</size>
+<size=80>DU WURDEST GEKICKT</size>\nDer Server hat die Verbindung gestoppt.
 <size=80>VERBINDUNG UNTERBROCHEN</size>\nDer angegebene Host ist nicht erreichbar.
 <size=80>VERBINDUNG UNTERBROCHEN</size>\nDie angegebene Verbindungs-ID existiert nicht.
 <size=80>VERBINDUNG UNTERBROCHEN</size>\nDer angegebene Kanal existiert nicht.

@@ -32,9 +32,27 @@ SCP:SL Ajudant de Patreon
 SCP:SL Control de Qualitat i Seguretat
 SCP:SL Dissenyador de Sons
 SCP:SL Director del Joc
-SCP:SL Gestor dels Servidor
+SCP:SL Gestor dels Servidors
 Northwood Especialista en Verificació
 Northwood Especialista en Codi Natiu
 SCP:SL Control i Provador de la Qualitat
-SCP:SL Supervisor de Control i Provadors de Qualitat
+SCP:SL Supervisor de Control i Provador de Qualitat
 SCP:SL Subscriptor de Twitch
+SCP:SL Gerent d'Àudio
+Northwood Coordinador de Comentaris
+Northwood Supervisor de Verificació
+SCP:SL Supervisor de Servidor Oficial
+Northwood Supervisor de Comentaris
+Northwood Gerent de Verificació
+Northwood Gerent dels Bots
+Northwood Gerent de les Traduccions
+SCP:SL Gerent del Disseny del Joc
+SCP:SL Animador
+Director de Northwood de Relacions Públiques
+SCP:SL Ajudant de la Comunitat
+SCP:SL Actor de Veu
+SCP:SL Inversor de la Fundació
+Director de Northwood Studio
+SCP:SL Assistent del Director del Joc
+Northwood Supervisor del Suport Tecnològic
+Northwood Gerent del Suport Tecnològic

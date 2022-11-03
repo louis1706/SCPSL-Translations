@@ -1,0 +1,56 @@
+INGRANDIMENTO [amount]x
+LIVELLO D'ACCESSO [tier]
+XP [current] / [next]
+MASSIMO LIVELLO RAGGIUNTO
+NESSUNA TELECAMERA
+VAI A: [camera] ([cost])
+NON HAI ABBASTANZA ENERGIA AUSILIARIA
+TEMPO STIMATO D'ARRIVO: [time] secondi
+È RICHIESTO UN LIVELLO SUPERIORE
+TELECAMERA NON VALIDA
+ACCESSO ALLA PORTA NEGATO
+APRI LA PORTA ([cost])
+CHIUDI LA PORTA ([cost])
+BLOCCA LA PORTA ([cost])
+SBLOCCA LA PORTA
+TEMPO DI RICARICA PER BLOCCARE LA PORTA
+ENERGIA AUSILIARIA
+STAI ESSENDO ATTACCATO!
+SBLOCCA TUTTE LE PORTE BLOCCATE ([num] totale/i)
+APRI LA MAPPA DELLA STRUTTURA
+CHIUDI
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+INTERROMPI LA CORRENTE ([cost])
+L'INTERRUZIONE DI CORRENTE NON È DISPONIBILE PER QUESTA STANZA
+LIMITI D'INTERRUZIONI DI CORRENTE MASSIMI RAGGIUNTI
+TEMPO DI RICARICA PER INTERROMPERE LA CORRENTE ALL'INTERNO DELLA STANZA
+AVVIA L'ASCENSORE ([cost])
+INTERROMPI DI CORRENTE ([cost])
+TEMPO DI RICARICA PER INTERROMPERE LA CORRENTE
+NON CI SONO PORTE DISPONIBILI PER INTERROMPERE LA CORRENTE
+SEGNALA LA POSIZIONE ([cost])
+LIMITE DI SEGNALAZIONI RAGGIUNTE
+PASSAGGIO DI TELECAMERA NON RIUSCITO
+SEGNALE PERSO
+RICONNESSIONE (TEMPO STIMATO: [time]secondo/i)
+ATTIVA IL TESLA GATE ([cost])
+TEMPO DI RICARICA PER ATTIVARE IL TESLA GATE
+$Access Tier [tier]$ - SBLOCCATO
+$AUXILIARY POWER$ limite incrementato a $[limit]$.
+$BLACKOUT$ ora disponibile - premi $[key]$ per disabilitare le luci della stanza.
+$BLACKOUT$ capacità incrementata a $[number]$ stanze.
+$LOCKDOWN$ ora disponibile - premi $[key]$ pre bloccare tutte le porte all'interno della stanza.
++[amount] XP - comando Admin
++[amount] XP - partecipazione alla terminazione di un Classe D
++[amount] XP - partecipazione alla terminazione di uno Scienziato
++[amount] XP - partecipazione alla terminazione di una Guardia della Struttura
++[amount] XP - partecipazione alla terminazione di un Nine-Tailed Fox
++[amount] XP - partecipazione alla terminazione di un Chaos Insurgency
++[amount] XP - partecipazione alla terminazione di un umano
++[amount] XP - testimone della cessazione da parte di un compagno di squadra
++[amount] XP - partecipazione ad un inseguimento di un compagno
++[amount] XP - protezione di un compagno di squadra
++[amount] XP - evitato l'utilizzo di una Micro H.I.D.

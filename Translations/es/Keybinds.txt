@@ -6,25 +6,25 @@ Inventario
 Recargar
 Correr
 Chat de Voz
-Ir a hurtadillas
-Moverse Recto
-Moverse Hacia Atrás
-Moverse Hacia la Izquierda
-Moverse Hacia la Derecha
+Caminar en sigilo
+Moverse hacia adelante
+Moverse hacia atrás
+Moverse hacia la izquierda
+Moverse hacia la derecha
 Lista de Jugadores
-Información del personaje
+Información del Personaje
 Remote Admin
-Alternar modo de linterna
+Alternar modo de Linterna
 Chat de Voz Alternativo
 Noclip
 Consola
-Atajo Tarjeta
+Atajo Tarjeta de Acceso
 Inspeccionar 
-Percutor del revolver
+Percutor del revólver
 Lanzar objeto
-Atajo de arma primaria
-Atajo de arma secundaria
-Atajo de articulo medico
-Ocultar Interfaz
-Niebla del noclip Si/No
-Atajo granada
+Atajo de Arma Primaria
+Atajo de Arma Secundaria
+Atajo de Artículo Médico
+Ocultar Interfáz
+Alternar niebla en Noclip
+Atajo Granada

@@ -1,4 +1,4 @@
-Custom
+Personalizzato
 Preimpostazione #[index]
 SALVA
 CANCELLA GLI ACCESSORI
@@ -14,3 +14,4 @@ SPEGNIMENTO
 LA WORKSTATION SI STA SPEGNENDO
 MOSTRA IL RIEPILOGO
 CHIUDI IL RIEPILOGO
+Personalizzazione: [Attachment]

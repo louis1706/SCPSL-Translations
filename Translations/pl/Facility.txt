@@ -42,3 +42,7 @@ REDUKCJA CZ. MYSZY PRZY ADS
 Naciśnij [key] aby anulować rzut.
 Przełączane ADS
 Wycisz obserwatorów
+Włącz tłumienie szumu (zalecane)
+Automatycznie (domyślne urządzenie)
+Nie wykryto mikrofonu!
+URZĄDZENIE WEJŚCIOWE

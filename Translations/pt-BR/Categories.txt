@@ -1,10 +1,10 @@
 Nenhuma
-Keycard
-Items Médicos
-Radio
+Cartão
+Itens Médicos
+Rádio
 Armas de Fogo
-Grenadas
-Items SCP
+Granadas
+Itens SCP
 Micro H.I.D.
 Munição
 Coletes

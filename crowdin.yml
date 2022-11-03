@@ -1,0 +1,7 @@
+files:
+  - source: /Translations/English (default)/
+    ignore:
+      - manifest.json
+    translation: /Translations/%osx_locale%/%original_file_name%
+  - source: '*english.vdf'
+    translation: /%original_path%/700330_loc_%language%.vdf

@@ -1,10 +1,10 @@
 Niente
-Tessera Magnetica
+Tessere magnetiche
 Medicinali
 Radio
-Arma da fuoco
+Armi da fuoco
 Granate
-Oggetti SCP
+Elementi SCP
 Micro H.I.D.
 Munizioni
-Corazza
+Corazze

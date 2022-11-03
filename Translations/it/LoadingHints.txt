@@ -1,25 +1,25 @@
 Puoi arrestare un giocatore anche se impugna un'arma da fuoco.
 Ci sono 4 zone nella Struttura: Light Containment Zone, Heavy Containement Zone, Entrance Zone e Surface Zone.
-Scienziati e Classe-D possono raggiungere la Surface Zone per evadere.
-La Entrance Zone ha 2 Gate, che forniscono l'accesso alla Surface Zone. Avrai bisogno di una carta magnetica per aprirli.
+Scienziati e Classe D possono raggiungere la Surface Zone per evadere.
+La Entrance Zone ha 2 Gate che forniscono l'accesso alla Surface Zone. Avrai bisogno di una Tessera magnetica per aprirli.
 Usare un ascensore è una via semplice per evadere da molti SCP.
-Un Classe-D evaso entrerà a far parte della Chaos Insurgency, uno Scienziato evaso diventerà della Nine-Tailed Fox.
+Un Classe D evaso entrerà a far parte della Chaos Insurgency, invece uno Scienziato evaso diventerà della Nine-Tailed Fox.
 L'Adrenalina può essere usata per ricaricare instantaneamente la tua stamina e può darti diversi vantaggi nel combattimento.
 La radio ha 4 modifiche del raggio. Più lungo è il raggio e più velocemente si scaricherà la batteria.
-La Nine-Tailed Fox e la Chaos Insurgency spawnano alla fine opposta della Surface Zone, la prima al GateB, la seconda al GateA.
+La Nine-Tailed Fox e la Chaos Insurgency spawnano alla fine opposta della Surface Zone, la prima al Gate B, la seconda al Gate A.
 L'Alpha Warhead ucciderà instantaneamente tutti coloro che si troveranno all'interno della Struttura quando esploderà. Dovrà essere attivata dalla Surface Zone.
 La sequenza della detonazione della Alpha Warhead può essere cancellata in una stanza della Heavy Containment Zone.
-La stanza dell'Intercom si trova nella Entrance Zone e può essere usato per parlare con tutti i giocatori della Struttura.
-Potrai lancirare gli oggetti (tasto "T" di default). Questo potrà essere usata per aprire le porte con carte magnetiche o per rompere i vetri.
+La stanza dell'Intercom si trova nella Entrance Zone e può essere usata per parlare con tutti i giocatori della Struttura.
+Potrai lancirare gli oggetti (tasto "T" di default). Questo potrà essere usato per aprire le porte con Tessere magnetiche o per rompere i vetri.
 La Light Containment Zone verrà bloccata dopo 15 minuti; uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi!
 Massimizza il tuo vantaggio regolando gli accessori delle tue armi in base alla situazione in cui ti trovi.
-Più accessori ha un'arma su di essa, più pesante diventa. Ciò influisce sull'utilizzo della resistenza e sulla velocità di movimento.
+Più accessori ha un'arma su di essa e più pesante diventa. Ciò influisce sull'utilizzo della resistenza e sulla velocità di movimento.
 I soppressori non solo attutiscono i colpi, ma nascondono anche i lampi di fuoco della canna.
 Le armi più lunghe e pesanti sono meno precise se sparate durante la corsa.
 Indossare un'armatura aumenta il numero di oggetti e munizioni che può trasportare.
 I proiettili perforanti (AP) danno i migliori risultati contro bersagli corazzati.
 I proiettili a punta cava (JHP) infliggono danni maggiori ai bersagli non armati ma sono più deboli contro l'armatura.
-Tieni premuto il tasto di ricarica per scaricare un'arma, aggiungendo le sue munizioni al tuo inventario.
+Tieni premuto il tasto di ricarica per rimuovere il caricatore da un'arma, aggiungendo le sue munizioni al tuo inventario.
 Le armi della Chaos Insurgency sono potenti ma le loro munizioni non si generano nella Struttura. Ricordalo.
 Le granate possono essere usate per distruggere le porte.
 Le granate possono essere lanciate con meno forza usando il tasto destro del mouse.

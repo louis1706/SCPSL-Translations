@@ -1,6 +1,6 @@
 Nenhum~Opção padrão sem nenhum efeito aparente.
 Mira de Fábrica~Um par de marcadores de alinhamento que compõem um dispositivo de mira simples e leve.
-Mira Ponto~Mira de reflexo sem ampliação com um pequeno ponto iluminado indicando onde mirar.
+Mira Pontuda~Mira de reflexo sem ampliação com um pequeno ponto iluminado indicando onde mirar.
 Mira Holográfica~Mira sem ampliação com um retículo holográfico. Eficaz em combate a curta distância.
 Mira de Visão Noturna~Mira telescópica acrescentada com um dispositivo de visão noturna.\n Pesada, mas efetiva em todas as condições de iluminação.
 Mira com Contador de Munição~Mira de fábrica integrada com um dispositivo contador de munição.
@@ -18,7 +18,7 @@ Contador de Munição~Dipositivo contador de munição. Tecnologia experimental 
 Cano Padrão~Cano convencional sem dispositivo de boca.
 Cano Estendido~Melhora o poder de fogo no geral,\n mas contríbui para a baixa mobilidade causada pelo aumento de peso e comprimento.
 Silenciador~Moderador de som. Reduz o barulho dos tiros,\n mas aumenta o peso e o comprimento da arma de fogo no geral.
-Corta-chamas~Elimina a luz emitida pela boca da arma. Deixa mais fácil atirar na escuridão.
+Corta-chamas~Elimina a luz emitida pela boca da arma. Deixa mais fácil de atirar na escuridão.
 Freio de Boca~Compensador de recuo. Utiliza gases propulsores para reduzir o recuo,\n mas aumenta a intensidade acústica dos tiros.
 Reforço de Boca~Aumenta a taxa de disparos, o que resulta em mais dano por segundo,\n mas a arma é mais difícil de controlar.
 Pente FMJ~Pente padrão que contém balas com revestimento de metal completo.
@@ -34,7 +34,7 @@ Pente FMJ de Baixa Cap.~Pente de baixa capacidade que contém balas com revestim
 Pente AP de Baixa Cap.~Pente de baixa capacidade que contém balas que penetram armaduras.
 Pente JHP de Baixa Cap.~Pente de baixa capacidade que contém balas com ponta oca.
 Cilindro de 4-Tiros~Possui menos cartuchos mas é capaz de inflingir mais dano aos inimigos blindados.
-Cilindro de 6-Tiros~O clássico seis tiros.
+Cilindro de 6-Tiros~Os clássicos seis tiros.
 Cilindro de 8-Tiros~Possui mais cartuchos,\n mas o acionamento do gatilho requer mais tempo para realizar tiros mais precisos.
 Receptor da Carabina~Receptor regular superior da carabina que é considerado\n uma boa harmonização entre poder de fogo e mobilidade.
 Receptor do Rifle~Receptor superior de tamanho maior que aumenta o poder de fogo e a precisão,\n mas um sistema de gás pesado reduz a taxa de disparo.
@@ -42,3 +42,5 @@ Cano Curto~Versão menor do cano padrão, usada para melhorar a velocidade de ma
 Entrangulador~Aumenta o raio de dispersão, mas melhora a consistência do padrão.
 Cano Estendido~Reduz um pouco o raio de dispersão, mas aumenta o peso e comprimento da arma de fogo.
 Sem Coronha~Configurações curtas vem com grande mobilidade,\n mas remover a coronha de um rifle deixa impossível de mirar com segurança.
+Sistema de Disparo Único~Sistema padrão. Um puxão de gatilho leva à uma descarga.
+Sistema de Disparo Duplo~Mecanismo de gatilho modificado que aciona os dois gatilhos com um único puxão.

@@ -1,0 +1,12 @@
+Apăsați [key_attack] sau [key_jump] pentru Săritură.
+Previzualizează vocea (doar tu o poți auzi)
+PREVIZUALIZARE LOCALĂ
+Eliminați vocea (ține apăsat)
+Redați vocea (toată lumea poate auzi asta)
+SCP-939 te-a ucis și ți-a furat vocea!
+Dacă nu dorești ca vocea ta să fie folosită, puteți dezactiva această funcție.
+Amintește-ți alegerea mea!
+Șterge
+OK
+Mai multe informații
+SCP-939 folosește un mecanic în care ultimele secunde ale transmisiei tale de chat vocal sunt înregistrate temporar. Acest lucru poate fi redat de SCP-939 pentru a atrage ținte.\nÎnregistrările sunt eliminate automat dacă părăsiți serverul, dacă SCP-939 moare sau la repornirea rundei. Dezactivarea acestei funcții va elimina toate înregistrările existente ale transmisiilor voastre.

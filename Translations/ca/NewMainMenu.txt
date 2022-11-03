@@ -6,7 +6,7 @@ Xarxes socials
 Internet
 Favorits
 Oficial
-Història
+Historial
 Amics
 Cercar servidors
 Crear servidor
@@ -15,7 +15,7 @@ Connexió directa
 Actualitzar llista
 Amagar Servidors Buits
 Amagar Servidors Plens
-Sense Whitelist
+Sense Llista Blanca
 Vídeo
 Àudio
 Controls
@@ -64,7 +64,7 @@ Estàs segur de què vols sortir?
 Resolució de la Pantalla
 Amagar Adreça IP
 Benvolgut, {username}!
-Crèdit
+Crèdits 
 AUTENTIFICANT
 Connectant als servidors centrals...
 <color=green>Connexió establerta</color>

@@ -17,7 +17,7 @@ stracony w procesie dekontaminacji.
 <split>Wszystkie generatory zostały pomyślnie uruchomione.
 Przeciążenie za 3... 2... 1...
 Placówka powróciła do normalnego trybu pracy.
-Ostrzeżenie dla całego personelu.<split>Proces dekontaminacji Strefy Niskiego Nadzoru rozpocznie się w ciągu 15 minut.<split>Wszystkie substancje biologiczne zostaną usunięte w celu zapobiegnięcia zagrożenia.
+Ostrzeżenie dla całego personelu.<split>Proces dekontaminacji Strefy Niższego Nadzoru rozpocznie się w ciągu 15 minut.<split>Wszystkie substancje biologiczne zostaną usunięte w celu zapobiegnięcia zagrożenia.
 Ostrzeżenie, dekontaminacja Strefy Niższego Nadzoru rozpocznie się za [time] minut.
 Ostrzeżenie, dekontaminacja Strefy Niższego Nadzoru rozpocznie się za 1 minutę.
 Ostrzeżenie, dekontaminacja Strefy Niższego Nadzoru rozpocznie się za 30 sekund.<split>Wszystkie punkty kontrolne zostały permanentnie otwarte. Proszę o natychmiastową ewakuację.

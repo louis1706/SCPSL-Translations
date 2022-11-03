@@ -1,0 +1,13 @@
+Esta alma ya no está con nosotros.
+Este cadáver ha expirado.
+Esta alma ha sido revivida demasiadas veces.
+Esta alma ya no quiere ser revivida.
+Este cadáver no puede ser revivido.
+Este cadáver ya ha sido consumido.
+Solo se pueden consumir cadáveres humanos.
+ENFRIAMIENTO DE ATAQUE
+Has negado la resurrección de SCP-049.
+Pulsa [key] para negar la resurrección.
+No se ha encontrado ningún objetivo.
+Ya estás al máximo de salud.
+Este cadáver ya está siendo consumido.

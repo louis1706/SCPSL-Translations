@@ -5,7 +5,7 @@ PROCEDIMENTO DE RECONTENÇÃO\nDO SCP-106
 Inverter Eixo-Y
 RESUMO
 Cancelar
-I N V E N T O R Y
+I N V E N T Á R I O
 BRILHO
 OPÇÕES
 DESCONECTAR
@@ -27,14 +27,22 @@ RESUMO
 CONTINUAR
 VOLUME PRINCIPAL
 conectado(s)
-Você escapou como Cientista e se juntou a MTF.
-Você escapou como Classe-D e se juntou a Insurgencia do Caos.
+Você escapou como Cientista e se juntou à MTF.
+Você escapou como Classe-D e se juntou à Insurgência do Caos.
 VOCÊ É
 Tempo até a fuga: [escape_minutes] minutos e [escape_seconds] segundos
 Espere [time] para poder usar [item] novamente.
 Segure <color=white><b>F1</b></color> para mais informações.
-Você foi algemado.\n<size=40>Siga as ordens ou peça ajuda ao seus colegas de time.</size>
+Você foi algemado.\n<size=40>Siga as ordens ou peça ajuda aos seus aliados.</size>
 Você foi recapturado pela Nine-Tailed Fox.\nCom uma ameaça a menos na instalação, eles puderam se reforçar.
 Você foi aprisionado pela Insurgência do Caos.\nEles puderam tirar vantagem das informações que você forneceu.
-ROUND INICIA EM: <color=yellow>{0}</color>s
-ROUND ESTÁ <color=#FF5050>PAUSADO</color>
+RODADA INICIA EM: <color=yellow>{0}</color>s
+RODADA ESTÁ <color=#FF5050>PAUSADO</color>
+REDUÇÃO DA SENS. MIRANDO
+Pressione [key] para cancelar o arremesso.
+Alternar MIRAR
+Silenciar o bate-papo de espectador
+Ativar Redução de Ruído (recomendado)
+Automático (Padrão)
+Nenhum Microfone Detectado!
+DISPOSITIVO DE ENTRADA

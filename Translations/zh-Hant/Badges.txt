@@ -49,6 +49,11 @@ Northwood工作室 翻譯部門經理
 Northwood工作室 遊戲策劃部門經理
 SCP:SL 動畫設計師
 Northwood工作室 公关主任
-SCP:SL 助手
+SCP:SL 社區助手
 SCP:SL 配音演員
 SCP:SL 基金投資人
+Northwood工作室 主任
+SCP:SL官方 遊戲總監助理
+SCP:SL官方 技術支持主任
+SCP:SL官方 技術支持經理
+Northwood工作室 系統經理

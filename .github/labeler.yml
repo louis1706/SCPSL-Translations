@@ -1,5 +1,16 @@
 readme: 
  - README.md
+meta:
+ - .github/**/*
+ - .editorconfig
+ - .gitignore
+ - EncodingNormalizer.exe
+ - LICENSE
+ - TranslationChecker.exe
+ - TranslationManifestChecker.exe
+ - VerifySteamTranslations.ps1
+ - crowdin.yml
+ - fontfallbacks.txt
 steam-achievements:
  - Steam-Translations/Achievements/*
 steam-richpresence:
@@ -44,6 +55,8 @@ it:
 ja: 
  - Translations/ja/*
  - Steam-Translations/**/*_japanese.vdf
+kk-KZ:
+ - Translations/kk-KZ/*
 ko: 
  - Translations/ko/*
  - Steam-Translations/Rich Presence/*_koreana.vdf
@@ -72,6 +85,8 @@ ru:
  - Steam-Translations/**/*_russian.vdf
 sk: 
  - Translations/sk/*
+sr-Cyrl-BA:
+ - Translations/sr-Cyrl-BA/*
 th: 
  - Translations/th/*
  - Steam-Translations/**/*_thai.vdf

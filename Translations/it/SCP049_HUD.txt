@@ -1,0 +1,13 @@
+Quest'anima non è più con noi.
+Questo cadavere è espirato.
+Questa anima è stata rianimata troppe volte.
+Quest'anima non vuole più essere rianimata.
+Questo cadavere non può essere rianimato.
+Questo cadavere è già stato consumato.
+Solo i cadaveri umani possono essere consumati.
+TEMPO DI RICARICA PER L'ATTACCO
+Hai negato un'ulteriore rianimazione da SCP-049!
+Premi [key] per negare ulteriori rianimazioni.
+Nessun target trovato.
+Hai già tutta la vita.
+Questo cadavere è già consumato.

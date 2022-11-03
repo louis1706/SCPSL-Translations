@@ -1,0 +1,12 @@
+Naciśnij [key_attack] lub [key_jump], aby wyskoczyć.
+Odsłuchaj głos (tylko ty to usłyszysz)
+PODGLĄD
+Usuń głos (przytrzymaj)
+Transmituj głos (każdy to usłyszy)
+Zostałeś zabity przez SCP-939, który ukradł ci twój głos!
+Jeżeli nie chcesz, aby twój głos był przez niego używany, możesz wyłączyć tą funkcję.
+Zapamiętaj mój wybór
+Usuń
+OK
+Więcej informacji
+SCP-939 używa mechaniki pozwalającej na nagrywanie kilku ostatnich sekund twojej rozmowy głosowej. Może być on odtwarzany przez SCP-939, aby zwabić do siebie pozostałych graczy.\nNagrania są automatycznie usuwane jeżeli opuścisz serwer, SCP-939 zginie lub gdy runda dobiegnie końca. Wyłączenie tej funkcji spowoduje usunięcie wszystkich nagrań twojego głosu.

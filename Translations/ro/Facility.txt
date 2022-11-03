@@ -42,3 +42,7 @@ REDUCERE SENS. ȚINTIRE
 Apasă [key] pentru a anula aruncarea.
 Toggle ADS
 Dezactivează Chat-ul Spectatorilor
+Activați reducerea zgomotului (recomandat)
+Automat (Implicit De Sistem)
+Niciun Microfon Detectat!
+DISPOZITIV DE INTRARE
