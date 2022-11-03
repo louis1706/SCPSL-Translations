@@ -56,3 +56,4 @@ Directeur de studio Northwood
 Assistant directeur du Jeu SCP:SL
 Superviseur support technique Northwood
 Responsable support technique Northwood
+Responsable administrateur système Northwood
