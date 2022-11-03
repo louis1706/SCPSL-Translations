@@ -42,3 +42,7 @@ SENSIBILITÉ DE VISÉE
 Appuyez sur [key] pour annuler le lancer.
 Maintenir pour viser
 Rendre muet les spectateurs
+Activer la réduction du bruit (recommandé)
+Automatique (par défaut sur le système)
+Aucun micro détecté !
+PÉRIPHÉRIQUE D'ENTRÉE
