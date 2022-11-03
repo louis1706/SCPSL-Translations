@@ -5,7 +5,7 @@ Cette âme ne veut plus être ranimée.
 Ce cadavre ne peut pas être réanimé.
 Ce cadavre a déjà été consommé.
 Seuls les cadavres humains peuvent être consommés.
-DURÉE AVANT ATTAQUE
+COOLDOWN D'ATTAQUE
 Vous avez refusé toute autre résurrection de SCP-049 !
 Appuyez sur [key] pour refuser toute nouvelle résurrection.
 Aucune cible trouvée.
