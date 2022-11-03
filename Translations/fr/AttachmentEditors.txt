@@ -14,4 +14,4 @@ MISE HORS TENSION
 EXCTINCTION DE L'ÉTABLI
 AFFICHER LE RÉSUMÉ
 FERMER LE RÉSUMÉ
-[Attachment] 
+Personnalisation de [Attachment]
