@@ -1,13 +1,13 @@
-This soul is no longer with us.
-This corpse has expired.
-This soul has been revived too many times.
-This soul no longer wants to be revived.
-This corpse cannot be revived.
-This corpse has already been consumed.
-Only human corpses may be consumed.
-ATTACK COOLDOWN
-You have denied further resurrection from SCP-049!
-Press [key] to deny further resurrection.
-No target found.
-You're already at full health.
-This corpse is already being consumed.
+Cette âme n'est plus parmi nous.
+Ce cadavre a expiré.
+Cette âme a été ressuscitée trop de fois.
+Cette âme ne veut plus être ranimée.
+Ce cadavre ne peut pas être réanimé.
+Ce cadavre a déjà été consommé.
+Seuls les cadavres humains peuvent être consommés.
+DURÉE AVANT ATTAQUE
+Vous avez refusé toute autre résurrection de SCP-049 !
+Appuyez sur [key] pour refuser toute nouvelle résurrection.
+Aucune cible trouvée.
+Vous avez déjà toute votre santé.
+Ce cadavre est déjà en train d'être consommé.
