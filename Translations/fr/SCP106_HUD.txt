@@ -1,0 +1,3 @@
+ATTACK COOLDOWN
+Unavailable on Surface.
+Unavailable during elevator travel.
