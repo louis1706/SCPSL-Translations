@@ -6,8 +6,8 @@ Cadence de tir
 Recul
 Recul en visée
 Précision des balles
-Précision de tir
-Précision de visée
+Précision sans visée
+Précision avec visée
 Temps d'équipement
 Bruits des tirs
 Capacité du chargeur
