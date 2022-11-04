@@ -1,31 +1,31 @@
-Capacité introuvable : L'ID de capacité associé à cette capacité n'existe pas.
-Sprint : Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
-Furtif : Vos pas sont silencieux mais votre vitesse est fortement réduite.
-Inventaire : Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé en utilisant le clic gauche ou déposez-le avec le clic droit.
-Désarmé : Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
-Carte d'accès : Vous avez une carte d'accès, ce n'est pas la meilleure mais ne la perdez pas.
-Équipement standard : Vous êtes équipé d’un fusil, de grenades, d’une radio et d’une carte d’accès.
-Armé et dangereux : Vous avez une mitrailleuse légère, un outil de piratage (carte d'accès) et une trousse de secours.
-Allure Folle : Peu importe où ils se cachent, vous les trouverez en un rien de temps. Doublez votre vitesse de déplacement et votre distance lors des clignements, au prix de votre létalité. Dure jusqu'à que quelqu'un ne vous voie, ou que vous le désactiviez manuellement.
-Clignement : Une fois qu'ils ont posé les yeux sur vous, faites-leur regretter de rompre le contact visuel. Lorsque l'œil devient pourpre, maintenez et déplacez votre point de téléportation à l'endroit souhaité. Relâchez pour vous téléporter et tuer l'humain le plus proche.
-Portail : Vous pouvez placer sur le sol une tache de corrosion noire dans laquelle vous pouvez y revenir en vous téléportant à tout instant. Se téléporter prend quelques secondes.\nVous pouvez bouger l'emplacement de la tache en la créant de nouveau.
-Corrosion : Vous pouvez franchir les portes en passant à travers.
-Chant du cygne : Vous ne subissez presque aucun dommage venant des armes. Néanmoins, vous risquez d'être reconfiné en un instant si un humain se sacrifie dans votre chambre de confinement.
-Dimension de poche : Capturez un humain et envoyez-le dans une dimension de poche qui le tuera progressivement. Une fois à l'intérieur, les humains n'ont d'autre choix que de prendre la bonne sortie, ou de périr.
-Scopophobie : Vous êtes docile jusqu'à ce que vous soyez vu ou blessé ce qui vous mettra en état de rage. Atténuez cette colère en tuant ceux qui l'ont provoqué - suivez leur aura avant que votre rage ne s'estompe. Chaque nouvelle personne augmente votre bouclier qui vous empêche d'être blessé, tant qu'il est là.
-Lamentation discrète : C’en est trop, s'appuyer contre une porte aide ; Vous vous maintenez contre elle et devenez plus silencieux, vous vous calmez un peu... ou attendez que quelqu'un ne la franchisse.
-Rage anti-sociale : Semez la destruction sur votre passage afin de vous venger de ceux qui vous ont offensés. Vos attaques détruiront les portes et tueront instantanément les humains devant vous.
-Ultrasensible : Les humains faisant du bruit ou qui vous heurtent deviendront visibles.
-Prédateur : Vos pas sont silencieux. Appuyer sur la touche pour courir vous fera aller plus vite, mais rendra vos déplacements perceptibles.
-Imitation : Vous pouvez communiquer avec tous les joueurs à proximité.
-Morsure : Attaque un être humain de près infligeant des dégâts importants.
-Antidote : Toucher un être humain le tuera instantanément.
-Guérison : Réanimez un humain récemment tué. Les humains réanimés joueront en tant que zombie au mouvements rapides mais à la santé fragile.\nIl n’y a aucune limite d’êtres humains pouvant être réanimés.
-Frappe : Attaque un humain et lui inflige quelques dégâts.
-Portes : Vous pouvez interagir avec les portes pour 5 unités de Puissance Auxiliaire (PA). Vous pouvez également les verrouiller en utilisant votre PA. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court de PA.
-Décharge Tesla : Vous pouvez déclencher instantanément une Tesla pour 50 unités de PA, tuant ainsi tous les joueurs qui se trouvent à portée.
-Confinement : À partir du niveau d'accès 2, vous pouvez verrouiller certaines pièces ce qui éteindra toutes les lumières et bloquera toutes les issues. Les humains se trouvant dans la salle verrouillée ne peuvent plus voir SCP-173.
-Pratiquement indestructible : Trois générateurs apparaissent dans la zone de confinement lourd. Si tous sont déverrouillés et activés, vous serez confiné.\nLes générateurs ont un compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton d'annulation du générateur.
-Béton Armé : Acceptez leurs regards d'admiration, mais dites non au vandalisme. Vous avez une résistance aux coups de feu mais elle dépendra du taux de pénétration des balles.
-Charge : Coupez court aux évasions, ils le mérient. Foncez droit devant en démolissant n'importe quoi. Si vous tentez de passer à travers une porte blindée, vous pouvez la forcer.
-Crise de colère : Faites-leur connaître votre fureur. Créez une mare de saletés qui tâche et inhibe considérablement la mobilité des humains la traversant. Tuer des humains souillés vous fera récupérer rapidement une partie de votre bouclier.
+Capacité introuvable:L'ID de capacité associé à cette capacité n'existe pas.
+Sprint:Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
+Furtif:Vos pas sont silencieux, mais votre vitesse est fortement réduite.
+Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé en utilisant le clic gauche ou déposez-le avec le clic droit.
+Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
+Carte d'accès:Vous avez une carte d'accès, ce n'est pas la meilleure, mais ne la perdez pas.
+Équipement standard:Vous êtes équipé d’un fusil, de grenades, d’une radio et d’une carte d’accès.
+Armé et dangereux:Vous avez une mitrailleuse légère, un outil de piratage (carte d'accès) et une trousse de secours.
+Allure Folle:Peu importe où ils se cachent, vous les trouverez en un rien de temps. Doublez votre vitesse de déplacement et votre distance lors des clignements, au prix de votre létalité. Dure jusqu'à que quelqu'un ne vous voie, ou que vous le désactiviez manuellement.
+Clignement:Une fois qu'ils ont posé les yeux sur vous, faites-leur regretter de rompre le contact visuel. Lorsque l'œil devient pourpre, maintenez et déplacez votre point de téléportation à l'endroit souhaité. Relâchez pour vous téléporter et tuer l'humain le plus proche.
+Portail:Vous pouvez placer sur le sol une tache de corrosion noire dans laquelle vous pouvez y revenir en vous téléportant à tout instant. Se téléporter prend quelques secondes.\nVous pouvez bouger l'emplacement de la tache en la créant de nouveau.
+Corrosion:Vous pouvez franchir les portes en passant à travers.
+Chant du cygne:Vous ne subissez presque aucun dommage venant des armes. Néanmoins, vous risquez d'être reconfiné en un instant si un humain se sacrifie dans votre chambre de confinement.
+Dimension de poche:Capturez un humain et envoyez-le dans une dimension de poche qui le tuera progressivement. Une fois à l'intérieur, les humains n'ont d'autre choix que de prendre la bonne sortie, ou de périr.
+Scopophobie:Vous êtes docile jusqu'à ce que vous soyez vu ou blessé, ce qui vous mettra en état de rage. Atténuez cette colère en tuant ceux qui l'ont provoqué - suivez leur aura avant que votre rage ne s'estompe. Chaque nouvelle personne augmente votre bouclier qui vous empêche d'être blessé, tant qu'il est là.
+Lamentation discrète:C’en est trop, s'appuyer contre une porte aide ; vous vous maintenez contre elle et devenez plus silencieux, vous vous calmez un peu... ou attendez que quelqu'un la franchisse.
+Rage anti-sociale:Semez la destruction sur votre passage afin de vous venger de ceux qui vous ont offensés. Vos attaques détruiront les portes et tueront instantanément les humains devant vous.
+Ultrasensible:Les humains faisant du bruit ou qui vous heurtent deviendront visibles.
+Prédateur:Vos pas sont silencieux. Appuyer sur la touche pour courir vous fera aller plus vite, mais rendra vos déplacements perceptibles.
+Imitation:Vous pouvez communiquer avec tous les joueurs à proximité.
+Morsure:Attaque un être humain de près, infligeant des dégâts importants.
+Antidote:Toucher un être humain le tuera instantanément.
+Guérison:Réanimez un humain récemment tué. Les humains réanimés joueront en tant que zombie aux mouvements rapides, mais à la santé fragile.\nIl n’y a aucune limite d’êtres humains pouvant être réanimés.
+Frappe:Attaque un humain et lui inflige quelques dégâts.
+Portes:Vous pouvez interagir avec les portes pour 5 unités de Puissance Auxiliaire (PA). Vous pouvez également les verrouiller en utilisant votre PA. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court de PA.
+Décharge Tesla:Vous pouvez déclencher instantanément une Tesla pour 50 unités de PA, tuant ainsi tous les joueurs qui se trouvent à portée.
+Confinement:À partir du niveau d'accès 2, vous pouvez verrouiller certaines pièces, ce qui éteindra toutes les lumières et bloquera toutes les issues. Les humains se trouvant dans la salle verrouillée ne peuvent plus voir SCP-173.
+Pratiquement indestructible:Trois générateurs apparaissent dans la zone de confinement lourd. Si tous sont déverrouillés et activés, vous serez confiné.\nLes générateurs ont un compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton d'annulation du générateur.
+Béton Armé:Acceptez leurs regards d'admiration, mais dites non au vandalisme. Vous avez une résistance aux coups de feu, mais elle dépendra du taux de pénétration des balles.
+Charge:Coupez court aux évasions, ils le méritent. Foncez droit devant en démolissant n'importe quoi. Si vous tentez de passer à travers une porte blindée, vous pouvez la forcer.
+Crise de colère:Faites-leur connaître votre fureur. Créez une mare de saletés qui tâche et inhibe considérablement la mobilité des humains la traversant. Tuer des humains souillés vous fera récupérer rapidement une partie de votre bouclier.
