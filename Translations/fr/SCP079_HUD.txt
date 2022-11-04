@@ -54,3 +54,14 @@ $CONFINEMENT$ : maintenant disponible - appuyez sur $[key]$ pour verrouiller tem
 +[amount] EXP - Aide à la poursuite d'un coéquipier
 +[amount] EXP - Protection de coéquipier(s)
 +[amount] EXP - Empêchement de l'utilisation de la Micro H.I.D.
+FLUX DE CAMÉRA EN LIGNE
+BLACKOUT DE TOUTE LA ZONE ([cost])
+$BLACKOUT DE ZONE$ maintenant disponible - à côté des noms de zone sur la $Carte de la Fondation$.
+COOLDOWN DU BLACKOUT DE ZONE
+BLACKOUT DÉJÀ ACTIF
+BLACKOUT NON DISPONIBLE POUR CETTE ZONE
+FORMES DE VIE TOTALES
+CIBLES
+SUJETS SCP
+CIVIL
+MILITAIRE
