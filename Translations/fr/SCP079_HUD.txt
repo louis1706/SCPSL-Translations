@@ -56,7 +56,7 @@ $CONFINEMENT$ : maintenant disponible - appuyez sur $[key]$ pour verrouiller tem
 +[amount] EXP - Empêchement de l'utilisation de la Micro H.I.D.
 FLUX DE CAMÉRA EN LIGNE
 BLACKOUT DE TOUTE LA ZONE ([cost])
-$BLACKOUT DE ZONE$ maintenant disponible - à côté des noms de zone sur la $Carte de la Fondation$.
+$BLACKOUT DE ZONE$ désormais disponible - à côté des noms de zone sur la $Carte de la Fondation$.
 COOLDOWN DU BLACKOUT DE ZONE
 BLACKOUT DÉJÀ ACTIF
 BLACKOUT NON DISPONIBLE POUR CETTE ZONE
