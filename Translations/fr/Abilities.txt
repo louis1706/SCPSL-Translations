@@ -22,8 +22,8 @@ Morsure : Attaque un être humain de près infligeant des dégâts importants.
 Antidote : Toucher un être humain le tuera instantanément.
 Guérison : Réanimez un humain récemment tué. Les humains réanimés joueront en tant que zombie au mouvements rapides mais à la santé fragile.\nIl n’y a aucune limite d’êtres humains pouvant être réanimés.
 Frappe : Attaque un humain et lui inflige quelques dégâts.
-Portes : Vous pouvez interagir avec les portes pour 5 unités d'énergie. Vous pouvez également les verrouiller en utilisant votre énergie. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court d'énergie.
-Décharge Tesla : Vous pouvez déclencher instantanément une Tesla pour 50 unités d'énergie, tuant ainsi tous les joueurs qui se trouvent à portée.
+Portes : Vous pouvez interagir avec les portes pour 5 unités de Puissance Auxiliaire (PA). Vous pouvez également les verrouiller en utilisant votre PA. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court de PA.
+Décharge Tesla : Vous pouvez déclencher instantanément une Tesla pour 50 unités de PA, tuant ainsi tous les joueurs qui se trouvent à portée.
 Confinement : À partir du niveau d'accès 2, vous pouvez verrouiller certaines pièces ce qui éteindra toutes les lumières et bloquera toutes les issues. Les humains se trouvant dans la salle verrouillée ne peuvent plus voir SCP-173.
 Pratiquement indestructible : Trois générateurs apparaissent dans la zone de confinement lourd. Si tous sont déverrouillés et activés, vous serez confiné.\nLes générateurs ont un compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton d'annulation du générateur.
 Béton Armé : Acceptez leurs regards d'admiration, mais dites non au vandalisme. Vous avez une résistance aux coups de feu mais elle dépendra du taux de pénétration des balles.
