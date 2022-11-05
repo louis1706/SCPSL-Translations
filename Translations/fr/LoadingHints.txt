@@ -7,7 +7,7 @@ Les Classes-D rejoignent l'Insurrection du Chaos, tandis que les Scientifiques �
 L'adrénaline peut être utilisée pour regagner instantanément votre endurance et vous donne un avantage au combat.
 Les radios ont quatre réglages de portée. Plus la portée est longue, plus la batterie se décharge rapidement.
 Les unités de la Force d'Intervention Mobile et les Insurgés du Chaos arrivent aux extrémités opposées de la Zone Extérieur.
-L'Ogive Alpha tue tout ce qui se trouve à l'intérieur de la Fondation lorsqu'elle explose. Elle peut être activée depuis la surface.
+L'Ogive Alpha tue tout ce qui se trouve à l'intérieur de la Fondation lorsqu'elle explose. Elle peut être activée depuis l'Extérieur.
 La détonation de l'Ogive Alpha peut être annulée depuis sa chambre dans la Zone de Confinement Lourd.
 L'Intercom dans la Zone d'Entrée peut être utilisé pour diffuser un message vocal à tous les joueurs.
 Vous pouvez jeter des objets ("T" par défaut). Cela peut être utilisé avec une carte pour ouvrir les portes à distance ou pour briser une vitre.
