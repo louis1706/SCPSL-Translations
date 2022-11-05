@@ -16,7 +16,7 @@
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
 <size=80>INCOMPATIBILITÉE DE VERSION</size>\nLa version de votre jeu est différente du serveur\n(La votre : [your]; Celle du serveur : [serveur])
 <size=80>CONNEXION</size>\n<size=35>Chargement de la partie...</size>
-<size=35>Chargement de l'installation...</size>
+<size=35>Chargement de la fondation...</size>
 <size=80>DÉCONNECTÉ</size>\nUne erreur non spécifiée s'est produite sur le serveur.
 <size=80>DÉCONNECTÉ</size>\nCe serveur nécessite une authentification par les serveurs centraux.
 <size=80>DÉCONNECTÉ</size>\nVous n'êtes pas sur la whitelist de ce serveur.
