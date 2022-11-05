@@ -21,8 +21,8 @@ Augmenter la luminosité <b>diminue l'immersion</b> dans le jeu.\n<b>Il est reco
 PORTE VERROUILLÉE PAR SCP-079
 Mode plein écran
 Êtes-vous sûr de vouloir quitter le serveur ?
-Options de base : pour modifier autre chose, retournez au menu principal.
-EN ATTENTE DE JOUEURS\n
+Options de base : Liste complète des paramètres dans le menu.
+EN ATTENTE DE JOUEURS
 RÉSUMÉ
 CONTINUER
 VOLUME PRINCIPAL
@@ -32,7 +32,7 @@ Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
 Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] pour pouvoir réutiliser [item].
-Appuyez sur <color=white><b>F1</b></color> pour obtenir de l'aide
+Appuyez sur <color=yellow><b>F1</b></color> pour plus de détails.
 Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vos coéquipiers</size>
 Vous avez été recapturé par les Nine-Tailed Fox.\nAvec une menace en moins, ils ont pu renforcer les troupes.
 Vous avez été fait prisonnier par l'Insurrection du Chaos.\nIls ont pu prendre avantage des informations que vous leur avez fournies.
