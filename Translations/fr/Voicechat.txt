@@ -13,7 +13,7 @@ Refuser
 Capture du microphone
 Autorisez le jeu à capturer votre microphone et à le transmettre aux utilisateurs lorsque les touches de communication sont enfoncées. Une icône de microphone s'affichera en bas de l'écran, indiquant la transmission active. Le jeu ne transmettra jamais ou n'utilisera jamais votre microphone sans que l'indicateur ne soit visible.
 Enregistrements courts
-Autorisez les mécanismes de jeu à utiliser de courts enregistrements de votre voix. Cela inclut la capacité "Prédateur aux Mille-Voix" de SCP-939, qui peut enregistrer et lire de courts échantillons de voix de joueurs tués. Tous les enregistrements sont supprimés au moment où vous quittez le serveur ou une fois que la partie redémarre.
+Autorisez les mécanismes de jeu à utiliser de courts enregistrements de votre voix. Cela inclut la capacité "Mille-Voix" de SCP-939, qui peut enregistrer et lire de courts échantillons de voix de joueurs tués. Tous les enregistrements sont supprimés au moment où vous quittez le serveur ou une fois que la partie redémarre.
 Appliquer les paramètres
 Retour
 Appuyez sur "[key]" et accédez à "Paramètres" pour faire les réglages.
