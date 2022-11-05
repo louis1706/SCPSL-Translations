@@ -1,7 +1,7 @@
 Signaler un joueur
-Cible:\nID du joueur:\nDescription:
+Cible :\nID du joueur :\nDescription :
 Annuler
-<size=20>Signaler pour violation des règles du serveur</size>
+<size=23>Signaler pour violation des règles du serveur</size>
 Signaler pour tricherie ou raid
 REPORT
 Veuillez patienter...
