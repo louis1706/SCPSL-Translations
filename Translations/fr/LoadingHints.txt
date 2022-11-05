@@ -1,12 +1,12 @@
 Vous pouvez désarmer un joueur en interagissant avec lui tout en tenant une arme à feu.
-Il y a quatre zones principales dans la Fondation :  Confinement Léger, Confinement Lourd, l'Entrée et la Surface.
-Les Scientifiques et les Classe-D doivent atteindre la surface pour s'échapper.
-La Zone d'Entrée possède deux portes permettant l'accès à la surface. Vous aurez besoin d'une carte pour les ouvrir.
+Il y a quatre zones principales dans la Fondation :  Confinement Léger, Confinement Lourd, l'Entrée et l'Extérieur.
+Les Scientifiques et les Classes-D doivent atteindre l'extérieur pour s'échapper.
+La Zone d'Entrée possède deux portes permettant l'accès à l'extérieur. Vous aurez besoin d'une carte pour les ouvrir.
 Utiliser un ascenseur est un moyen rapide et facile d'échapper à la plupart des SCP.
-Les Classe-D rejoignent l'Insurrection du Chaos, tandis que les scientifiques évadés deviennent MTF.
+Les Classes-D rejoignent l'Insurrection du Chaos, tandis que les Scientifiques évadés deviennent MTF.
 L'adrénaline peut être utilisée pour regagner instantanément votre endurance et vous donne un avantage au combat.
 Les radios ont quatre réglages de portée. Plus la portée est longue, plus la batterie se décharge rapidement.
-Les unités de la Force d'Intervention Mobile et les Insurgés du Chaos arrivent aux extrémités opposées de la Zone de Surface.
+Les unités de la Force d'Intervention Mobile et les Insurgés du Chaos arrivent aux extrémités opposées de la Zone Extérieur.
 L'Ogive Alpha tue tout ce qui se trouve à l'intérieur de la Fondation lorsqu'elle explose. Elle peut être activée depuis la surface.
 La détonation de l'Ogive Alpha peut être annulée depuis sa chambre dans la Zone de Confinement Lourd.
 L'Intercom dans la Zone d'Entrée peut être utilisé pour diffuser un message vocal à tous les joueurs.
@@ -37,7 +37,7 @@ SCP-018 est hautement imprévisible. Quand il est lancé, mettez-vous à couvert
 SCP-018 peut être utilisé pour bloquer des poursuivants lorsqu'il rebondit dans un couloir.
 SCP-914 peut transformer tous les objets, y compris les armes et les munitions.
 SCP-914 peut recharger les radios et la Micro H.I.D.
-SCP-079 est relativement faible en début de partie, mais devient plus puissant au fur et à mesure.
+SCP-079 est relativement faible en début de partie, mais devient plus puissant au fur et à mesure de la partie.
 SCP-079 peut verrouiller les portes, éteindre les lumières et surcharger les Tesla.
 Une Tesla surveillée par SCP-079 apparaîtra toujours active.
 SCP-079 ne peut pas éteindre les lumières dans une pièce avec une porte cassée.
