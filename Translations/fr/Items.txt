@@ -41,3 +41,4 @@
 45~SCP-244-B~Un ancien vase, très froid au toucher. Crée un large brouillard glacial lorsqu'il est placé.
 46~SCP-1853~Améliore les compétences de manipulation des armes au prix d'une utilisation plus élevée de l'endurance.
 47~Perturbateur Moléculaire 3-X
+48~COM-45
