@@ -10,3 +10,5 @@ Effacer
 OK
 Plus d'information
 SCP-939 utilise un mécanisme où les dernières secondes de votre transmission de chat vocal sont temporairement enregistrées. Elle peut être jouée par SCP-939 pour attirer des cibles.\nLes enregistrements sont automatiquement supprimés si vous quittez le serveur, si SCP-939 meurt ou lors du redémarrage de la partie. La désactivation de cette fonction supprimera tous les enregistrements existants de vos transmissions.
+Le nuage ne peut pas être déployé à cette position.
+La taille minimale du nuage n'a pas été atteinte.\nMaintenez la touche de déploiement plus longtemps.
