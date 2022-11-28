@@ -17,3 +17,7 @@ Autorisez les mécanismes de jeu à utiliser de courts enregistrements de votre 
 Appliquer les paramètres
 Retour
 Appuyez sur "[key]" et accédez à "Paramètres" pour faire les réglages.
+Couper le son des joueurs en vie
+Couper le son des spectateurs
+Mise en sourdine du lobby
+Mise en sourdine du chat global
