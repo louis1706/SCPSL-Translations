@@ -97,3 +97,4 @@ Fait clignoter la barre des tâches lorsque vous apparaissez et que vous n'êtes
 Lisse les lignes et supprime les distorsions visuelles.
 Synchronise la fréquence d'images du jeu avec la fréquence de rafraîchissement de votre écran pour empecher des artefacts visuels.
 Textures projetées telles que des impacts de balles ou des éclaboussures de sang.
+Activer pour changer certains éléments lumineux en version sombre.
