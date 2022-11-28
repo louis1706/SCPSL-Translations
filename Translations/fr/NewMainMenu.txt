@@ -91,3 +91,4 @@ Occlusion Ambiante
 Lumières Volumétriques
 Flou lumineux
 Activer les sous-titres
+Activer le Mode Sombre
