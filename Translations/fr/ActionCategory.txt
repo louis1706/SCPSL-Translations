@@ -2,7 +2,7 @@ Gameplay
 Armes
 Mouvement
 Touches de raccourci
-Comms
+Communication
 Système
-Unbindable
+Non liable
 SCP-079
